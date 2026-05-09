@@ -1,0 +1,11 @@
+{
+  "name": "mechustle",
+  "version": "1.0.0",
+  "description": "SILE Programme Dashboard — Python scraper + static frontend",
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

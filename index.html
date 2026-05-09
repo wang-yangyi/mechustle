@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Programme Dashboard</title>
+<style>
+/* ── reset & base ─────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --brand:        #1a3a5c;
+  --brand-light:  #e8f0f9;
+  --accent-mec:   #b03a2e;
+  --accent-mec-bg:#fdecea;
+  --accent-cpd:   #1a6e9e;
+  --accent-cpd-bg:#e6f2fa;
+  --accent-gold:  #7d5a00;
+  --accent-gold-bg:#fff8e1;
+  --surface:      #ffffff;
+  --surface-alt:  #f5f7fa;
+  --border:       #dde3ec;
+  --text:         #1c2533;
+  --text-muted:   #5a6a80;
+  --text-light:   #8898aa;
+  --green:        #197a44;
+  --green-bg:     #e7f5ee;
+  --radius:       8px;
+  --radius-lg:    12px;
+  --shadow:       0 1px 3px rgba(0,0,0,.08), 0 1px 2px rgba(0,0,0,.04);
+  --shadow-md:    0 4px 12px rgba(0,0,0,.1);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: var(--surface-alt);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+/* ── layout ──────────────────────────────────────────────────────────── */
+.page { max-width: 1280px; margin: 0 auto; padding: 0 20px 60px; }
+
+/* ── header ─────────────────────────────────────────────────────────── */
+header {
+  background: var(--brand);
+  color: #fff;
+  padding: 0 20px;
+}
+.header-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 0;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.header-logo { display: flex; align-items: center; gap: 12px; }
+.header-logo svg { width: 32px; height: 32px; opacity: .9; }
+.header-logo h1 { font-size: 18px; font-weight: 600; letter-spacing: -.2px; }
+.header-logo p  { font-size: 12px; opacity: .75; margin-top: 1px; }
+.header-meta { font-size: 12px; opacity: .7; text-align: right; }
+.header-meta span { display: block; }
+#lastUpdated { opacity: .85; }
+
+/* ── stat cards ─────────────────────────────────────────────────────── */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+  margin: 24px 0 20px;
+}
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 16px 18px;
+  box-shadow: var(--shadow);
+}
+.stat-label { font-size: 11px; font-weight: 600; text-transform: uppercase;
+              letter-spacing: .5px; color: var(--text-muted); margin-bottom: 6px; }
+.stat-value { font-size: 26px; font-weight: 700; color: var(--text); line-height: 1; }
+.stat-card.mec  .stat-value { color: var(--accent-mec); }
+.stat-card.cpd  .stat-value { color: var(--accent-cpd); }
+.stat-card.mand .stat-value { color: var(--accent-gold); }
+
+/* ── filter panel ───────────────────────────────────────────────────── */
+.filter-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 18px 20px;
+  box-shadow: var(--shadow);
+  margin-bottom: 16px;
+}
+.filter-title {
+  font-size: 12px; font-weight: 600; text-transform: uppercase;
+  letter-spacing: .5px; color: var(--text-muted); margin-bottom: 14px;
+}
+.filter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 12px;
+  align-items: end;
+}
+.fg { display: flex; flex-direction: column; gap: 5px; }
+.fg label { font-size: 12px; font-weight: 500; color: var(--text-muted); }
+.fg input, .fg select {
+  height: 36px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0 10px;
+  font-size: 13px;
+  color: var(--text);
+  background: var(--surface);
+  width: 100%;
+  transition: border-color .15s;
+}
+.fg input:focus, .fg select:focus {
+  outline: none;
+  border-color: var(--brand);
+  box-shadow: 0 0 0 3px rgba(26,58,92,.1);
+}
+.filter-actions {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+.btn {
+  height: 36px;
+  padding: 0 16px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background .15s, border-color .15s;
+  white-space: nowrap;
+}
+.btn-primary {
+  background: var(--brand);
+  border-color: var(--brand);
+  color: #fff;
+}
+.btn-primary:hover { background: #102840; }
+.btn-secondary { background: var(--surface); color: var(--text); }
+.btn-secondary:hover { background: var(--surface-alt); }
+
+/* ── active filter tags ─────────────────────────────────────────────── */
+.active-filters { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; min-height: 0; }
+.filter-tag {
+  display: inline-flex; align-items: center; gap: 5px;
+  background: var(--brand-light); color: var(--brand);
+  border: 1px solid #c0d4ec;
+  border-radius: 20px; font-size: 12px; font-weight: 500;
+  padding: 3px 10px 3px 12px;
+}
+.filter-tag button {
+  background: none; border: none; cursor: pointer;
+  color: var(--brand); font-size: 14px; line-height: 1;
+  padding: 0; margin: 0; display: flex; align-items: center;
+}
+.filter-tag button:hover { color: var(--accent-mec); }
+
+/* ── result bar ─────────────────────────────────────────────────────── */
+.result-bar {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; margin-bottom: 10px; flex-wrap: wrap;
+}
+.result-count { font-size: 13px; color: var(--text-muted); }
+.result-count strong { color: var(--text); }
+.sort-controls { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--text-muted); }
+.sort-controls select {
+  height: 32px; border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 0 8px;
+  font-size: 13px; color: var(--text); background: var(--surface);
+}
+
+/* ── table ──────────────────────────────────────────────────────────── */
+.table-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+.table-scroll { overflow-x: auto; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+thead th {
+  background: var(--surface-alt);
+  border-bottom: 1px solid var(--border);
+  padding: 10px 14px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+}
+thead th:hover { color: var(--text); }
+thead th.sorted { color: var(--brand); }
+thead th .arr { font-size: 10px; margin-left: 3px; }
+tbody tr { border-bottom: 1px solid var(--border); transition: background .1s; }
+tbody tr:last-child { border-bottom: none; }
+tbody tr:hover { background: #f9fbfd; }
+td { padding: 11px 14px; vertical-align: top; }
+
+/* col widths */
+.col-date  { width: 85px; }
+.col-title { min-width: 260px; }
+.col-org   { width: 140px; }
+.col-area  { width: 150px; }
+.col-lvl   { width: 100px; }
+.col-seg   { width: 110px; }
+.col-pts   { width: 80px; text-align: center !important; }
+.col-link  { width: 56px; text-align: center !important; }
+
+/* ── badges ─────────────────────────────────────────────────────────── */
+.badge {
+  display: inline-block;
+  font-size: 11px; font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 20px;
+  white-space: nowrap;
+  margin-right: 3px;
+  margin-bottom: 2px;
+}
+.badge-mec      { background: var(--accent-mec-bg); color: var(--accent-mec); }
+.badge-cpd      { background: var(--accent-cpd-bg); color: var(--accent-cpd); }
+.badge-mandatory{ background: var(--accent-gold-bg); color: var(--accent-gold); }
+.badge-webinar  { background: var(--green-bg); color: var(--green); }
+.badge-hybrid   { background: #eef0fb; color: #3a3e9e; }
+.badge-inperson { background: var(--surface-alt); color: var(--text-muted);
+                  border: 1px solid var(--border); }
+
+/* ── points display ─────────────────────────────────────────────────── */
+.pts-wrap { text-align: center; }
+.pts-num  { font-size: 17px; font-weight: 700; display: block; line-height: 1.2; }
+.pts-num.mec { color: var(--accent-mec); }
+.pts-num.cpd { color: var(--accent-cpd); }
+.pts-label{ font-size: 10px; font-weight: 600; letter-spacing: .4px;
+            text-transform: uppercase; opacity: .7; }
+
+/* ── title cell ─────────────────────────────────────────────────────── */
+.title-link {
+  color: var(--brand);
+  text-decoration: none;
+  font-weight: 500;
+  line-height: 1.4;
+  display: block;
+}
+.title-link:hover { text-decoration: underline; }
+.title-badges { margin-top: 4px; }
+
+/* ── date cell ──────────────────────────────────────────────────────── */
+.date-main  { font-weight: 600; font-size: 13px; white-space: nowrap; }
+.date-to    { font-size: 11px; color: var(--text-light); white-space: nowrap; }
+
+/* ── external link btn ──────────────────────────────────────────────── */
+.ext-link {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 28px; height: 28px;
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  transition: background .15s, color .15s;
+}
+.ext-link:hover { background: var(--brand-light); color: var(--brand); }
+
+/* ── empty / loading / error states ────────────────────────────────── */
+.state-box {
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  padding: 60px 20px;
+  text-align: center;
+  color: var(--text-muted);
+  gap: 12px;
+}
+.state-box .icon { font-size: 40px; opacity: .4; }
+.state-box h3    { font-size: 16px; font-weight: 600; color: var(--text); }
+.state-box p     { font-size: 13px; max-width: 400px; }
+.spinner {
+  width: 32px; height: 32px;
+  border: 3px solid var(--border);
+  border-top-color: var(--brand);
+  border-radius: 50%;
+  animation: spin .7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.error-banner {
+  background: var(--accent-mec-bg);
+  border: 1px solid #f5b8b4;
+  border-radius: var(--radius);
+  padding: 12px 16px;
+  font-size: 13px;
+  color: var(--accent-mec);
+  margin-bottom: 16px;
+}
+
+/* ── pagination ─────────────────────────────────────────────────────── */
+.pagination {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 12px 16px;
+  border-top: 1px solid var(--border);
+  gap: 8px; flex-wrap: wrap;
+}
+.pagination .pag-info { font-size: 12px; color: var(--text-muted); }
+.pag-btns { display: flex; gap: 4px; }
+.pag-btn {
+  min-width: 32px; height: 32px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  font-size: 13px; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  padding: 0 8px;
+  color: var(--text);
+  transition: background .15s;
+}
+.pag-btn:hover:not(:disabled) { background: var(--surface-alt); }
+.pag-btn:disabled { opacity: .4; cursor: not-allowed; }
+.pag-btn.active {
+  background: var(--brand); border-color: var(--brand); color: #fff;
+}
+
+/* ── responsive ─────────────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .col-org, .col-area, .col-seg { display: none; }
+  .header-meta { display: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- ── HEADER ─────────────────────────────────────────────────── -->
+<header>
+  <div class="header-inner">
+    <div class="header-logo">
+      <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect width="32" height="32" rx="6" fill="rgba(255,255,255,0.15)"/>
+        <rect x="7" y="8" width="18" height="2.5" rx="1.25" fill="white"/>
+        <rect x="7" y="13.5" width="12" height="2.5" rx="1.25" fill="white"/>
+        <rect x="7" y="19" width="15" height="2.5" rx="1.25" fill="white"/>
+      </svg>
+      <div>
+        <h1>SILE Programme Dashboard</h1>
+        <p>Singapore Institute of Legal Education</p>
+      </div>
+    </div>
+    <div class="header-meta">
+      <span>Last scraped:</span>
+      <span id="lastUpdated">—</span>
+    </div>
+  </div>
+</header>
+
+<!-- ── PAGE BODY ──────────────────────────────────────────────── -->
+<div class="page">
+
+  <!-- stat cards -->
+  <div class="stats">
+    <div class="stat-card">
+      <div class="stat-label">Total programmes</div>
+      <div class="stat-value" id="sTotal">—</div>
+    </div>
+    <div class="stat-card mec">
+      <div class="stat-label">MEC programmes</div>
+      <div class="stat-value" id="sMec">—</div>
+    </div>
+    <div class="stat-card cpd">
+      <div class="stat-label">CPD programmes</div>
+      <div class="stat-value" id="sCpd">—</div>
+    </div>
+    <div class="stat-card mand">
+      <div class="stat-label">Mandatory (★)</div>
+      <div class="stat-value" id="sMand">—</div>
+    </div>
+  </div>
+
+  <!-- error banner (hidden by default) -->
+  <div class="error-banner" id="errBanner" style="display:none"></div>
+
+  <!-- filter panel -->
+  <div class="filter-panel">
+    <div class="filter-title">&#9660; Filters</div>
+    <div class="filter-grid">
+
+      <div class="fg">
+        <label for="fDateFrom">Date from</label>
+        <input type="date" id="fDateFrom">
+      </div>
+
+      <div class="fg">
+        <label for="fDateTo">Date to</label>
+        <input type="date" id="fDateTo">
+      </div>
+
+      <div class="fg">
+        <label for="fPtType">Points type</label>
+        <select id="fPtType">
+          <option value="all">All types</option>
+          <option value="mec">MEC points only</option>
+          <option value="cpd">CPD points only</option>
+        </select>
+      </div>
+
+      <div class="fg">
+        <label for="fFormat">Format</label>
+        <select id="fFormat">
+          <option value="all">All formats</option>
+          <option value="Webinar / Online">Webinar / Online</option>
+          <option value="Hybrid">Hybrid</option>
+          <option value="In-person">In-person</option>
+        </select>
+      </div>
+
+      <div class="fg">
+        <label for="fSearch">Search title / organiser</label>
+        <input type="text" id="fSearch" placeholder="e.g. arbitration, SMU…">
+      </div>
+
+    </div>
+
+    <div class="filter-actions" style="margin-top:14px">
+      <button class="btn btn-primary" onclick="applyFilters()">Apply filters</button>
+      <button class="btn btn-secondary" onclick="resetFilters()">Reset all</button>
+    </div>
+  </div>
+
+  <!-- active filter tags -->
+  <div class="active-filters" id="activeTags"></div>
+
+  <!-- result bar -->
+  <div class="result-bar">
+    <div class="result-count" id="resultCount"></div>
+    <div class="sort-controls">
+      <label for="sortSel">Sort by</label>
+      <select id="sortSel" onchange="applySort()">
+        <option value="dateFrom-asc">Date ↑ (earliest first)</option>
+        <option value="dateFrom-desc">Date ↓ (latest first)</option>
+        <option value="ptsValue-desc">Points ↓ (highest first)</option>
+        <option value="ptsValue-asc">Points ↑ (lowest first)</option>
+        <option value="title-asc">Title A–Z</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- main table card -->
+  <div class="table-card">
+    <div class="table-scroll" id="tableScroll">
+      <div class="state-box">
+        <div class="spinner"></div>
+        <h3>Loading programmes…</h3>
+        <p>Fetching the latest CALAS data.</p>
+      </div>
+    </div>
+    <div class="pagination" id="paginationBar" style="display:none"></div>
+  </div>
+
+</div><!-- /page -->
+
+<script>
+/* ── state ──────────────────────────────────────────────────────────── */
+let ALL_EVENTS  = [];
+let filtered    = [];
+let currentPage = 1;
+const PAGE_SIZE = 50;
+
+/* ── helpers ────────────────────────────────────────────────────────── */
+function fmtDate(iso) {
+  if (!iso) return '—';
+  const [y, m, d] = iso.split('-');
+  const months = ['Jan','Feb','Mar','Apr','May','Jun',
+                  'Jul','Aug','Sep','Oct','Nov','Dec'];
+  return `${+d} ${months[+m-1]} ${y}`;
+}
+
+function formatBadge(fmt) {
+  if (!fmt) return '';
+  if (fmt === 'Webinar / Online') return `<span class="badge badge-webinar">Webinar</span>`;
+  if (fmt === 'Hybrid')           return `<span class="badge badge-hybrid">Hybrid</span>`;
+  return `<span class="badge badge-inperson">In-person</span>`;
+}
+
+/* ── load data ──────────────────────────────────────────────────────── */
+async function loadData() {
+  try {
+    const res = await fetch('events.json?' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+
+    if (!data.events || data.events.length === 0) {
+      showEmptyState('No data yet',
+        'The scraper has not run yet. Trigger the GitHub Action manually, or run <code>npm run scrape</code> locally and commit events.json.');
+      return;
+    }
+
+    ALL_EVENTS = data.events;
+
+    // last-updated header
+    if (data.generatedAt) {
+      const d = new Date(data.generatedAt);
+      document.getElementById('lastUpdated').textContent =
+        d.toLocaleString('en-SG', { timeZone:'Asia/Singapore',
+          day:'numeric', month:'short', year:'numeric',
+          hour:'2-digit', minute:'2-digit' }) + ' SGT';
+    }
+
+    updateStats(ALL_EVENTS);
+    applyFilters();
+
+  } catch (err) {
+    document.getElementById('errBanner').textContent =
+      `Could not load events.json: ${err.message}. Make sure you have run the scraper at least once.`;
+    document.getElementById('errBanner').style.display = 'block';
+    showEmptyState('Failed to load data', err.message);
+  }
+}
+
+/* ── stats ──────────────────────────────────────────────────────────── */
+function updateStats(evs) {
+  const mecEvs  = evs.filter(e => e.ptsType === 'mec');
+  const cpdEvs  = evs.filter(e => e.ptsType === 'cpd');
+  const mandEvs = evs.filter(e => e.mandatory);
+
+  const avgMec = mecEvs.filter(e=>e.ptsValue).length
+    ? (mecEvs.reduce((s,e)=>s+(e.ptsValue||0),0) / mecEvs.filter(e=>e.ptsValue).length).toFixed(1)
+    : '—';
+  const avgCpd = cpdEvs.filter(e=>e.ptsValue).length
+    ? (cpdEvs.reduce((s,e)=>s+(e.ptsValue||0),0) / cpdEvs.filter(e=>e.ptsValue).length).toFixed(1)
+    : '—';
+
+  document.getElementById('sTotal').textContent = evs.length;
+  document.getElementById('sMec').textContent   = mecEvs.length;
+  document.getElementById('sCpd').textContent   = cpdEvs.length;
+  document.getElementById('sMand').textContent  = mandEvs.length;
+  document.getElementById('sAvgMec').textContent = avgMec;
+  document.getElementById('sAvgCpd').textContent = avgCpd;
+}
+
+/* ── filters ────────────────────────────────────────────────────────── */
+function getFilters() {
+  return {
+    dateFrom:  document.getElementById('fDateFrom').value,
+    dateTo:    document.getElementById('fDateTo').value,
+    ptType:    document.getElementById('fPtType').value,
+    minPts:    parseFloat(document.getElementById('fMinPts').value) || null,
+    maxPts:    parseFloat(document.getElementById('fMaxPts').value) || null,
+    level:     document.getElementById('fLevel').value,
+    format:    document.getElementById('fFormat').value,
+    mandatory: document.getElementById('fMandatory').value,
+    search:    document.getElementById('fSearch').value.trim().toLowerCase(),
+  };
+}
+
+function applyFilters() {
+  const f = getFilters();
+  filtered = ALL_EVENTS.filter(e => {
+    if (f.dateFrom && e.dateFrom && e.dateFrom < f.dateFrom) return false;
+    if (f.dateTo   && e.dateFrom && e.dateFrom > f.dateTo)   return false;
+    if (f.ptType !== 'all' && e.ptsType !== f.ptType)        return false;
+    if (f.format !== 'all' && e.format !== f.format)         return false;
+    if (f.search) {
+      const hay = (e.title + ' ' + (e.organiser||'')).toLowerCase();
+      if (!hay.includes(f.search)) return false;
+    }
+    return true;
+  });
+
+  applySort(false);    // sort without re-reading select (will be called inside)
+  currentPage = 1;
+  renderActiveTags(f);
+  renderTable();
+}
+
+function applySort(render = true) {
+  const val = document.getElementById('sortSel').value;
+  const [col, dir] = val.split('-');
+  filtered.sort((a, b) => {
+    let av = a[col], bv = b[col];
+    if (av == null) av = dir === 'asc' ? Infinity : -Infinity;
+    if (bv == null) bv = dir === 'asc' ? Infinity : -Infinity;
+    if (typeof av === 'string') av = av.toLowerCase();
+    if (typeof bv === 'string') bv = bv.toLowerCase();
+    if (av < bv) return dir === 'asc' ? -1 : 1;
+    if (av > bv) return dir === 'asc' ?  1 : -1;
+    return 0;
+  });
+  if (render) { currentPage = 1; renderTable(); }
+}
+
+function resetFilters() {
+  ['fDateFrom','fDateTo','fMinPts','fMaxPts','fSearch'].forEach(id => {
+    document.getElementById(id).value = '';
+  });
+  ['fPtType','fLevel','fFormat','fMandatory'].forEach(id => {
+    document.getElementById(id).value = 'all';
+  });
+  applyFilters();
+}
+
+/* ── active filter tags ─────────────────────────────────────────────── */
+function renderActiveTags(f) {
+  const tags = [];
+  if (f.dateFrom) tags.push(['From ' + fmtDate(f.dateFrom), () => { document.getElementById('fDateFrom').value=''; applyFilters(); }]);
+  if (f.dateTo)   tags.push(['To ' + fmtDate(f.dateTo), () => { document.getElementById('fDateTo').value=''; applyFilters(); }]);
+  if (f.ptType !== 'all') tags.push([f.ptType.toUpperCase() + ' points', () => { document.getElementById('fPtType').value='all'; applyFilters(); }]);
+  if (f.minPts !== null) tags.push(['Min ' + f.minPts + ' pts', () => { document.getElementById('fMinPts').value=''; applyFilters(); }]);
+  if (f.maxPts !== null) tags.push(['Max ' + f.maxPts + ' pts', () => { document.getElementById('fMaxPts').value=''; applyFilters(); }]);
+  if (f.level !== 'all') tags.push([f.level, () => { document.getElementById('fLevel').value='all'; applyFilters(); }]);
+  if (f.format !== 'all') tags.push([f.format, () => { document.getElementById('fFormat').value='all'; applyFilters(); }]);
+  if (f.mandatory !== 'all') tags.push([f.mandatory === 'yes' ? 'Mandatory only' : 'Non-mandatory', () => { document.getElementById('fMandatory').value='all'; applyFilters(); }]);
+  if (f.search) tags.push([`"${f.search}"`, () => { document.getElementById('fSearch').value=''; applyFilters(); }]);
+
+  const el = document.getElementById('activeTags');
+  el.innerHTML = tags.map((t,i) =>
+    `<span class="filter-tag">${t[0]}<button onclick="activeTagRemove(${i})" aria-label="Remove filter">&#x2715;</button></span>`
+  ).join('');
+  // store callbacks
+  el._cbs = tags.map(t => t[1]);
+}
+
+function activeTagRemove(i) {
+  document.getElementById('activeTags')._cbs[i]();
+}
+
+/* ── render table ───────────────────────────────────────────────────── */
+function renderTable() {
+  const total    = filtered.length;
+  const pageCount = Math.max(1, Math.ceil(total / PAGE_SIZE));
+  if (currentPage > pageCount) currentPage = pageCount;
+
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const page  = filtered.slice(start, start + PAGE_SIZE);
+
+  document.getElementById('resultCount').innerHTML =
+    `Showing <strong>${total === 0 ? 0 : start+1}–${Math.min(start+PAGE_SIZE, total)}</strong> of <strong>${total}</strong> programmes`;
+
+  if (total === 0) {
+    document.getElementById('tableScroll').innerHTML = `
+      <div class="state-box">
+        <div class="icon">&#128269;</div>
+        <h3>No programmes match your filters</h3>
+        <p>Try adjusting the date range, points type, or clearing some filters.</p>
+      </div>`;
+    document.getElementById('paginationBar').style.display = 'none';
+    return;
+  }
+
+  const rows = page.map(e => {
+    const ptsHtml = e.ptsValue != null
+      ? `<div class="pts-wrap">
+           <span class="pts-num ${e.ptsType}">${e.ptsValue}</span>
+           <span class="pts-label">${e.ptsType.toUpperCase()}</span>
+         </div>`
+      : `<span style="color:#aaa">—</span>`;
+
+    const dateCells = e.dateFrom === e.dateTo || !e.dateTo
+      ? `<div class="date-main">${fmtDate(e.dateFrom)}</div>`
+      : `<div class="date-main">${fmtDate(e.dateFrom)}</div>
+         <div class="date-to">→ ${fmtDate(e.dateTo)}</div>`;
+
+    const cleanTitle = e.title
+      .replace(/^\[WEBINAR\]\s*/i, '')
+      .replace(/^\[WEBINAR & IN-PERSON\]\s*/i, '')
+      .replace(/^\[CALS\]\s*/i, '');
+
+    const titleBadges = [
+      e.mandatory ? `<span class="badge badge-mandatory">★ Mandatory</span>` : '',
+      formatBadge(e.format),
+    ].filter(Boolean).join('');
+
+    const mecSeg = e.mecSegment && e.mecSegment !== 'NA' && e.mecSegment !== 'N/A'
+      ? `<span class="badge badge-mec">${e.mecSegment}</span>`
+      : `<span style="color:#aaa;font-size:12px">—</span>`;
+
+    return `<tr>
+      <td class="col-date">${dateCells}</td>
+      <td class="col-title">
+        <a class="title-link" href="${e.detailUrl}" target="_blank" rel="noopener">${cleanTitle}</a>
+        ${titleBadges ? `<div class="title-badges">${titleBadges}</div>` : ''}
+      </td>
+      <td class="col-org" style="font-size:12px;color:var(--text-muted)">${e.organiser || '—'}</td>
+      <td class="col-area" style="font-size:12px;color:var(--text-muted)">${e.practiceArea || '—'}</td>
+      <td class="col-lvl" style="font-size:12px">${e.trainingLevel || '—'}</td>
+      <td class="col-seg">${mecSeg}</td>
+      <td class="col-pts">${ptsHtml}</td>
+      <td class="col-link">
+        <a class="ext-link" href="${e.detailUrl}" target="_blank" rel="noopener"
+           title="Open on SILE website" aria-label="Open event on SILE website">&#8599;</a>
+      </td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('tableScroll').innerHTML = `
+    <table>
+      <colgroup>
+        <col class="col-date"><col class="col-title"><col class="col-org">
+        <col class="col-area"><col class="col-lvl"><col class="col-seg">
+        <col class="col-pts"><col class="col-link">
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="col-date">Date</th>
+          <th class="col-title">Programme</th>
+          <th class="col-org">Organiser</th>
+          <th class="col-area">Practice area</th>
+          <th class="col-lvl">Level</th>
+          <th class="col-seg">MEC segment</th>
+          <th class="col-pts">Points</th>
+          <th class="col-link"></th>
+        </tr>
+      </thead>
+      <tbody>${rows}</tbody>
+    </table>`;
+
+  renderPagination(pageCount, total, start);
+}
+
+/* ── pagination ─────────────────────────────────────────────────────── */
+function renderPagination(pageCount, total, start) {
+  const bar = document.getElementById('paginationBar');
+  if (pageCount <= 1) { bar.style.display = 'none'; return; }
+  bar.style.display = 'flex';
+
+  const end = Math.min(start + PAGE_SIZE, total);
+  let btns = '';
+
+  // always show first, last, current ± 1
+  const showPages = new Set([1, pageCount, currentPage, currentPage-1, currentPage+1]
+    .filter(p => p >= 1 && p <= pageCount));
+
+  let prev = 0;
+  [...showPages].sort((a,b)=>a-b).forEach(p => {
+    if (prev && p - prev > 1) btns += `<span class="pag-btn" disabled>…</span>`;
+    btns += `<button class="pag-btn${p===currentPage?' active':''}" onclick="goPage(${p})">${p}</button>`;
+    prev = p;
+  });
+
+  bar.innerHTML = `
+    <span class="pag-info">Showing ${start+1}–${end} of ${total}</span>
+    <div class="pag-btns">
+      <button class="pag-btn" onclick="goPage(${currentPage-1})" ${currentPage===1?'disabled':''}>&#8592;</button>
+      ${btns}
+      <button class="pag-btn" onclick="goPage(${currentPage+1})" ${currentPage===pageCount?'disabled':''}>&#8594;</button>
+    </div>`;
+}
+
+function goPage(p) {
+  currentPage = p;
+  renderTable();
+  document.querySelector('.table-card').scrollIntoView({ behavior:'smooth', block:'start' });
+}
+
+/* ── empty state helper ─────────────────────────────────────────────── */
+function showEmptyState(title, msg) {
+  document.getElementById('tableScroll').innerHTML = `
+    <div class="state-box">
+      <div class="icon">&#128196;</div>
+      <h3>${title}</h3>
+      <p>${msg}</p>
+    </div>`;
+  document.getElementById('paginationBar').style.display = 'none';
+}
+
+/* ── wire up live search ─────────────────────────────────────────────── */
+document.getElementById('fSearch').addEventListener('input', () => {
+  clearTimeout(document.getElementById('fSearch')._t);
+  document.getElementById('fSearch')._t = setTimeout(applyFilters, 300);
+});
+
+/* ── kick off ────────────────────────────────────────────────────────── */
+loadData();
+</script>
+</body>
+</html>
