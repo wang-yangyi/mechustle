@@ -360,7 +360,6 @@ td { padding: 11px 14px; vertical-align: top; }
       </svg>
       <div>
         <h1>SILE Programme Dashboard</h1>
-        <p>Singapore Institute of Legal Education</p>
       </div>
     </div>
     <div class="header-meta">
@@ -386,10 +385,6 @@ td { padding: 11px 14px; vertical-align: top; }
     <div class="stat-card cpd">
       <div class="stat-label">CPD programmes</div>
       <div class="stat-value" id="sCpd">—</div>
-    </div>
-    <div class="stat-card mand">
-      <div class="stat-label">Mandatory (★)</div>
-      <div class="stat-value" id="sMand">—</div>
     </div>
   </div>
 
@@ -467,7 +462,7 @@ td { padding: 11px 14px; vertical-align: top; }
       <div class="state-box">
         <div class="spinner"></div>
         <h3>Loading programmes…</h3>
-        <p>Fetching the latest CALAS data.</p>
+        <p>Fetching the latest data.</p>
       </div>
     </div>
     <div class="pagination" id="paginationBar" style="display:none"></div>
@@ -507,7 +502,7 @@ async function loadData() {
 
     if (!data.events || data.events.length === 0) {
       showEmptyState('No data yet',
-        'The scraper has not run yet. Trigger the GitHub Action manually, or run <code>npm run scrape</code> locally and commit events.json.');
+        'The scraper has not run yet. Trigger the GitHub Action manually, or run locally and commit events.json.');
       return;
     }
 
@@ -539,19 +534,9 @@ function updateStats(evs) {
   const cpdEvs  = evs.filter(e => e.ptsType === 'cpd');
   const mandEvs = evs.filter(e => e.mandatory);
 
-  const avgMec = mecEvs.filter(e=>e.ptsValue).length
-    ? (mecEvs.reduce((s,e)=>s+(e.ptsValue||0),0) / mecEvs.filter(e=>e.ptsValue).length).toFixed(1)
-    : '—';
-  const avgCpd = cpdEvs.filter(e=>e.ptsValue).length
-    ? (cpdEvs.reduce((s,e)=>s+(e.ptsValue||0),0) / cpdEvs.filter(e=>e.ptsValue).length).toFixed(1)
-    : '—';
-
   document.getElementById('sTotal').textContent = evs.length;
   document.getElementById('sMec').textContent   = mecEvs.length;
   document.getElementById('sCpd').textContent   = cpdEvs.length;
-  document.getElementById('sMand').textContent  = mandEvs.length;
-  document.getElementById('sAvgMec').textContent = avgMec;
-  document.getElementById('sAvgCpd').textContent = avgCpd;
 }
 
 /* ── filters ────────────────────────────────────────────────────────── */
@@ -560,11 +545,7 @@ function getFilters() {
     dateFrom:  document.getElementById('fDateFrom').value,
     dateTo:    document.getElementById('fDateTo').value,
     ptType:    document.getElementById('fPtType').value,
-    minPts:    parseFloat(document.getElementById('fMinPts').value) || null,
-    maxPts:    parseFloat(document.getElementById('fMaxPts').value) || null,
-    level:     document.getElementById('fLevel').value,
     format:    document.getElementById('fFormat').value,
-    mandatory: document.getElementById('fMandatory').value,
     search:    document.getElementById('fSearch').value.trim().toLowerCase(),
   };
 }
@@ -606,10 +587,10 @@ function applySort(render = true) {
 }
 
 function resetFilters() {
-  ['fDateFrom','fDateTo','fMinPts','fMaxPts','fSearch'].forEach(id => {
+  ['fDateFrom','fDateTo','fSearch'].forEach(id => {
     document.getElementById(id).value = '';
   });
-  ['fPtType','fLevel','fFormat','fMandatory'].forEach(id => {
+  ['fPtType','fFormat'].forEach(id => {
     document.getElementById(id).value = 'all';
   });
   applyFilters();
@@ -621,11 +602,7 @@ function renderActiveTags(f) {
   if (f.dateFrom) tags.push(['From ' + fmtDate(f.dateFrom), () => { document.getElementById('fDateFrom').value=''; applyFilters(); }]);
   if (f.dateTo)   tags.push(['To ' + fmtDate(f.dateTo), () => { document.getElementById('fDateTo').value=''; applyFilters(); }]);
   if (f.ptType !== 'all') tags.push([f.ptType.toUpperCase() + ' points', () => { document.getElementById('fPtType').value='all'; applyFilters(); }]);
-  if (f.minPts !== null) tags.push(['Min ' + f.minPts + ' pts', () => { document.getElementById('fMinPts').value=''; applyFilters(); }]);
-  if (f.maxPts !== null) tags.push(['Max ' + f.maxPts + ' pts', () => { document.getElementById('fMaxPts').value=''; applyFilters(); }]);
-  if (f.level !== 'all') tags.push([f.level, () => { document.getElementById('fLevel').value='all'; applyFilters(); }]);
   if (f.format !== 'all') tags.push([f.format, () => { document.getElementById('fFormat').value='all'; applyFilters(); }]);
-  if (f.mandatory !== 'all') tags.push([f.mandatory === 'yes' ? 'Mandatory only' : 'Non-mandatory', () => { document.getElementById('fMandatory').value='all'; applyFilters(); }]);
   if (f.search) tags.push([`"${f.search}"`, () => { document.getElementById('fSearch').value=''; applyFilters(); }]);
 
   const el = document.getElementById('activeTags');
