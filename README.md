@@ -1,4 +1,4 @@
-# CALAS Programme Dashboard
+# SILE Programme Dashboard
 
 A self-hosted dashboard that automatically scrapes all programmes from the
 [SILE CALAS listing](https://www.silecpdcentre.sg/calas/), stores them in a
