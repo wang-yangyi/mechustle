@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-10T02:33:58.105103+00:00",
-  "count": 46,
+  "generatedAt": "2026-05-11T02:43:24.685730+00:00",
+  "count": 47,
   "errorCount": 0,
   "events": [
     {
@@ -784,6 +784,23 @@
       "outline": "In this module, participants will discover the tools and ideas that are driving these big changes. They will also study the principles of innovation and how tech disruption is affecting legal services; from understanding nuances to exploring how they are changing the way lawyers do their jobs.",
       "eventLink": "https://law.smu.edu.sg/node/32561?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7535"
+    },
+    {
+      "id": 7399,
+      "title": "Certificate for Family Office Advisors - Advanced+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-22",
+      "dateTo": "2026-06-26",
+      "venue": "Wealth Management Institute, One Marina Boulevard, #16-01, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7399"
     }
   ]
 }
