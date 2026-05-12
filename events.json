@@ -1,59 +1,8 @@
 {
-  "generatedAt": "2026-05-11T02:43:24.685730+00:00",
+  "generatedAt": "2026-05-12T02:36:06.883260+00:00",
   "count": 47,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7570,
-      "title": "[WEBINAR & IN-PERSON] International Arbitration Law+",
-      "mandatory": false,
-      "format": "Hybrid",
-      "dateFrom": "2026-05-11",
-      "dateTo": "2026-05-13",
-      "venue": "Webinar / 1 Ayer Rajah Avenue, Singapore 138676",
-      "organiser": "See Event Outline",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 10.0,
-      "ptsType": "cpd",
-      "outline": "This course is organised by Paris Panthéon-Assas University, Singapore campus. This course covers the procedural framework and practical aspects of international arbitration and focusses on some common issues found in international arbitrations.",
-      "eventLink": "https://assas-international.com/international-arbitration-law/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7570"
-    },
-    {
-      "id": 7584,
-      "title": "[WEBINAR] Mediating Card Fraud & Scams: The Applicable Law & Guidelines",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-05-11",
-      "dateTo": "2026-05-11",
-      "venue": "Live Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Banking and Finance",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "This programme seeks to set out the law relating to such scams, the applicable guidelines and the grey areas that could apply, including circumstances where the facts appear contradictory.",
-      "eventLink": "https://reg.eventnook.com/event/u77491/home",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7584"
-    },
-    {
-      "id": 7611,
-      "title": "Strategic Conflict Management for Professionals Module 1+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-05-11",
-      "dateTo": "2026-05-12",
-      "venue": "SAL, Stamford 1 & 2, The Adelphi #08-08, 1 Coleman Street (S179803)",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 15.0,
-      "ptsType": "cpd",
-      "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme conducted by SAL-SMC to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions.\n\nYou will learn about the nature of conflicts and the most effective techniques to manage them. These fundamental dispute resolution strategies can be applied in diverse situations to manage work relationships within an organisation or with external parties, or to build stronger and more effective teams.",
-      "eventLink": "https://mediation.com.sg/course/strategic-conflict-management-for-professionals-module-1/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7611"
-    },
     {
       "id": 7580,
       "title": "[WEBINAR] The 2026 Anti-Money Laundering Roadmap: Strengthening Firm Infrastructure and CDD Strategies",
@@ -225,6 +174,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7516"
     },
     {
+      "id": 7615,
+      "title": "[WEBINAR] AI for Litigators: You Will Be Amazed What AI Can Do!",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-05-15",
+      "dateTo": "2026-05-15",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This webinar explores how AI is shaping litigation practice. Featuring litigators and legal tech developers, it covers real-world uses of AI in research, document review, case preparation, and workflow management. Participants will learn the benefits, limits, and responsible use of AI, and how to integrate these tools into their own legal practice.",
+      "eventLink": "https://reg.eventnook.com/event/u77543",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7615"
+    },
+    {
       "id": 7541,
       "title": "[WEBINAR] Essential Written Advocacy Series 2026: Session 1 - General Principles of Effective Legal Writing",
       "mandatory": false,
@@ -308,6 +274,23 @@
       "outline": "This seminar provides a practical construction law perspective on Environmental, Social, and Governance requirements in Singapore’s built environment sector and examines the deeper ecological context that should underpin ESG obligations. Our speakers will address the contractual allocation of ESG risks, regulatory compliance and emerging dispute issues to contribute to developing consistent industry approaches to ESG in construction law, including the evolution of standard clauses, risk allocation models and best practices.",
       "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/05/19/421/-/programme-speaker-updated-esg-in-construction-law-19-may-2026-5-00-7-30pm-gmt-8.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7599"
+    },
+    {
+      "id": 7659,
+      "title": "Reinventing the Tax Landscape: Get Future Ready!",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-05-19",
+      "dateTo": "2026-05-19",
+      "venue": "Sands Expo and Convention Centre, Begonia and Cassia Ballrooms, Level 3",
+      "organiser": "See Event Outline",
+      "practiceArea": "Tax",
+      "mecSegment": "NA",
+      "ptsValue": 5.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Tax Academy of Singapore. The programme offers participants thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.",
+      "eventLink": "https://www.taxacademy.sg/20th-anniversary-conference-2026/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7659"
     },
     {
       "id": 7254,
@@ -801,6 +784,23 @@
       "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7399"
+    },
+    {
+      "id": 7471,
+      "title": "[WEBINAR] Practical Course on Stamp Duty Rules for Common Real Estate Transactions",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-06-23",
+      "dateTo": "2026-06-23",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Real Estate",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "This session covers stamp duty treatment and implications, including BSD, ABSD and SSD; definitions of residential and industrial property; when property is acquired or disposed of; common mistakes, appeal rejections, and anti-avoidance issues. It also reviews real-life cases such as partial interests, property exchanges, estate transfers and mixed-use properties, and outlines key stamp duty remissions for spouses, families, HDB flats and developers.",
+      "eventLink": "https://reg.eventnook.com/event/u77356",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7471"
     }
   ]
 }
