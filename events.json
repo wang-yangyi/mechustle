@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-05-12T02:36:06.883260+00:00",
-  "count": 47,
+  "generatedAt": "2026-05-13T02:42:18.751200+00:00",
+  "count": 48,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7580,
-      "title": "[WEBINAR] The 2026 Anti-Money Laundering Roadmap: Strengthening Firm Infrastructure and CDD Strategies",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-05-12",
-      "dateTo": "2026-05-12",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "mec",
-      "outline": "This programme builds on Practice Direction 3.2.1 and offers practitioners a clear and practical roadmap to navigate the new requirements in 2026. Through a focused, practice-oriented approach, participants will learn how to build, implement and sustain a robust AML compliance framework that enhances organisational resilience and positions their firms to operate confidently within Singapore's evolving regulatory landscape.",
-      "eventLink": "https://reg.eventnook.com/event/u77459",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7580"
-    },
     {
       "id": 7487,
       "title": "[WEBINAR] Duties of Good Faith in Commercial Contracts",
@@ -274,6 +257,23 @@
       "outline": "This seminar provides a practical construction law perspective on Environmental, Social, and Governance requirements in Singapore’s built environment sector and examines the deeper ecological context that should underpin ESG obligations. Our speakers will address the contractual allocation of ESG risks, regulatory compliance and emerging dispute issues to contribute to developing consistent industry approaches to ESG in construction law, including the evolution of standard clauses, risk allocation models and best practices.",
       "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/05/19/421/-/programme-speaker-updated-esg-in-construction-law-19-may-2026-5-00-7-30pm-gmt-8.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7599"
+    },
+    {
+      "id": 7657,
+      "title": "CIL’s Dialogue with Pakistan’s High Commissioner Rabia Shafiq",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-05-19",
+      "dateTo": "2026-05-19",
+      "venue": "NUS Bukit Timah Campus",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. CIL’s Dialogue with Pakistan’s High Commissioner Rabia Shafiq on Pakistan’s Role as Mediator of the US-Iran Conflict.",
+      "eventLink": "https://cil.nus.edu.sg/event/cils-dialogue-with-pakistans-high-commissioner-rabia-shafiq/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7657"
     },
     {
       "id": 7659,
@@ -801,6 +801,23 @@
       "outline": "This session covers stamp duty treatment and implications, including BSD, ABSD and SSD; definitions of residential and industrial property; when property is acquired or disposed of; common mistakes, appeal rejections, and anti-avoidance issues. It also reviews real-life cases such as partial interests, property exchanges, estate transfers and mixed-use properties, and outlines key stamp duty remissions for spouses, families, HDB flats and developers.",
       "eventLink": "https://reg.eventnook.com/event/u77356",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7471"
+    },
+    {
+      "id": 7509,
+      "title": "LawNet Training Workshop (24 June 2026)",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-24",
+      "dateTo": "2026-06-24",
+      "venue": "SAL, Marina 3 Room, The Adelphi, #07-01, 1 Coleman Street S179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This training workshop guides attendees through the new features and functionalities of LawNet.com. Through walkthroughs and hands-on exercises, participants will learn how to use the revamped platform efficiently.",
+      "eventLink": "https://store.lawnet.com/lawnet-training-workshop-24-june-2026.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7509"
     }
   ]
 }
