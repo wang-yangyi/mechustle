@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-05-15T02:43:44.536442+00:00",
+  "generatedAt": "2026-05-16T02:33:08.677902+00:00",
   "count": 41,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7615,
-      "title": "[WEBINAR] AI for Litigators: You Will Be Amazed What AI Can Do!",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-05-15",
-      "dateTo": "2026-05-15",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This webinar explores how AI is shaping litigation practice. Featuring litigators and legal tech developers, it covers real-world uses of AI in research, document review, case preparation, and workflow management. Participants will learn the benefits, limits, and responsible use of AI, and how to integrate these tools into their own legal practice.",
-      "eventLink": "https://reg.eventnook.com/event/u77543",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7615"
-    },
     {
       "id": 7541,
       "title": "[WEBINAR] Essential Written Advocacy Series 2026: Session 1 - General Principles of Effective Legal Writing",
@@ -648,6 +631,23 @@
       "outline": "This session covers stamp duty treatment and implications, including BSD, ABSD and SSD; definitions of residential and industrial property; when property is acquired or disposed of; common mistakes, appeal rejections, and anti-avoidance issues. It also reviews real-life cases such as partial interests, property exchanges, estate transfers and mixed-use properties, and outlines key stamp duty remissions for spouses, families, HDB flats and developers.",
       "eventLink": "https://reg.eventnook.com/event/u77356",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7471"
+    },
+    {
+      "id": 7625,
+      "title": "The CIArb Singapore Annual Thought Leadership Lecture",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-24",
+      "dateTo": "2026-06-24",
+      "venue": "Mallesons 8 Marina View #36-01, South, Lobby Asia Square Tower 1, Singapore 018960",
+      "organiser": "Chartered Institute of Arbitrators (Singapore) Limited",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "In 2017, Professor Gaillard explored the influence of French legal thinking on international arbitration. A 2019 Paris Arbitration Week conference he organised brought together Judge Dominique Hascher and Justice Quentin Loh to discuss this, with a focus on Singapore. A decade on, this keynote reviews how Singapore’s law and practice have evolved, and how French legal thought and Gaillard’s ideas continue to shape international arbitration.",
+      "eventLink": "https://ciarbsingapore.wildapricot.org/event-6677187",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7625"
     },
     {
       "id": 7509,
