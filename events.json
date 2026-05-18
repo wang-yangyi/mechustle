@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-17T02:40:36.614030+00:00",
-  "count": 41,
+  "generatedAt": "2026-05-18T02:51:17.685433+00:00",
+  "count": 42,
   "errorCount": 0,
   "events": [
     {
@@ -699,6 +699,23 @@
       "outline": "As AI rapidly transforms the commercial and legal landscape, in-house counsel are under increasing pressure to make fast, confident decisions in unfamiliar territory. This course is designed to provide the clarity, frameworks, and practical tools needed to manage AI-related legal risk with confidence. Delegates will gain a strategic, hands-on guide to the key legal issues at the intersection of AI and contracting, especially around data provenance and compliance with emerging regimes.",
       "eventLink": "https://www.legalbusinessonline.com/AISG2026",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7391"
+    },
+    {
+      "id": 7384,
+      "title": "Certificate for Family Office Advisors - Foundation+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-29",
+      "dateTo": "2026-07-01",
+      "venue": "Classroom at One Marina Boulevard",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Wealth Management Institute Limited. The foundation level program uses real-world case studies to explain family offices, their functions, and the legal and fiscal context in which they operate. It also covers tools for long-term wealth protection and focuses on understanding the human context of wealth owners, including individuals, entrepreneurs, and families.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7384"
     }
   ]
 }
