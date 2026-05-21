@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-05-20T02:48:26.704865+00:00",
-  "count": 36,
+  "generatedAt": "2026-05-21T02:51:43.603524+00:00",
+  "count": 40,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7613,
-      "title": "SIArb Annual Debate 2026",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-05-20",
-      "dateTo": "2026-05-20",
-      "venue": "FTI Consulting, 1 Raffles Quay, #27-10, South Tower, Singapore 048583",
-      "organiser": "Singapore Institute of Arbitrators",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "Following the success of last year’s event, the YPN returns this year with another hot topic for debate - \"This House Believes that Experts are Overpaid Storytellers\".",
-      "eventLink": "https://siarb.org.sg/product/siarb-annual-debate-2026/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7613"
-    },
-    {
-      "id": 7536,
-      "title": "Injunctive Relief in Cross-Border Disputes: Recent  Themes and Issues",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-05-20",
-      "dateTo": "2026-05-20",
-      "venue": "TBC",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Civil Procedure",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "This programme reviews recent developments in common law jurisdictions, particularly Singapore, concerning anti-suit injunctions (ASI) and anti-enforcement injunctions (AEI) in commercial, arbitration and trust disputes. Building on the SICC seminar in January 2026, speakers discuss the legal and strategic complexities of seeking or resisting ASIs and AEIs before Singapore courts, highlighting evolving judicial approaches, key practical challenges and important considerations for practitioners in cross-border litigation.",
-      "eventLink": "https://reg.eventnook.com/event/u77440",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7536"
-    },
     {
       "id": 7577,
       "title": "Corporate National Identity: What Lawyers Are Missing",
@@ -327,6 +293,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7427"
     },
     {
+      "id": 7652,
+      "title": "Jones Day Professorship of Comparative and Commercial Law Lecture: Three Conceptions of Capitalism",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-08",
+      "dateTo": "2026-06-08",
+      "venue": "Swissôtel The Stamford, Singapore Atrium Ballroom, Level 4.",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "The lecture contrasts 3 capitalism frameworks: Friedmanesque capitalism, which favours shareholder-profit maximisation and a limited role for government; managerial stakeholderism, which relies on corporate leaders’ discretion to serve stakeholders; and democratic capitalism, which addresses corporate externalities through governmental rules and limits corporate leaders’ ability to obstruct such interventions. The lecture examines how each framework affects citizens, investors, and policymakers.",
+      "eventLink": "https://site.smu.edu.sg/jones-day-professorship-commercial-law-lecture-2026",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7652"
+    },
+    {
       "id": 7544,
       "title": "[WEBINAR] Essential Written Advocacy Series 2026: Session 4 - Pleading the Evidence: Affidavits",
       "mandatory": false,
@@ -412,6 +395,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7441"
     },
     {
+      "id": 7665,
+      "title": "Navigating India’s “New” International Investment Agreements Landscape",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-16",
+      "dateTo": "2026-06-16",
+      "venue": "Herbert Smith Freehills Kramer LLP Singapore",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. It examines India’s evolving international investment agreements (IIAs) landscape through the lens of legalization and judicialization. Professor Prabhash Ranjan will discuss India’s shift from “pro-investor” treaties to a more cautious “pro-state” model, the limited uptake of its 2016 Model BIT, and the implications for investor-state dispute settlement and cross-border investments. The seminar will conclude with a moderated discussion and Q&A.",
+      "eventLink": "https://cil.nus.edu.sg/event/prof-prabhash-ranjan-on-navigating-indias-new-international-investment-agreements-landscape/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7665"
+    },
+    {
       "id": 7559,
       "title": "[WEBINAR] E154: Anti-Money Laundering / Combating The Financing Of Terrorism (“AML / CFT”) Course",
       "mandatory": false,
@@ -478,6 +478,23 @@
       "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7399"
+    },
+    {
+      "id": 7660,
+      "title": "CBFL Seminar Series: Designing Proportionate Investor Protection in Crypto asset Regulation – Comparing the EU’s and UK’s approaches",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-23",
+      "dateTo": "2026-06-23",
+      "venue": "CBFL Meeting Room (Elm Level 1), NUS Law (UTown)",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Banking and Finance",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "Introducing regulatory frameworks for crypto assets enables retail access and brings intermediaries into a legitimate perimeter. While major jurisdictions took time, the EU, UK and US are now advancing bespoke regimes. The UK, informed by the EU’s Markets in Crypto-Assets Regulation and its critics, is taking a distinct approach to investor protection. This talk examines these differences alongside innovation and regulatory proportionality, drawing on the speaker’s forthcoming book.",
+      "eventLink": "https://law.nus.edu.sg/cbfl/events/cbflss260623/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7660"
     },
     {
       "id": 7471,
@@ -565,6 +582,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7391"
     },
     {
+      "id": 7662,
+      "title": "Capacity Matters: Recent Developments on Singapore Mental Capacity Law",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-26",
+      "dateTo": "2026-06-26",
+      "venue": "TBC",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "The seminar will be conducted by Associate Professor Dr Colin Tan (Singapore Management University) and Tan Kah Wai (LVM Law Chambers LLC), co-authors of a leading text on the MCA in Singapore. The session will take into account the latest legal developments following the publication of their text.",
+      "eventLink": "https://reg.eventnook.com/event/u77589/home",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7662"
+    },
+    {
       "id": 7384,
       "title": "Certificate for Family Office Advisors - Foundation+",
       "mandatory": false,
@@ -614,6 +648,40 @@
       "outline": "This programme was conceived to give members of the family bar an understanding of what it means to practise in a TJ oriented landscape and the important role of the family lawyer in this connection",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7594"
+    },
+    {
+      "id": 7643,
+      "title": "From Chaos to Order: Maximising Microsoft Word's Tools for Legal Documents",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-02",
+      "dateTo": "2026-07-02",
+      "venue": "ISCA House, 60 Cecil St, Singapore 049709",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 3.5,
+      "ptsType": "cpd",
+      "outline": "This workshop equips legal practitioners with practical Microsoft Word skills to reduce such risks. Participants will learn to produce clearly structured and professionally formatted legal documents, manage redlines and revisions accurately, and develop reusable precedent templates which achieve higher-quality deliverables and greater efficiency in matter management.",
+      "eventLink": "https://reg.eventnook.com/event/u77561",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7643"
+    },
+    {
+      "id": 7412,
+      "title": "Advanced Certificate in Trust Services+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-02",
+      "dateTo": "2026-07-14",
+      "venue": "Wealth Management Institute, One Marina Boulevard, #16-01, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "Yes",
+      "ptsValue": 8.5,
+      "ptsType": "mec",
+      "outline": "This event is organised by Wealth Management Institute Limited. The Advanced Certi?cate in Trust Services (ACTS) programme equips participants with advanced knowledge, practical techniques and strategies to help clients achieve their long-term succession and wealth preservation objectives. Through the extensive use of case studies, this programme is highly practical in nature. It is designed to highlight the best practices, laws and regulations, code of conduct, guidelines and pertinent issues and challenges faced by professionals in leadership roles or aspiring leaders and managers working in the trust and ?duciary services industry based in Singapore.",
+      "eventLink": "https://wmi.edu.sg/programmes/trust-services/advanced-certificate-in-trust-services/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7412"
     }
   ]
 }
