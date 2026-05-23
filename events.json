@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-22T02:52:03.781064+00:00",
-  "count": 40,
+  "generatedAt": "2026-05-23T02:37:04.960629+00:00",
+  "count": 41,
   "errorCount": 0,
   "events": [
     {
@@ -291,6 +291,23 @@
       "outline": "This event is organised by Wealth Management Institute (WMI). This module examines how family offices navigate cross-border tax and regulatory environments. It covers key regimes across major jurisdictions, with a focus on Singapore’s Section 13 incentives, licensing and structuring considerations. Participants explore CRS, FATCA, global minimum tax, and emerging trends, applying insights through practical case studies on family office operations.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-multi-jurisdictional-tax-structures/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7579"
+    },
+    {
+      "id": 7688,
+      "title": "CIL’s Dialogue with New Zealand’s High Commissioner Gabrielle Rush",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-10",
+      "dateTo": "2026-06-10",
+      "venue": "Lecture Theatre @ NUS, Bukit Timah Campus Block B, Level 3, 469 Bukit Timah Road, Singapore 259756",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. With the rules-based system facing strong headwinds, there’s a need for those of us who practice international law and diplomacy to help others understand the value of international law by making it relevant to their everyday lives. It’s no longer enough to talk about the importance of the rules-based system. What does international law mean in practice for all of us and, as international lawyers, what is our role in advocating for it?",
+      "eventLink": "https://cil.nus.edu.sg/event/cils-dialogue-with-new-zealands-high-commissioner-gabrielle-rush/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7688"
     },
     {
       "id": 7598,
@@ -662,7 +679,7 @@
       "mecSegment": "Yes",
       "ptsValue": 8.5,
       "ptsType": "mec",
-      "outline": "This event is organised by Wealth Management Institute Limited. The Advanced Certi?cate in Trust Services (ACTS) programme equips participants with advanced knowledge, practical techniques and strategies to help clients achieve their long-term succession and wealth preservation objectives. Through the extensive use of case studies, this programme is highly practical in nature. It is designed to highlight the best practices, laws and regulations, code of conduct, guidelines and pertinent issues and challenges faced by professionals in leadership roles or aspiring leaders and managers working in the trust and ?duciary services industry based in Singapore.",
+      "outline": "This event is organised by Wealth Management Institute Limited. The Advanced Certificate in Trust Services (ACTS) programme equips participants with advanced knowledge, practical techniques and strategies to help clients achieve their long-term succession and wealth preservation objectives. Through the extensive use of case studies, this programme is highly practical in nature. It is designed to highlight the best practices, laws and regulations, code of conduct, guidelines and pertinent issues and challenges faced by professionals in leadership roles or aspiring leaders and managers working in the trust and ?duciary services industry based in Singapore.",
       "eventLink": "https://wmi.edu.sg/programmes/trust-services/advanced-certificate-in-trust-services/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7412"
     },
