@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-24T02:48:25.469595+00:00",
-  "count": 41,
+  "generatedAt": "2026-05-25T02:57:11.385733+00:00",
+  "count": 42,
   "errorCount": 0,
   "events": [
     {
@@ -699,6 +699,23 @@
       "outline": "This half-day masterclass equips lawyers with a practical understanding of AI’s legal, regulatory and ethical implications. Covering governance, risk, and professional responsibilities, it combines focused modules with a hands-on workshop to enable participants to confidently advise clients and manage AI use within their organisations.",
       "eventLink": "https://law.smu.edu.sg/newsletter/smula-masterclass-ai-law-responsible-use",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7605"
+    },
+    {
+      "id": 7549,
+      "title": "[WEBINAR] Challenging Clients, Challenged Lawyers: Ethics and Excellence in Modern Client Care",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-06",
+      "dateTo": "2026-07-06",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "mec",
+      "outline": "This webinar is particularly useful for practitioners who wish to gain a better understanding on how to improve relationships with clients as well as those who want to develop their skills in this area.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7549",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7549"
     }
   ]
 }
