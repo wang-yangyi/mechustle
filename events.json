@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-31T02:57:17.165245+00:00",
-  "count": 40,
+  "generatedAt": "2026-06-01T03:34:01.201284+00:00",
+  "count": 41,
   "errorCount": 0,
   "events": [
     {
@@ -682,6 +682,23 @@
       "outline": "The SAL-INSEAD Legal Leadership Programme is a two-day intensive management programme specifically designed and contextualised to address the needs of law firm partners, general counsel and legal service officers.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7311"
+    },
+    {
+      "id": 7401,
+      "title": "Advanced Certificate in Law and Technology Module 2: Essentials of LegalTech - Digitalisating Legal Work+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-13",
+      "dateTo": "2026-07-14",
+      "venue": "Singapore Management University",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "This module covers all the basic know-how you need to start implementing the 21st Century Office ASAP, from explaining how the various technologies work and how to apply them, to how culture is both the cultural glue and foundation from which the 21st Century Office can take off from.",
+      "eventLink": "https://law.smu.edu.sg/node/32546?newsletter",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7401"
     }
   ]
 }
