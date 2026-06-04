@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-06-03T03:38:30.068379+00:00",
-  "count": 44,
+  "generatedAt": "2026-06-04T03:34:07.313542+00:00",
+  "count": 48,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7419,
-      "title": "Self-Leadership for Lawyers: Taking Charge of your Work Life (June 2026)+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-03",
-      "dateTo": "2026-06-24",
-      "venue": "SAL, Stamford 1 & 2, The Adelphi #08-08, 1 Coleman Street (S179803)",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 4.0,
-      "ptsType": "mec",
-      "outline": "In the first session, participants will learn about purpose, values and strengths, the relevance of these in their legal work (and personal lives) and how using these can promote self-leadership and support a sustainable career in the legal profession.",
-      "eventLink": "https://store.lawnet.com/self-leadership-for-lawyers-taking-charge-of-your-work-life-june-2026.html",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7419"
-    },
     {
       "id": 7630,
       "title": "AI Workshop for Legal Professionals (4 June)",
@@ -191,6 +174,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7665"
     },
     {
+      "id": 7691,
+      "title": "[WEBINAR] SIAC Academy: Arbitration in Times of Conflict: Force Majeure, Sanctions and Disruption (Virtual Edition)",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-06-17",
+      "dateTo": "2026-06-17",
+      "venue": "Webinar",
+      "organiser": "Singapore International Arbitration Centre",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This webinar will examine how periods of geopolitical and economic instability impact arbitration practice and dispute resolution, focusing on challenges arising from force majeure claims, sanctions regimes, and broader contractual disruptions. It will feature cross-jurisdictional perspectives to provide comparative insights into how these issues are addressed across diverse arbitration frameworks, including specific procedural and substantive issues that arise at each stage of an arbitration.",
+      "eventLink": "https://siac.org.sg/event/arbitration-in-times-of-conflict-force-majeure-sanctions-and-disruption-virtual-edition",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7691"
+    },
+    {
       "id": 7559,
       "title": "[WEBINAR] E154: Anti-Money Laundering / Combating The Financing Of Terrorism (“AML / CFT”) Course",
       "mandatory": false,
@@ -223,6 +223,23 @@
       "outline": "The field of mediation advocacy is about how one effectively represents oneself, or others at mediation. This workshop will focus on giving participants a working knowledge of how mediation works, the conflict resolution model used, preparing for mediation, dealing with the people aspect of disputes and strategies at the table. The workshop will also help participants understand the legal frameworks (both domestic and international) that apply to mediation.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=6837"
+    },
+    {
+      "id": 7715,
+      "title": "[WEBINAR] Pax Silica – Strategic AI Hegemony and the Future of International Governance",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-06-18",
+      "dateTo": "2026-06-18",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. This webinar examines Pax Silica, the U.S. initiative on AI and supply-chain security, as a case study of how chips, compute, critical minerals, and data infrastructure are becoming instruments of geopolitical power. It explores whether such alliances strengthen cooperation among trusted partners or narrow policy space for others, and considers how international law and multilateral institutions can respond to the growing strategic competition shaping the future international order.",
+      "eventLink": "https://cil.nus.edu.sg/event/pax-silica-strategic-ai-hegemony-and-the-future-of-international-governance/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7715"
     },
     {
       "id": 7399,
@@ -514,6 +531,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7605"
     },
     {
+      "id": 7697,
+      "title": "[WEBINAR] New Frontiers for Online Safety",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-03",
+      "dateTo": "2026-07-03",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Government",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "The provisions of OSRA will be activated within the next few weeks (if not already brought into force). It is therefore timely for the legal profession and generally the public of Singapore to obtain greater awareness of this rather unique new law whose provisions can have a substantial impact on personal interactions and social behaviour here in Singapore.",
+      "eventLink": "https://reg.eventnook.com/event/u77631",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7697"
+    },
+    {
       "id": 7673,
       "title": "[WEBINAR] International Entry Course 2026",
       "mandatory": false,
@@ -750,6 +784,40 @@
       "outline": "This module aims to equip legal counsel with the ability to understand and identify the risks and impacts posed by ESG-related disputes and litigation, and the strategies to manage and mitigate such risks and impacts. By the end of the course, they will be able to anticipate and manage the impacts and risks associated with ESG-related litigation and develop the ability to advise their organisations and clients on these risks and proactively defend and minimise these risks their organisations and clients may be exposed to.",
       "eventLink": "https://store.lawnet.com/esg-litigation-risks-and-impacts.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7498"
+    },
+    {
+      "id": 7626,
+      "title": "Pacifica Congress Annual Conference 2026 - One World, Same Issues in Family Law+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-16",
+      "dateTo": "2026-07-17",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Family",
+      "mecSegment": "NA",
+      "ptsValue": 9.5,
+      "ptsType": "cpd",
+      "outline": "Pacifica Congress and the Singapore Academy of Law (SAL) are delighted to announce that our 2026 Annual Conference will be held in Singapore from 15 to 17 July 2026. Under the theme “One World, Same Issues in Family Law” this international event will bring together leading practitioners, academics, and judicial officers from across the Asia-Pacific and beyond to explore the shared challenges, innovations, and human stories at the heart of modern family law practice.",
+      "eventLink": "https://events.sal.sg/event/OneWorldSameIssueinFamilyLaw/summary",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7626"
+    },
+    {
+      "id": 7514,
+      "title": "One World, Same Issues in Family Law+^",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-16",
+      "dateTo": "2026-07-17",
+      "venue": "SAL, The Adelphi, #07-01",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "MEC segment NA",
+      "mecSegment": "NA",
+      "ptsValue": 9.5,
+      "ptsType": "cpd",
+      "outline": "Under the theme “One World, Same Issues in Family Law” this international event will bring together leading practitioners, academics, and judicial officers from across the Asia-Pacific and beyond to explore the shared challenges, innovations, and human stories at the heart of modern family law practice.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7514",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7514"
     }
   ]
 }
