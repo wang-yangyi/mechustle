@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-06-04T03:34:07.313542+00:00",
+  "generatedAt": "2026-06-05T02:56:08.462433+00:00",
   "count": 48,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7630,
-      "title": "AI Workshop for Legal Professionals (4 June)",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-04",
-      "dateTo": "2026-06-04",
-      "venue": "Singapore Academy of Law (SAL) The Adelphi, 1 Coleman Street #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "Step into the world of artificial intelligence with this practical, in-person workshop designed specifically for legal professionals. Gain foundational skills and the confidence to apply AI in your everyday work—from legal research to drafting and contract analysis. Guided by experienced trainers, you'll explore how to evaluate and use a range of general and legal-specific AI tools effectively and responsibly. Participants will work directly on their own devices with live support, ensuring a hands-on, outcome-focused learning experience.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7630"
-    },
     {
       "id": 7427,
       "title": "Lexplorer Workshop Series 2: The Decisions You'll Make in Your First 5 Years (That will Shape the Next 20)",
@@ -104,6 +87,23 @@
       "outline": "This event is organised by NUS Centre for International Law. With the rules-based system facing strong headwinds, there’s a need for those of us who practice international law and diplomacy to help others understand the value of international law by making it relevant to their everyday lives. It’s no longer enough to talk about the importance of the rules-based system. What does international law mean in practice for all of us and, as international lawyers, what is our role in advocating for it?",
       "eventLink": "https://cil.nus.edu.sg/event/cils-dialogue-with-new-zealands-high-commissioner-gabrielle-rush/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7688"
+    },
+    {
+      "id": 7667,
+      "title": "Strategic Conflict Management for Professionals Module 2+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-10",
+      "dateTo": "2026-06-12",
+      "venue": "Singapore Academy of Law (SAL) The Adelphi, 1 Coleman Street #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "This three-day programme conducted by SAL-SMC is highly interactive with role plays and exercises and is taught by experienced faculty. Participants will be able to: Learn advanced concepts in interest-based conflict management Use tried-and-tested mediator strategies and approaches Apply advanced tools for effective communication Recognise the legal and ethical issues in mediation Acquire techniques to overcome impasse Receive insights into drafting settlement agreements.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7667"
     },
     {
       "id": 7598,
