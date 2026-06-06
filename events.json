@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-06-05T02:56:08.462433+00:00",
-  "count": 48,
+  "generatedAt": "2026-06-06T02:43:09.265740+00:00",
+  "count": 47,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7427,
-      "title": "Lexplorer Workshop Series 2: The Decisions You'll Make in Your First 5 Years (That will Shape the Next 20)",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-05",
-      "dateTo": "2026-06-05",
-      "venue": "Singapore Academy of Law (SAL) The Adelphi, 1 Coleman Street #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "mec",
-      "outline": "In collaboration with Iman Ibrahim (Over It Club), a former lawyer turned ICF-certified coach, SAL is proud to bring you this 3-hour guided interactive small-group workshop which introduces a practical framework to help young lawyers recognise these “invisible decisions,” understand how they compound over time, and how to make more calibrated choices about who they are becoming in the profession.",
-      "eventLink": "https://store.lawnet.com/lexplorer-workshop-series-the-decisions-you-ll-make-in-your-first-5-years-that-will-shape-the-next-20.html",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7427"
-    },
     {
       "id": 7652,
       "title": "Jones Day Professorship of Comparative and Commercial Law Lecture: Three Conceptions of Capitalism",
