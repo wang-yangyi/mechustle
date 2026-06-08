@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-07T03:25:29.409544+00:00",
-  "count": 47,
+  "generatedAt": "2026-06-08T03:31:23.195755+00:00",
+  "count": 48,
   "errorCount": 0,
   "events": [
     {
@@ -480,23 +480,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7643"
     },
     {
-      "id": 7412,
-      "title": "Advanced Certificate in Trust Services+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-02",
-      "dateTo": "2026-07-14",
-      "venue": "Wealth Management Institute, One Marina Boulevard, #16-01, Singapore 018989",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "Yes",
-      "ptsValue": 8.5,
-      "ptsType": "mec",
-      "outline": "This event is organised by Wealth Management Institute Limited. The Advanced Certificate in Trust Services (ACTS) programme equips participants with advanced knowledge, practical techniques and strategies to help clients achieve their long-term succession and wealth preservation objectives. Through the extensive use of case studies, this programme is highly practical in nature. It is designed to highlight the best practices, laws and regulations, code of conduct, guidelines and pertinent issues and challenges faced by professionals in leadership roles or aspiring leaders and managers working in the trust and ?duciary services industry based in Singapore.",
-      "eventLink": "https://wmi.edu.sg/programmes/trust-services/advanced-certificate-in-trust-services/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7412"
-    },
-    {
       "id": 7605,
       "title": "AI, Law & Responsible Use",
       "mandatory": false,
@@ -614,6 +597,23 @@
       "outline": "This event is organised by Assas International School (Singapore). A practical framework for lawyers advising senior executives responsible for AI governance, focused on the ethical concepts now embedded in regulatory obligations and how to make AI decisions explainable, auditable, and legally defensible. The course is offered by Assas International, Singapore campus of Paris Panthéon-Assas University.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7689"
+    },
+    {
+      "id": 7412,
+      "title": "Advanced Certificate in Trust Services+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-08",
+      "dateTo": "2026-07-24",
+      "venue": "Wealth Management Institute, One Marina Boulevard, #16-01, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "Yes",
+      "ptsValue": 8.5,
+      "ptsType": "mec",
+      "outline": "This event is organised by Wealth Management Institute Limited. The Advanced Certificate in Trust Services (ACTS) programme equips participants with advanced knowledge, practical techniques and strategies to help clients achieve their long-term succession and wealth preservation objectives. Through the extensive use of case studies, this programme is highly practical in nature. It is designed to highlight the best practices, laws and regulations, code of conduct, guidelines and pertinent issues and challenges faced by professionals in leadership roles or aspiring leaders and managers working in the trust and ?duciary services industry based in Singapore.",
+      "eventLink": "https://wmi.edu.sg/programmes/trust-services/advanced-certificate-in-trust-services/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7412"
     },
     {
       "id": 7631,
@@ -801,6 +801,23 @@
       "outline": "Under the theme “One World, Same Issues in Family Law” this international event will bring together leading practitioners, academics, and judicial officers from across the Asia-Pacific and beyond to explore the shared challenges, innovations, and human stories at the heart of modern family law practice.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7514",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7514"
+    },
+    {
+      "id": 7469,
+      "title": "JLP - Acquiring Practical Skills in Contract Drafting (July 2026)+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-20",
+      "dateTo": "2026-07-21",
+      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "Learn ethical considerations, key drafting principles, and the use of commercial precedents and boilerplate clauses. Focus on enhancing clarity, avoiding pitfalls, and structuring contracts for better enforceability and value.",
+      "eventLink": "https://store.lawnet.com/jlp-acquiring-practical-skills-in-contract-drafting-july-2026.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7469"
     }
   ]
 }
