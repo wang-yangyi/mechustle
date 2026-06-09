@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-06-08T03:31:23.195755+00:00",
-  "count": 48,
+  "generatedAt": "2026-06-09T02:42:07.669257+00:00",
+  "count": 49,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7652,
-      "title": "Jones Day Professorship of Comparative and Commercial Law Lecture: Three Conceptions of Capitalism",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-08",
-      "dateTo": "2026-06-08",
-      "venue": "Swissôtel The Stamford, Singapore Atrium Ballroom, Level 4.",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "The lecture contrasts 3 capitalism frameworks: Friedmanesque capitalism, which favours shareholder-profit maximisation and a limited role for government; managerial stakeholderism, which relies on corporate leaders’ discretion to serve stakeholders; and democratic capitalism, which addresses corporate externalities through governmental rules and limits corporate leaders’ ability to obstruct such interventions. The lecture examines how each framework affects citizens, investors, and policymakers.",
-      "eventLink": "https://site.smu.edu.sg/jones-day-professorship-commercial-law-lecture-2026",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7652"
-    },
-    {
-      "id": 7544,
-      "title": "[WEBINAR] Essential Written Advocacy Series 2026: Session 4 - Pleading the Evidence: Affidavits",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-06-08",
-      "dateTo": "2026-06-08",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Civil Procedure",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "This session will guide participants on pleading facts without going into evidence, and structuring \npleadings for precision and impact. The use of Generative AI in the preparation of pleadings will also \nbe discussed, including the ethical limits of the use of Generative AI, and reliance on precedents.",
-      "eventLink": "https://reg.eventnook.com/event/u77442",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7544"
-    },
     {
       "id": 7579,
       "title": "Certificate in Multi-Jurisdictional Tax and Structures",
@@ -446,6 +412,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7430"
     },
     {
+      "id": 7724,
+      "title": "STA Lunch Talk: Amended CRS: Navigating the New Rules",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-01",
+      "dateTo": "2026-07-01",
+      "venue": "NTUC Business Centre Room 701, One Marina Boulevard, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Singapore Trustees Association. Join speakers from IRAS for an insightful session on Singapore's implementation of the Amended Common Reporting Standard (CRS). The OECD's first comprehensive review expands scope to cover additional financial assets, products, and intermediaries, enhances reporting requirements, and strengthens due diligence procedures. This session provides an overview of these changes and key areas financial institutions should note for implementation.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7724",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7724"
+    },
+    {
       "id": 7594,
       "title": "Family Therapeutic Justice Certification Programme+",
       "mandatory": false,
@@ -461,6 +444,23 @@
       "outline": "This programme was conceived to give members of the family bar an understanding of what it means to practise in a TJ oriented landscape and the important role of the family lawyer in this connection",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7594"
+    },
+    {
+      "id": 7692,
+      "title": "[WEBINAR] Building a Professional Brand and Delivering an Impactful Pitch for Legal Professionals (Session 1)",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-02",
+      "dateTo": "2026-07-02",
+      "venue": "Webinar",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "This exclusive three-part webinar series is designed to equip legal professionals with the tools, mindset, and strategies to build a compelling personal brand, show up authentically in every interaction, and deliver pitches that win mandates and open doors.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7692"
     },
     {
       "id": 7643,
@@ -818,6 +818,23 @@
       "outline": "Learn ethical considerations, key drafting principles, and the use of commercial precedents and boilerplate clauses. Focus on enhancing clarity, avoiding pitfalls, and structuring contracts for better enforceability and value.",
       "eventLink": "https://store.lawnet.com/jlp-acquiring-practical-skills-in-contract-drafting-july-2026.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7469"
+    },
+    {
+      "id": 7706,
+      "title": "[WEBINAR] Small & Medium Firms – Business Planning, Marketing and Client Development",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-21",
+      "dateTo": "2026-07-21",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "Running a law practice demands more than legal expertise - it requires business planning, marketing, and client development. This session combines the College of Law's practice management expertise with insights from an experienced Singapore practitioner, offering practical strategies to define your firm's direction, strengthen market presence, and build a steady client pipeline. Designed for sole practitioners, small, and medium-sized firms, walk away with actionable insights for sustainable growth in Singapore's competitive legal market.",
+      "eventLink": "https://reg.eventnook.com/event/u77620",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7706"
     }
   ]
 }
