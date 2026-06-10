@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-06-09T02:42:07.669257+00:00",
-  "count": 49,
+  "generatedAt": "2026-06-10T02:55:43.750486+00:00",
+  "count": 51,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7579,
-      "title": "Certificate in Multi-Jurisdictional Tax and Structures",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-09",
-      "dateTo": "2026-06-09",
-      "venue": "Classroom at One Marina Boulevard",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "Yes",
-      "ptsValue": 2.5,
-      "ptsType": "mec",
-      "outline": "This event is organised by Wealth Management Institute (WMI). This module examines how family offices navigate cross-border tax and regulatory environments. It covers key regimes across major jurisdictions, with a focus on Singapore’s Section 13 incentives, licensing and structuring considerations. Participants explore CRS, FATCA, global minimum tax, and emerging trends, applying insights through practical case studies on family office operations.",
-      "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-multi-jurisdictional-tax-structures/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7579"
-    },
     {
       "id": 7688,
       "title": "CIL’s Dialogue with New Zealand’s High Commissioner Gabrielle Rush",
@@ -769,6 +752,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7498"
     },
     {
+      "id": 7722,
+      "title": "[WEBINAR] SIArb Regional Webinar: Third-Party Funding in Arbitration",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-16",
+      "dateTo": "2026-07-16",
+      "venue": "Webinar",
+      "organiser": "Singapore Institute of Arbitrators",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "SIArb’s Regional Webinar on “Third-Party Funding in Arbitration” examines the evolving role of TPF in international arbitration. The session covers funding structures, strategic considerations, regulatory frameworks across key jurisdictions, and legal issues such as disclosure, conflicts of interest, security for costs, and adverse costs exposure. Participants will gain practical insights into navigating funded disputes effectively.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7722",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7722"
+    },
+    {
       "id": 7626,
       "title": "Pacifica Congress Annual Conference 2026 - One World, Same Issues in Family Law+",
       "mandatory": false,
@@ -835,6 +835,40 @@
       "outline": "Running a law practice demands more than legal expertise - it requires business planning, marketing, and client development. This session combines the College of Law's practice management expertise with insights from an experienced Singapore practitioner, offering practical strategies to define your firm's direction, strengthen market presence, and build a steady client pipeline. Designed for sole practitioners, small, and medium-sized firms, walk away with actionable insights for sustainable growth in Singapore's competitive legal market.",
       "eventLink": "https://reg.eventnook.com/event/u77620",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7706"
+    },
+    {
+      "id": 7618,
+      "title": "[WEBINAR] Beyond Instinct: Evidence-Based Negotiation for Legal Practice",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-22",
+      "dateTo": "2026-07-22",
+      "venue": "WEBINAR",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "Negotiation is one of the most important skills in legal practice. This webinar introduces lawyers to contemporary, evidence-based insights that can help them become more adaptable and effective negotiators across a range of legal contexts.",
+      "eventLink": "https://law.smu.edu.sg/newsletter/smula-260722?newsletter",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7618"
+    },
+    {
+      "id": 7479,
+      "title": "JLP - Dealing with Practical Issues in Due Diligence (22 July 2026)",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-22",
+      "dateTo": "2026-07-22",
+      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "Learn the legal due diligence process, manage risks, avoid common pitfalls, and prepare comprehensive reports with risk management recommendations.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7479"
     }
   ]
 }
