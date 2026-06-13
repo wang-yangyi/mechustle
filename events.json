@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-06-12T03:28:59.305386+00:00",
-  "count": 61,
+  "generatedAt": "2026-06-13T02:55:02.600243+00:00",
+  "count": 60,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7598,
-      "title": "[WEBINAR] Recent Highlights in Contract Law",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-06-12",
-      "dateTo": "2026-06-12",
-      "venue": "Webinar",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "Significant developments in Singapore contract law have taken place in the past year, including on issues concerning contract terms, vitiating factors, breach and remedies. \n\nThis seminar will distil and highlight important recent developments and clarifications and, where useful, compare these with developments elsewhere.",
-      "eventLink": "https://law.smu.edu.sg/newsletter/smula-recent-highlights-contract-law?newsletter",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7598"
-    },
     {
       "id": 7545,
       "title": "[WEBINAR] Essential Written Advocacy 2026: Session 5 - Written Submissions that Win",
@@ -582,23 +565,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7604"
     },
     {
-      "id": 7578,
-      "title": "Mastering AML/CFT in the Digital Age: Effective Internal Framework, Emerging Risks, and Tech-Enabled Compliance for Legal Professionals",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-07",
-      "dateTo": "2026-07-07",
-      "venue": "Organiser The Law Society of Singapore",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "mec",
-      "outline": "This seminar equips legal professionals with essential AML/CFT knowledge and practical skills to navigate regulatory complexities. Key topics include best practices for internal policies and controls, emerging money laundering trends in the digital age, and technological advancements to strengthen compliance, providing valuable insights to enhance attendees' overall compliance strategies effectively.",
-      "eventLink": "https://reg.eventnook.com/event/u77486",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7578"
-    },
-    {
       "id": 7689,
       "title": "[WEBINAR & IN-PERSON] AI Ethics in Legal Practice: Governance, Accountability, and Regulatory Readiness",
       "mandatory": false,
@@ -614,6 +580,23 @@
       "outline": "This event is organised by Assas International School (Singapore). A practical framework for lawyers advising senior executives responsible for AI governance, focused on the ethical concepts now embedded in regulatory obligations and how to make AI decisions explainable, auditable, and legally defensible. The course is offered by Assas International, Singapore campus of Paris Panthéon-Assas University.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7689"
+    },
+    {
+      "id": 7578,
+      "title": "Mastering AML/CFT in the Digital Age: Effective Internal Framework, Emerging Risks, and Tech-Enabled Compliance for Legal Professionals",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-07",
+      "dateTo": "2026-07-07",
+      "venue": "Organiser The Law Society of Singapore",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "This seminar equips legal professionals with essential AML/CFT knowledge and practical skills to navigate regulatory complexities. Key topics include best practices for internal policies and controls, emerging money laundering trends in the digital age, and technological advancements to strengthen compliance, providing valuable insights to enhance attendees' overall compliance strategies effectively.",
+      "eventLink": "https://reg.eventnook.com/event/u77486",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7578"
     },
     {
       "id": 7412,
