@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-14T03:32:21.605621+00:00",
-  "count": 60,
+  "generatedAt": "2026-06-15T03:42:18.925883+00:00",
+  "count": 62,
   "errorCount": 0,
   "events": [
     {
@@ -204,7 +204,7 @@
       "ptsValue": 1.0,
       "ptsType": "cpd",
       "outline": "This event is organised by RHT Academy Pte. Ltd. This programme provides a practitioners’ overview of the evolving legal and regulatory frameworks governing family offices in Asia’s two premier wealth hubs. The session examines the methodologies for structuring Family-owned Investment Holding Vehicles (FIHV) in Hong Kong and compares them against the established Section 13O and 13U regimes in Singapore.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7720",
+      "eventLink": "https://www.vrseasia.com/event-details/navigating-the-family-office-landscape-a-comparative-study-of-hk-and-sg-tax-incentive-schemes",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7720"
     },
     {
@@ -565,23 +565,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7604"
     },
     {
-      "id": 7689,
-      "title": "[WEBINAR & IN-PERSON] AI Ethics in Legal Practice: Governance, Accountability, and Regulatory Readiness",
-      "mandatory": false,
-      "format": "Hybrid",
-      "dateFrom": "2026-07-07",
-      "dateTo": "2026-07-07",
-      "venue": "Webinar / 1 Ayer Rajah Avenue, Singapore 138676",
-      "organiser": "See Event Outline",
-      "practiceArea": "Telecommunications, Media & Technology",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Assas International School (Singapore). A practical framework for lawyers advising senior executives responsible for AI governance, focused on the ethical concepts now embedded in regulatory obligations and how to make AI decisions explainable, auditable, and legally defensible. The course is offered by Assas International, Singapore campus of Paris Panthéon-Assas University.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7689"
-    },
-    {
       "id": 7578,
       "title": "Mastering AML/CFT in the Digital Age: Effective Internal Framework, Emerging Risks, and Tech-Enabled Compliance for Legal Professionals",
       "mandatory": false,
@@ -597,6 +580,23 @@
       "outline": "This seminar equips legal professionals with essential AML/CFT knowledge and practical skills to navigate regulatory complexities. Key topics include best practices for internal policies and controls, emerging money laundering trends in the digital age, and technological advancements to strengthen compliance, providing valuable insights to enhance attendees' overall compliance strategies effectively.",
       "eventLink": "https://reg.eventnook.com/event/u77486",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7578"
+    },
+    {
+      "id": 7689,
+      "title": "[WEBINAR & IN-PERSON] AI Ethics in Legal Practice: Governance, Accountability, and Regulatory Readiness",
+      "mandatory": false,
+      "format": "Hybrid",
+      "dateFrom": "2026-07-07",
+      "dateTo": "2026-07-07",
+      "venue": "Webinar / 1 Ayer Rajah Avenue, Singapore 138676",
+      "organiser": "See Event Outline",
+      "practiceArea": "Telecommunications, Media & Technology",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Assas International School (Singapore). A practical framework for lawyers advising senior executives responsible for AI governance, focused on the ethical concepts now embedded in regulatory obligations and how to make AI decisions explainable, auditable, and legally defensible. The course is offered by Assas International, Singapore campus of Paris Panthéon-Assas University.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7689"
     },
     {
       "id": 7412,
@@ -1022,6 +1022,40 @@
       "outline": "Get introduced to cross-border contracts and civil law concepts, with a focus on cross-cultural communication and negotiation. Learn to review contracts for legal coherence and gain practical advice on managing cross-border agreements.",
       "eventLink": "https://store.lawnet.com/jlp-cross-border-contract-drafting-and-negotiation-july-2026.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7494"
+    },
+    {
+      "id": 7650,
+      "title": "[WEBINAR] Navigating Cross-border Dispute Resolution in Indonesia: Where Law Meets Reality",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-27",
+      "dateTo": "2026-07-27",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "Designed for Singapore lawyers handling cross-border disputes with an Indonesian dimension, this programme draws on frontline practitioner and academic experience from both jurisdictions. The session unpacks the Indonesian dispute resolution process from first principles: how the judicial system is structured, how disputes are managed, what friction arises, what choices exist in drafting a dispute resolution clause, and what happens when enforcement of an award or judgment is sought in Indonesian courts.",
+      "eventLink": "https://reg.eventnook.com/event/u77568",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7650"
+    },
+    {
+      "id": 7343,
+      "title": "JLP - Applying Tech Law in Practice",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-27",
+      "dateTo": "2026-07-27",
+      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 6.5,
+      "ptsType": "cpd",
+      "outline": "Learn about ethical issues in tech law, cybersecurity, PDPA, and e-commerce law in Singapore. Explore data protection regulations and notable developments in AI.",
+      "eventLink": "https://store.lawnet.com/jlp-applying-tech-law-in-practice-2026.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7343"
     }
   ]
 }
