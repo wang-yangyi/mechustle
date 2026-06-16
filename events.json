@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-06-15T03:42:18.925883+00:00",
-  "count": 62,
+  "generatedAt": "2026-06-16T03:37:30.867159+00:00",
+  "count": 60,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7545,
-      "title": "[WEBINAR] Essential Written Advocacy 2026: Session 5 - Written Submissions that Win",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-06-15",
-      "dateTo": "2026-06-15",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Civil Procedure",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "This session will provide guidance to participants on practical tools to produce clear, concise, and persuasive written submissions. The ethical and responsible use of Generative AI in drafting submissions will also be addressed, including issues of accuracy, confidentiality, and professional accountability.",
-      "eventLink": "https://reg.eventnook.com/event/u77442",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7545"
-    },
-    {
-      "id": 7441,
-      "title": "Negotiating Success+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-15",
-      "dateTo": "2026-06-16",
-      "venue": "National University of Singapore (Kent Ridge Campus)",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "NA",
-      "ptsValue": 13.0,
-      "ptsType": "cpd",
-      "outline": "This 2-day workshop will focus on giving participants a working knowledge of the Interests-Based Model of Negotiation created by Roger Fisher and as taught at the Program on Negotiation at Harvard Law School. It will be taught through a mixture of presentations, facilitated discussions and role plays.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7441"
-    },
     {
       "id": 7665,
       "title": "Navigating India’s “New” International Investment Agreements Landscape",
@@ -191,23 +157,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7625"
     },
     {
-      "id": 7720,
-      "title": "Navigating the Family Office Landscape: A Comparative Study of HK and SG Tax Incentive Schemes",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-24",
-      "dateTo": "2026-06-24",
-      "venue": "PLQ2, 1 Paya Lebar Link #06-08, Singapore 408533",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by RHT Academy Pte. Ltd. This programme provides a practitioners’ overview of the evolving legal and regulatory frameworks governing family offices in Asia’s two premier wealth hubs. The session examines the methodologies for structuring Family-owned Investment Holding Vehicles (FIHV) in Hong Kong and compares them against the established Section 13O and 13U regimes in Singapore.",
-      "eventLink": "https://www.vrseasia.com/event-details/navigating-the-family-office-landscape-a-comparative-study-of-hk-and-sg-tax-incentive-schemes",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7720"
-    },
-    {
       "id": 7509,
       "title": "LawNet Training Workshop (24 June 2026)",
       "mandatory": false,
@@ -257,23 +206,6 @@
       "outline": "This symposium is designed to equip legal practitioners and firm leaders with the foresight and tools needed to safeguard their practices. This programme will provide an in-depth examination of the regulatory implications of high-profile data breaches, the evolving AML/CFT/CPF landscape for cryptoassets, and the growing impact of geopolitical tensions on international legal work. The symposium further explores the shift from Generative AI to Agentic AI, examining the unique ethical and operational risks posed by autonomous AI agents in the office.",
       "eventLink": "https://reg.eventnook.com/event/u77488",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7602"
-    },
-    {
-      "id": 7391,
-      "title": "Managing the Risks of AI Deployment Workshop Series 2026 (Singapore)",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-25",
-      "dateTo": "2026-06-25",
-      "venue": "Singapore (TBC)",
-      "organiser": "Thomson Reuters Corporation Pte Ltd",
-      "practiceArea": "Telecommunications, Media & Technology",
-      "mecSegment": "NA",
-      "ptsValue": 6.5,
-      "ptsType": "cpd",
-      "outline": "As AI rapidly transforms the commercial and legal landscape, in-house counsel are under increasing pressure to make fast, confident decisions in unfamiliar territory. This course is designed to provide the clarity, frameworks, and practical tools needed to manage AI-related legal risk with confidence. Delegates will gain a strategic, hands-on guide to the key legal issues at the intersection of AI and contracting, especially around data provenance and compliance with emerging regimes.",
-      "eventLink": "https://www.legalbusinessonline.com/AISG2026",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7391"
     },
     {
       "id": 7740,
@@ -599,6 +531,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7689"
     },
     {
+      "id": 7729,
+      "title": "[WEBINAR & IN-PERSON] Maintaining robust legal structures for tax, transfer pricing, and regulatory compliance",
+      "mandatory": false,
+      "format": "Hybrid",
+      "dateFrom": "2026-07-08",
+      "dateTo": "2026-07-08",
+      "venue": "Webinar /  TA-Xcellence Hub (Revenue House), 55 Newton Rd, Singapore 307987",
+      "organiser": "See Event Outline",
+      "practiceArea": "Tax",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Tax Academy of Singapore. The programme offers participants thorough knowledge of the complex rules that govern tax treaties and application of the advanced treaty concepts.",
+      "eventLink": "https://www.eventbrite.sg/e/hybrid-seminar-legal-structures-for-tax-tp-and-regulatory-compliance-tickets-1989272495584?aff=oddtdtcreator",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7729"
+    },
+    {
       "id": 7412,
       "title": "Advanced Certificate in Trust Services+",
       "mandatory": false,
@@ -699,6 +648,23 @@
       "outline": "This module covers all the basic know-how you need to start implementing the 21st Century Office ASAP, from explaining how the various technologies work and how to apply them, to how culture is both the cultural glue and foundation from which the 21st Century Office can take off from.",
       "eventLink": "https://law.smu.edu.sg/node/32546?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7401"
+    },
+    {
+      "id": 7760,
+      "title": "[WEBINAR] The Human Right to Peace: Past, Present, Future",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-15",
+      "dateTo": "2026-07-15",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. This webinar examines the right to peace as a human right recognised in international, regional, and domestic legal frameworks. Despite this recognition, uncertainty remains regarding its legal status, content, and implementation. Against the backdrop of ongoing armed conflicts worldwide, participants will explore the development of the right, contemporary legal approaches, its role in strengthening the international legal order, and ways to advance it as an enforceable legal entitlement.",
+      "eventLink": "https://cil.nus.edu.sg/event/the-human-right-to-peace-past-present-and-future/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7760"
     },
     {
       "id": 7674,
