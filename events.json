@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-06-16T03:37:30.867159+00:00",
-  "count": 60,
+  "generatedAt": "2026-06-17T03:36:15.508610+00:00",
+  "count": 61,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7665,
-      "title": "Navigating India’s “New” International Investment Agreements Landscape",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-16",
-      "dateTo": "2026-06-16",
-      "venue": "Herbert Smith Freehills Kramer LLP Singapore",
-      "organiser": "See Event Outline",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by NUS Centre for International Law. It examines India’s evolving international investment agreements (IIAs) landscape through the lens of legalization and judicialization. Professor Prabhash Ranjan will discuss India’s shift from “pro-investor” treaties to a more cautious “pro-state” model, the limited uptake of its 2016 Model BIT, and the implications for investor-state dispute settlement and cross-border investments. The seminar will conclude with a moderated discussion and Q&A.",
-      "eventLink": "https://cil.nus.edu.sg/event/prof-prabhash-ranjan-on-navigating-indias-new-international-investment-agreements-landscape/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7665"
-    },
     {
       "id": 7691,
       "title": "[WEBINAR] SIAC Academy: Arbitration in Times of Conflict: Force Majeure, Sanctions and Disruption (Virtual Edition)",
@@ -650,6 +633,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7401"
     },
     {
+      "id": 7732,
+      "title": "ABA CJS’s Global White Collar Crime Institute+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-13",
+      "dateTo": "2026-07-14",
+      "venue": "Asian Civilisations Museum",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Crime",
+      "mecSegment": "NA",
+      "ptsValue": 9.0,
+      "ptsType": "cpd",
+      "outline": "During this one-and-a-half-day conference in Singapore, cutting edge issues in the field of international white collar crime will be examined and discussed and participants will learn about international white collar criminal laws and issues that matter most to their practices in 2026 and beyond.",
+      "eventLink": "https://events.americanbar.org/event/d30373d8-4cbd-44bd-b835-aae72a78efa5/summary",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7732"
+    },
+    {
       "id": 7760,
       "title": "[WEBINAR] The Human Right to Peace: Past, Present, Future",
       "mandatory": false,
@@ -786,23 +786,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7626"
     },
     {
-      "id": 7514,
-      "title": "One World, Same Issues in Family Law+^",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-16",
-      "dateTo": "2026-07-17",
-      "venue": "SAL, The Adelphi, #07-01",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "MEC segment NA",
-      "mecSegment": "NA",
-      "ptsValue": 9.5,
-      "ptsType": "cpd",
-      "outline": "Under the theme “One World, Same Issues in Family Law” this international event will bring together leading practitioners, academics, and judicial officers from across the Asia-Pacific and beyond to explore the shared challenges, innovations, and human stories at the heart of modern family law practice.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7514",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7514"
-    },
-    {
       "id": 7469,
       "title": "JLP - Acquiring Practical Skills in Contract Drafting (July 2026)+",
       "mandatory": false,
@@ -852,6 +835,23 @@
       "outline": "Negotiation is one of the most important skills in legal practice. This webinar introduces lawyers to contemporary, evidence-based insights that can help them become more adaptable and effective negotiators across a range of legal contexts.",
       "eventLink": "https://law.smu.edu.sg/newsletter/smula-260722?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7618"
+    },
+    {
+      "id": 7761,
+      "title": "Drafting CPF Division Orders: Getting It Right",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-22",
+      "dateTo": "2026-07-22",
+      "venue": "TBC",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Family",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "This seminar brings together experienced family law practitioners and representatives from the CPF Board to guide you through the key considerations and best practices in drafting court orders for the division of CPF-related matrimonial assets. Gain direct insight into how the CPF Board approaches and processes these orders, alongside practical perspectives from practitioners who deal with these issues day to day.",
+      "eventLink": "https://reg.eventnook.com/event/u77676",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7761"
     },
     {
       "id": 7479,
@@ -1022,6 +1022,23 @@
       "outline": "Learn about ethical issues in tech law, cybersecurity, PDPA, and e-commerce law in Singapore. Explore data protection regulations and notable developments in AI.",
       "eventLink": "https://store.lawnet.com/jlp-applying-tech-law-in-practice-2026.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7343"
+    },
+    {
+      "id": 7612,
+      "title": "Scott Schedule Workshop 2026",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-29",
+      "dateTo": "2026-07-29",
+      "venue": "Pinsent Masons MPillay LLP, 182 Cecil St, #32-01 Frasers Tower, Singapore 069547",
+      "organiser": "See Event Outline",
+      "practiceArea": "Civil Procedure",
+      "mecSegment": "NA",
+      "ptsValue": 4.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Asia Pacific Institute of Experts (APIEx). Built around a realistic construction scenario from construction stage to dispute resolution on the merits, this workshop provides contract administrators with a broader more practical perspective on Scott Schedules",
+      "eventLink": "https://tinyurl.com/4hd2hj2a",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7612"
     }
   ]
 }
