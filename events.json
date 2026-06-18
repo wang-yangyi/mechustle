@@ -1,59 +1,8 @@
 {
-  "generatedAt": "2026-06-17T03:36:15.508610+00:00",
+  "generatedAt": "2026-06-18T03:27:57.974186+00:00",
   "count": 61,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7691,
-      "title": "[WEBINAR] SIAC Academy: Arbitration in Times of Conflict: Force Majeure, Sanctions and Disruption (Virtual Edition)",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-06-17",
-      "dateTo": "2026-06-17",
-      "venue": "Webinar",
-      "organiser": "Singapore International Arbitration Centre",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This webinar will examine how periods of geopolitical and economic instability impact arbitration practice and dispute resolution, focusing on challenges arising from force majeure claims, sanctions regimes, and broader contractual disruptions. It will feature cross-jurisdictional perspectives to provide comparative insights into how these issues are addressed across diverse arbitration frameworks, including specific procedural and substantive issues that arise at each stage of an arbitration.",
-      "eventLink": "https://siac.org.sg/event/arbitration-in-times-of-conflict-force-majeure-sanctions-and-disruption-virtual-edition",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7691"
-    },
-    {
-      "id": 7559,
-      "title": "[WEBINAR] E154: Anti-Money Laundering / Combating The Financing Of Terrorism (“AML / CFT”) Course",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-06-17",
-      "dateTo": "2026-06-17",
-      "venue": "Webinar",
-      "organiser": "See Event Outline",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 2.5,
-      "ptsType": "mec",
-      "outline": "This event is organised by Institute of Singapore Chartered Accountants (ISCA). The course is designed to enable RFAs to demonstrate knowledge and understanding of AML/CFT legislations, regulatory trends and developments in Singapore, knowledge and understanding of the AML/CFT environment in Singapore and international trends and typologies, knowledge and understanding of how to carry out risk assessment and conduct various types of customer due diligence, familiarity with ACRA Guidelines for RFAs and awareness of how ACRA’s Compliance review and inspections impact RFAs.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7559",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7559"
-    },
-    {
-      "id": 6837,
-      "title": "Mediation Advocacy+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-17",
-      "dateTo": "2026-06-19",
-      "venue": "National University of Singapore (Kent Ridge Campus)",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 19.5,
-      "ptsType": "cpd",
-      "outline": "The field of mediation advocacy is about how one effectively represents oneself, or others at mediation. This workshop will focus on giving participants a working knowledge of how mediation works, the conflict resolution model used, preparing for mediation, dealing with the people aspect of disputes and strategies at the table. The workshop will also help participants understand the legal frameworks (both domestic and international) that apply to mediation.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=6837"
-    },
     {
       "id": 7715,
       "title": "[WEBINAR] Pax Silica – Strategic AI Hegemony and the Future of International Governance",
@@ -138,6 +87,23 @@
       "outline": "In 2017, Professor Gaillard explored the influence of French legal thinking on international arbitration. A 2019 Paris Arbitration Week conference he organised brought together Judge Dominique Hascher and Justice Quentin Loh to discuss this, with a focus on Singapore. A decade on, this keynote reviews how Singapore’s law and practice have evolved, and how French legal thought and Gaillard’s ideas continue to shape international arbitration.",
       "eventLink": "https://ciarbsingapore.wildapricot.org/event-6677187",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7625"
+    },
+    {
+      "id": 7773,
+      "title": "[WEBINAR] Managing the Risks of AI Deployment",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-06-24",
+      "dateTo": "2026-06-24",
+      "venue": "Webinar",
+      "organiser": "Thomson Reuters Corporation Pte Ltd",
+      "practiceArea": "Telecommunications, Media & Technology",
+      "mecSegment": "NA",
+      "ptsValue": 4.0,
+      "ptsType": "cpd",
+      "outline": "This course offers a strategic and practical guide to the legal issues arising at the intersection of AI and contracting. Delegates will explore the challenges of contracting with suppliers of AI systems, including critical considerations around confidentiality, legal privilege, performance guarantees, and the allocation of risk through warranties and indemnities. The course will examine the emerging legal and operational questions surrounding the use of AI in the formation and enforcement of contracts, and how these technologies impact authority, intent, \nenforceability, and governance.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7773",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7773"
     },
     {
       "id": 7509,
@@ -461,23 +427,6 @@
       "outline": "This webinar is particularly useful for practitioners who wish to gain a better understanding on how to improve relationships with clients as well as those who want to develop their skills in this area.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7549",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7549"
-    },
-    {
-      "id": 7604,
-      "title": "Advanced Certificate in Law and Technology Module 5: Blockchain, Cryptocurrencies and Smart Contracts+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-06",
-      "dateTo": "2026-07-07",
-      "venue": "Singapore Management University",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Telecommunications, Media & Technology",
-      "mecSegment": "NA",
-      "ptsValue": 12.0,
-      "ptsType": "cpd",
-      "outline": "This module introduces the fundamentals of blockchain, cryptocurrencies and smart contracts. Participants will also learn to combine both legal and smart agreements in one cohesive process using techniques applied in the field, in aim to offer their clients the best of both worlds.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7604"
     },
     {
       "id": 7578,
@@ -871,6 +820,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7479"
     },
     {
+      "id": 7777,
+      "title": "[WEBINAR] Targeting and Effects in Dual-Use Space Systems",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-22",
+      "dateTo": "2026-07-22",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. Outer space is vital to modern military, economic, and civilian activities. Satellites support communications, navigation, finance, emergency response, and defence operations, often serving both civilian and military functions. This webinar examines the legal challenges arising from the targeting of dual-use space systems during armed conflict, focusing on military objectives, proportionality, civilian protection, and the application of international humanitarian law.",
+      "eventLink": "https://cil.nus.edu.sg/event/targeting-and-effects-in-dual-use-space-systems/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7777"
+    },
+    {
       "id": 7632,
       "title": "AI Workshop for Legal Professionals (23 July)",
       "mandatory": false,
@@ -1024,6 +990,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7343"
     },
     {
+      "id": 7778,
+      "title": "Global Disputes Summit – Singapore Edition",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-29",
+      "dateTo": "2026-07-29",
+      "venue": "WongPartnership; 12 Marina Boulevard, Level 28 Marina Bay Financial Centre Tower 3, Singapore 018982",
+      "organiser": "See Event Outline",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Global Disputes Summit. To provide legal and dispute resolution professionals with practical insights into emerging challenges in international disputes, arbitration, and cross-border commercial risk management through expert-led discussions and case-based analysis.",
+      "eventLink": "https://www.globaldisputessummit.com/singapore2026",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7778"
+    },
+    {
       "id": 7612,
       "title": "Scott Schedule Workshop 2026",
       "mandatory": false,
@@ -1039,6 +1022,23 @@
       "outline": "This event is organised by Asia Pacific Institute of Experts (APIEx). Built around a realistic construction scenario from construction stage to dispute resolution on the merits, this workshop provides contract administrators with a broader more practical perspective on Scott Schedules",
       "eventLink": "https://tinyurl.com/4hd2hj2a",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7612"
+    },
+    {
+      "id": 7629,
+      "title": "Advanced Certificate in Law and Technology Module 8: Crimes of the Digital Economy+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-30",
+      "dateTo": "2026-07-31",
+      "venue": "Singapore Management University",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Crime",
+      "mecSegment": "NA",
+      "ptsValue": 12.0,
+      "ptsType": "cpd",
+      "outline": "This module examines the various digital ecosystems and offers insight on the implications of cybercrime. Participants will also learn preventive measures and build immunity against cybercrimes.",
+      "eventLink": "https://law.smu.edu.sg/newsletter/smula-advanced-certificate-law-and-technology-module-8-crimes-digital-economy-aclt?newsletter=",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7629"
     }
   ]
 }
