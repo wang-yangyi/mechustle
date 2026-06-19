@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-06-18T03:27:57.974186+00:00",
-  "count": 61,
+  "generatedAt": "2026-06-19T03:51:26.969236+00:00",
+  "count": 65,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7715,
-      "title": "[WEBINAR] Pax Silica – Strategic AI Hegemony and the Future of International Governance",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-06-18",
-      "dateTo": "2026-06-18",
-      "venue": "Webinar",
-      "organiser": "See Event Outline",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by NUS Centre for International Law. This webinar examines Pax Silica, the U.S. initiative on AI and supply-chain security, as a case study of how chips, compute, critical minerals, and data infrastructure are becoming instruments of geopolitical power. It explores whether such alliances strengthen cooperation among trusted partners or narrow policy space for others, and considers how international law and multilateral institutions can respond to the growing strategic competition shaping the future international order.",
-      "eventLink": "https://cil.nus.edu.sg/event/pax-silica-strategic-ai-hegemony-and-the-future-of-international-governance/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7715"
-    },
     {
       "id": 7399,
       "title": "Certificate for Family Office Advisors - Advanced+",
@@ -121,6 +104,23 @@
       "outline": "This training workshop guides attendees through the new features and functionalities of LawNet.com. Through walkthroughs and hands-on exercises, participants will learn how to use the revamped platform efficiently.",
       "eventLink": "https://store.lawnet.com/lawnet-training-workshop-24-june-2026.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7509"
+    },
+    {
+      "id": 7775,
+      "title": "Professional Deputies and Donees Scheme+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-24",
+      "dateTo": "2026-06-26",
+      "venue": "133 New Bridge Road #25-01/02 Singapore 059413",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "Yes",
+      "ptsValue": 1.5,
+      "ptsType": "mec",
+      "outline": "This event is organised by Bethel Chambers LLC. This certification course is for professionals who intend to be registered and to act as a professional deputy.",
+      "eventLink": "https://bethelchambers.com/pdd/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7775"
     },
     {
       "id": 7690,
@@ -497,6 +497,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7412"
     },
     {
+      "id": 7736,
+      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 2: The Arrest Process - Key Legal Insights for Defence Counsel",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-09",
+      "dateTo": "2026-07-09",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Crime",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "The arrest and investigation of a suspect kickstart the criminal justice process, often restricting an accused person's freedom. But what are the legal boundaries and rights at this critical stage?\nThis seminar explores key aspects of arrest, custody, bail, and investigative procedures—highlighting recent case law, including Mah Kiat Seng v Attorney-General & ors [2023] SGHC 14.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7736"
+    },
+    {
       "id": 7631,
       "title": "AI Workshop For Legal Professionals (9 July)",
       "mandatory": false,
@@ -682,6 +699,23 @@
       "outline": "This module aims to equip legal counsel with the ability to understand and identify the risks and impacts posed by ESG-related disputes and litigation, and the strategies to manage and mitigate such risks and impacts. By the end of the course, they will be able to anticipate and manage the impacts and risks associated with ESG-related litigation and develop the ability to advise their organisations and clients on these risks and proactively defend and minimise these risks their organisations and clients may be exposed to.",
       "eventLink": "https://store.lawnet.com/esg-litigation-risks-and-impacts.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7498"
+    },
+    {
+      "id": 7737,
+      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 3: Advocacy Before Trial: Making the Most of Representations and CCMS",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-16",
+      "dateTo": "2026-07-16",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Crime",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "This module equips defence counsel with practical strategies to draft persuasive representations and engage effectively in CCMS as a tool for early case resolution, pre-trial discovery, and plea negotiations.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7737"
     },
     {
       "id": 7722,
@@ -1024,6 +1058,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7612"
     },
     {
+      "id": 7628,
+      "title": "Advanced Certificate in Law and Technology Module 9: Digital Assets and IP Disputes+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-30",
+      "dateTo": "2026-07-31",
+      "venue": "Singapore Management University",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Intellectual Property",
+      "mecSegment": "NA",
+      "ptsValue": 12.0,
+      "ptsType": "cpd",
+      "outline": "This module delves into IP laws and applying it to digital assets. Participants will acquire the knowledge to making proper considerations in managing and disputing IP matters. They will also learn how to manage digital assets and understand the application of IP law in this digital age.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7628"
+    },
+    {
       "id": 7629,
       "title": "Advanced Certificate in Law and Technology Module 8: Crimes of the Digital Economy+",
       "mandatory": false,
@@ -1039,6 +1090,23 @@
       "outline": "This module examines the various digital ecosystems and offers insight on the implications of cybercrime. Participants will also learn preventive measures and build immunity against cybercrimes.",
       "eventLink": "https://law.smu.edu.sg/newsletter/smula-advanced-certificate-law-and-technology-module-8-crimes-digital-economy-aclt?newsletter=",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7629"
+    },
+    {
+      "id": 7698,
+      "title": "[WEBINAR] International Arbitration in Practice 2026 - Session 1: Navigating Early Stages of Arbitration",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-31",
+      "dateTo": "2026-07-31",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "This session explores the critical early stages of arbitration, from drafting and responding to Notices of Arbitration to constituting the arbitral tribunal and setting procedural directions. It highlights key strategic considerations, institutional requirements, and practical issues that may affect timelines, costs, efficiency, and jurisdiction. Participants will gain practical guidance on navigating the first steps of arbitration effectively.",
+      "eventLink": "https://reg.eventnook.com/event/u77632",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7698"
     }
   ]
 }
