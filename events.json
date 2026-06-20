@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T03:51:26.969236+00:00",
-  "count": 65,
+  "generatedAt": "2026-06-20T02:53:53.490799+00:00",
+  "count": 67,
   "errorCount": 0,
   "events": [
     {
@@ -140,6 +140,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7690"
     },
     {
+      "id": 7695,
+      "title": "LawNet 4.0 Training Workshop",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-06-25",
+      "dateTo": "2026-06-25",
+      "venue": "The Law Society of Singapore Members’ Lounge",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "This training workshop guides attendees through the new features and functionalities of LawNet.com. Through walkthroughs and hands-on exercises, participants will also learn more about how to optimise search queries to yield better results from the new LawNet AI search powered by GPT Legal.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7695",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7695"
+    },
+    {
       "id": 7602,
       "title": "[WEBINAR] Risk Management Symposium 2026: Resilience and Readiness in an Era of Accelerating Risks",
       "mandatory": false,
@@ -257,6 +274,23 @@
       "outline": "This event is organised by Assas International School (Singapore). Gain insights into the extraterritorial implications of the European AI Act and its impact on the international practices of Singapore lawyers. The course is offered by Assas International, Singapore campus of Paris Panthéon-Assas University.",
       "eventLink": "https://assas-international.com/global-ai-compliance-understanding-the-european-ai-act/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7681"
+    },
+    {
+      "id": 7790,
+      "title": "[WEBINAR] Algorithmic Sovereignty, Judicial Independence and Responsible AI Use in the Courtroom",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-01",
+      "dateTo": "2026-07-01",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "This webinar is organised by NUS - Centre for International Law. The webinar will initiate a joint BIMSTEC and UNESCO Chair project towards policy guidelines on the responsible treatment of AI-generated evidence, deepfakes and hallucinated citations in courtrooms across Asian countries. The session will focus on feasible guidance for courts and the legal profession. It will consider verification practices, professional duties, judicial proof, disclosure, technology literacy and the safeguards needed when AI-assisted material is presented before a court.",
+      "eventLink": "https://cil.nus.edu.sg/event/global-dialogues-on-ai-for-peace-sustainability/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7790"
     },
     {
       "id": 7430,
