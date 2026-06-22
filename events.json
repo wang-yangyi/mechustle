@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21T03:38:42.120770+00:00",
-  "count": 67,
+  "generatedAt": "2026-06-22T03:42:46.815387+00:00",
+  "count": 69,
   "errorCount": 0,
   "events": [
     {
@@ -1141,6 +1141,40 @@
       "outline": "This session explores the critical early stages of arbitration, from drafting and responding to Notices of Arbitration to constituting the arbitral tribunal and setting procedural directions. It highlights key strategic considerations, institutional requirements, and practical issues that may affect timelines, costs, efficiency, and jurisdiction. Participants will gain practical guidance on navigating the first steps of arbitration effectively.",
       "eventLink": "https://reg.eventnook.com/event/u77632",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7698"
+    },
+    {
+      "id": 7582,
+      "title": "JLP - Understanding Business of Law+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-03",
+      "dateTo": "2026-08-04",
+      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 4.5,
+      "ptsType": "mec",
+      "outline": "Learn how to position law firms and practice areas effectively, understand the fundamentals of the business of law, develop skills to become a trusted adviser, and master client pitch techniques.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7582"
+    },
+    {
+      "id": 7784,
+      "title": "[WEBINAR] Advanced Certificate in Law and Technology Module 6: Legal Issues in AI and Machine Learning+",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-03",
+      "dateTo": "2026-08-04",
+      "venue": "Webinar",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Telecommunications, Media & Technology",
+      "mecSegment": "NA",
+      "ptsValue": 12.0,
+      "ptsType": "cpd",
+      "outline": "This module provides an overview of machine learning technology and dives into key terminology that will help participants navigate through legal issues in artificial intelligence. Participants will also dive deeper in the impacts of AI and its regulations, to better understand the power of AI and the magnitude that comes with it.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7784"
     }
   ]
 }
