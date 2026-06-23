@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-06-22T03:42:46.815387+00:00",
+  "generatedAt": "2026-06-23T02:48:00.255104+00:00",
   "count": 69,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7399,
-      "title": "Certificate for Family Office Advisors - Advanced+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-22",
-      "dateTo": "2026-06-26",
-      "venue": "Wealth Management Institute, One Marina Boulevard, #16-01, Singapore 018989",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
-      "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7399"
-    },
     {
       "id": 7660,
       "title": "CBFL Seminar Series: Designing Proportionate Investor Protection in Crypto asset Regulation – Comparing the EU’s and UK’s approaches",
@@ -1175,6 +1158,23 @@
       "outline": "This module provides an overview of machine learning technology and dives into key terminology that will help participants navigate through legal issues in artificial intelligence. Participants will also dive deeper in the impacts of AI and its regulations, to better understand the power of AI and the magnitude that comes with it.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7784"
+    },
+    {
+      "id": 7520,
+      "title": "A Practical Workshop in Building and Construction Dispute Resolution+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-04",
+      "dateTo": "2026-08-05",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Building & Construction",
+      "mecSegment": "NA",
+      "ptsValue": 13.5,
+      "ptsType": "cpd",
+      "outline": "The course covers contentious issues that regularly occur in building construction projects and disputes: payments and variations; time and delays and termination. It also covers other practical aspects of the built industry such as construction programmes. Each session covers the legal principles and developments pertaining to these issues with a tutorial thereafter.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7520"
     }
   ]
 }
