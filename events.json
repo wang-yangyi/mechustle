@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-06-23T02:48:00.255104+00:00",
-  "count": 69,
+  "generatedAt": "2026-06-24T02:48:35.610097+00:00",
+  "count": 75,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7660,
-      "title": "CBFL Seminar Series: Designing Proportionate Investor Protection in Crypto asset Regulation – Comparing the EU’s and UK’s approaches",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-23",
-      "dateTo": "2026-06-23",
-      "venue": "CBFL Meeting Room (Elm Level 1), NUS Law (UTown)",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "Banking and Finance",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "Introducing regulatory frameworks for crypto assets enables retail access and brings intermediaries into a legitimate perimeter. While major jurisdictions took time, the EU, UK and US are now advancing bespoke regimes. The UK, informed by the EU’s Markets in Crypto-Assets Regulation and its critics, is taking a distinct approach to investor protection. This talk examines these differences alongside innovation and regulatory proportionality, drawing on the speaker’s forthcoming book.",
-      "eventLink": "https://law.nus.edu.sg/cbfl/events/cbflss260623/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7660"
-    },
-    {
-      "id": 7471,
-      "title": "[WEBINAR] Practical Course on Stamp Duty Rules for Common Real Estate Transactions",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-06-23",
-      "dateTo": "2026-06-23",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Real Estate",
-      "mecSegment": "NA",
-      "ptsValue": 2.5,
-      "ptsType": "cpd",
-      "outline": "This session covers stamp duty treatment and implications, including BSD, ABSD and SSD; definitions of residential and industrial property; when property is acquired or disposed of; common mistakes, appeal rejections, and anti-avoidance issues. It also reviews real-life cases such as partial interests, property exchanges, estate transfers and mixed-use properties, and outlines key stamp duty remissions for spouses, families, HDB flats and developers.",
-      "eventLink": "https://reg.eventnook.com/event/u77356",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7471"
-    },
     {
       "id": 7625,
       "title": "The CIArb Singapore Annual Thought Leadership Lecture",
@@ -429,6 +395,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7673"
     },
     {
+      "id": 7734,
+      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 1: 101 of Criminal Lawyering - Navigating Ethics, Taking Instructions, and Professional Standards",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-06",
+      "dateTo": "2026-07-06",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Crime",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "Criminal defence lawyers walk a fine line—fierce advocates for their clients, yet bound by duties to the Court. This seminar explores the ethical tightrope defence counsel must navigate: taking instructions effectively, managing real-world challenges, and meeting evolving professional obligations. Are the standards rising? Are expectations shifting?",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7734"
+    },
+    {
       "id": 7549,
       "title": "[WEBINAR] Challenging Clients, Challenged Lawyers: Ethics and Excellence in Modern Client Care",
       "mandatory": false,
@@ -599,6 +582,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7311"
     },
     {
+      "id": 7780,
+      "title": "Legal Tech Fair 2026",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-10",
+      "dateTo": "2026-07-10",
+      "venue": "National Gallery Singapore Ngee Ann Kongsi Auditorium 1 St Andrew’s Road Singapore 178957",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "The programme brings together government, industry, and practitioners to address what firms are actually grappling with: how to build internal buy-in for new tools, what responsible AI use looks like in a legal context, how to assess cybersecurity risk, and how to evaluate solutions that are genuinely fit for purpose. MinLaw's Legal Technology Transformation Office will outline available support for legal tech adoption, while perspectives from the consulting and technology sectors will explore the change management realities that determine whether adoption succeeds or stalls.",
+      "eventLink": "https://reg.eventnook.com/event/u77667",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7780"
+    },
+    {
       "id": 7401,
       "title": "Advanced Certificate in Law and Technology Module 2: Essentials of LegalTech - Digitalisating Legal Work+",
       "mandatory": false,
@@ -648,6 +648,23 @@
       "outline": "This event is organised by NUS Centre for International Law. This webinar examines the right to peace as a human right recognised in international, regional, and domestic legal frameworks. Despite this recognition, uncertainty remains regarding its legal status, content, and implementation. Against the backdrop of ongoing armed conflicts worldwide, participants will explore the development of the right, contemporary legal approaches, its role in strengthening the international legal order, and ways to advance it as an enforceable legal entitlement.",
       "eventLink": "https://cil.nus.edu.sg/event/the-human-right-to-peace-past-present-and-future/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7760"
+    },
+    {
+      "id": 7764,
+      "title": "[WEBINAR] Community Law Training Programme 2026 - Module 3: Divorce Part 3: Financial Issues",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-15",
+      "dateTo": "2026-07-15",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Family",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "Financial issues are often the most contentious and anxiety-inducing aspect of divorce, particularly in community, pro bono and low-bono matters where clients may have limited resources, incomplete information, or significant financial power imbalances.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7764"
     },
     {
       "id": 7674,
@@ -820,6 +837,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7706"
     },
     {
+      "id": 7765,
+      "title": "[WEBINAR] Community Law Training Programme 2026 - Module 4: Divorce Part 4: Post Divorce Issues",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-22",
+      "dateTo": "2026-07-22",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Family",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "This module focuses on the key issues that arise after divorce proceedings, including appeals, variation of orders, enforcement challenges and post-divorce support. Using a practitioner-led and community-law focused approach, this module equips participants to advise clients realistically on available post-divorce options, assess feasibility in pro bono contexts, and identify appropriate next steps. The session also examines enforcement and post-divorce challenges faced by transnational families, including cases involving significant financial disparity, as well as the limits of legal intervention and the importance of non-legal support.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7765"
+    },
+    {
       "id": 7618,
       "title": "[WEBINAR] Beyond Instinct: Evidence-Based Negotiation for Legal Practice",
       "mandatory": false,
@@ -886,6 +920,23 @@
       "outline": "This event is organised by NUS Centre for International Law. Outer space is vital to modern military, economic, and civilian activities. Satellites support communications, navigation, finance, emergency response, and defence operations, often serving both civilian and military functions. This webinar examines the legal challenges arising from the targeting of dual-use space systems during armed conflict, focusing on military objectives, proportionality, civilian protection, and the application of international humanitarian law.",
       "eventLink": "https://cil.nus.edu.sg/event/targeting-and-effects-in-dual-use-space-systems/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7777"
+    },
+    {
+      "id": 7738,
+      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 4: Conducting Effective Pleas of Guilt",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-23",
+      "dateTo": "2026-07-23",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Crime",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "A guilty plea is more than a procedural step—it carries serious consequences for the client’s future. How can defence counsel ensure the plea is made knowingly, voluntarily, and with full understanding?\nThis seminar will equip criminal defence lawyers with the tools to navigate the legal and ethical landscape of guilty pleas. Learn when and how to advise clients, what they must understand before pleading, and how to support them even after sentencing.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7738"
     },
     {
       "id": 7632,
@@ -1075,6 +1126,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7612"
     },
     {
+      "id": 7747,
+      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 5: Mental Health in the Courtroom: Navigating Conditions, Defences & Vulnerabilities",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-30",
+      "dateTo": "2026-07-30",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Crime",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "Not every mental condition changes the legal outcome and some may do so in surprising ways. This module equips lawyers to better identify psychiatric and psychological conditions in clients and understand their legal implications.\nLearn how to work with forensic psychiatrists, interpret reports, and support vulnerable witnesses. We’ll also explore the growing role of social workers and intermediaries in enhancing justice outcomes.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7747"
+    },
+    {
       "id": 7628,
       "title": "Advanced Certificate in Law and Technology Module 9: Digital Assets and IP Disputes+",
       "mandatory": false,
@@ -1175,6 +1243,40 @@
       "outline": "The course covers contentious issues that regularly occur in building construction projects and disputes: payments and variations; time and delays and termination. It also covers other practical aspects of the built industry such as construction programmes. Each session covers the legal principles and developments pertaining to these issues with a tutorial thereafter.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7520"
+    },
+    {
+      "id": 7677,
+      "title": "How Experts can contribute in the Valuation of Damages for Financial Misconduct cases",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-05",
+      "dateTo": "2026-08-05",
+      "venue": "1 Neil Road #02-03, Singapore 088804",
+      "organiser": "See Event Outline",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "This event is organised by GAO Capital Pte. Ltd.. The seminar will cover how valuation experts can assist the court by providing independent valuation of damages for financial misconduct cases, and the appropriate Fit & Proper standards for Fund Managers and Financial Firms when exclusive material information is involved.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7677",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7677"
+    },
+    {
+      "id": 7590,
+      "title": "Certificate in Family Office & Governance",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-05",
+      "dateTo": "2026-08-05",
+      "venue": "Classroom at One Marina Boulevard",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 7.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Wealth Management Institute Limited. This module introduces the family office landscape, core functions, and role within the private wealth ecosystem. It covers family governance structures, constitutions, councils, ownership and board dynamics, and alignment of values and roles. Participants also examine family dynamics, cultural influences, conflict management, and the legal professional’s role, supported by case studies and practical discussions.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-family-office-governance/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7590"
     }
   ]
 }
