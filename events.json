@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-06-26T02:53:21.811668+00:00",
-  "count": 74,
+  "generatedAt": "2026-06-27T02:43:45.833326+00:00",
+  "count": 73,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7662,
-      "title": "Capacity Matters: Recent Developments on Singapore Mental Capacity Law",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-26",
-      "dateTo": "2026-06-26",
-      "venue": "TBC",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "The seminar will be conducted by Associate Professor Dr Colin Tan (Singapore Management University) and Tan Kah Wai (LVM Law Chambers LLC), co-authors of a leading text on the MCA in Singapore. The session will take into account the latest legal developments following the publication of their text.",
-      "eventLink": "https://reg.eventnook.com/event/u77589/home",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7662"
-    },
-    {
-      "id": 7742,
-      "title": "11th ICC Asia Pacific Conference on International Arbitration",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-26",
-      "dateTo": "2026-06-26",
-      "venue": "Amara Singapore hotel, 165 Tanjong Pagar Road, Singapore 088539",
-      "organiser": "See Event Outline",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 4.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by International Chamber of Commerce. The 11th edition of the annual ICC Asia Pacific Conference on International Arbitration will take place in Singapore on 26 June 2026! Mark your calendars for this flagship event in the Asia-Pacific region. Arbitrators, mediators, corporate counsel, lawyers, and business leaders will gather to network and exchange insights. This year’s conference will explore key developments in arbitration and discuss the changes to the ICC Arbitration Rules, which will be released later this year.",
-      "eventLink": "https://tinyurl.com/muczh968",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7742"
-    },
     {
       "id": 7384,
       "title": "Certificate for Family Office Advisors - Foundation+",
@@ -531,23 +497,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7732"
     },
     {
-      "id": 7760,
-      "title": "[WEBINAR] The Human Right to Peace: Past, Present, Future",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-07-15",
-      "dateTo": "2026-07-15",
-      "venue": "Webinar",
-      "organiser": "See Event Outline",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by NUS Centre for International Law. This webinar examines the right to peace as a human right recognised in international, regional, and domestic legal frameworks. Despite this recognition, uncertainty remains regarding its legal status, content, and implementation. Against the backdrop of ongoing armed conflicts worldwide, participants will explore the development of the right, contemporary legal approaches, its role in strengthening the international legal order, and ways to advance it as an enforceable legal entitlement.",
-      "eventLink": "https://cil.nus.edu.sg/event/the-human-right-to-peace-past-present-and-future/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7760"
-    },
-    {
       "id": 7764,
       "title": "[WEBINAR] Community Law Training Programme 2026 - Module 3: Divorce Part 3: Financial Issues",
       "mandatory": false,
@@ -563,6 +512,23 @@
       "outline": "Financial issues are often the most contentious and anxiety-inducing aspect of divorce, particularly in community, pro bono and low-bono matters where clients may have limited resources, incomplete information, or significant financial power imbalances.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7764"
+    },
+    {
+      "id": 7760,
+      "title": "[WEBINAR] The Human Right to Peace: Past, Present, Future",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-15",
+      "dateTo": "2026-07-15",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. This webinar examines the right to peace as a human right recognised in international, regional, and domestic legal frameworks. Despite this recognition, uncertainty remains regarding its legal status, content, and implementation. Against the backdrop of ongoing armed conflicts worldwide, participants will explore the development of the right, contemporary legal approaches, its role in strengthening the international legal order, and ways to advance it as an enforceable legal entitlement.",
+      "eventLink": "https://cil.nus.edu.sg/event/the-human-right-to-peace-past-present-and-future/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7760"
     },
     {
       "id": 7674,
@@ -988,6 +954,23 @@
       "outline": "Learn about ethical issues in tech law, cybersecurity, PDPA, and e-commerce law in Singapore. Explore data protection regulations and notable developments in AI.",
       "eventLink": "https://store.lawnet.com/jlp-applying-tech-law-in-practice-2026.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7343"
+    },
+    {
+      "id": 7766,
+      "title": "[WEBINAR] Community Law Training Programme 2026 - Module 5: Syariah Divorces",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-29",
+      "dateTo": "2026-07-29",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Syariah Law",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "This module focuses on the key issues that arise when assisting clients in Syariah divorce proceedings, including marriages entered into overseas and the resulting need to understand foreign jurisdictions and collate documentation. This module also provides practical procedural guidance on proceedings in the Syariah Court, equipping participants with a clearer understanding of how such matters are navigated in practice.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7766"
     },
     {
       "id": 7778,
