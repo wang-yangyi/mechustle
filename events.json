@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-06-29T02:59:36.067685+00:00",
-  "count": 73,
+  "generatedAt": "2026-06-30T02:52:59.520579+00:00",
+  "count": 75,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7384,
-      "title": "Certificate for Family Office Advisors - Foundation+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-06-29",
-      "dateTo": "2026-07-01",
-      "venue": "Classroom at One Marina Boulevard",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Wealth Management Institute Limited. The foundation level program uses real-world case studies to explain family offices, their functions, and the legal and fiscal context in which they operate. It also covers tools for long-term wealth protection and focuses on understanding the human context of wealth owners, including individuals, entrepreneurs, and families.",
-      "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7384"
-    },
     {
       "id": 7661,
       "title": "Mentorship –  How It’s Evolving in a Changing Legal Profession",
@@ -395,6 +378,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7631"
     },
     {
+      "id": 7801,
+      "title": "Adaptations in International Law for Emerging Military Technologies",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-09",
+      "dateTo": "2026-07-09",
+      "venue": "Seminar 3-1 @ NUS Bukit Timah Campus Block B, Level 3, 469 Bukit Timah Road, Singapore 259756",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. Many key sources of international humanitarian law (IHL), including the Geneva Conventions and CCW, were developed in a different technological era. This seminar examines how emerging technologies such as AI, autonomous systems, and cyber capabilities are reshaping warfare and challenging existing legal frameworks. It will explore evolving State practice, governance efforts, key legal issues, and the implications of addressing new technologies through separate international processes.",
+      "eventLink": "https://cil.nus.edu.sg/event/professor-rain-liivoja-on-adaptations-in-international-law-for-emerging-military-technologies/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7801"
+    },
+    {
       "id": 7702,
       "title": "[Webinar] Day of Conveyancing Highlights 2026 – Day 1",
       "mandatory": false,
@@ -424,7 +424,7 @@
       "mecSegment": "NA",
       "ptsValue": 14.0,
       "ptsType": "cpd",
-      "outline": "This event is organised by Attorneys Inc LLC, in partnership with Samvad Mediation Centre. This two-day workshop offers deep insights into the international mediation landscape with a focus on international commercial mediation and investor-state mediation by examining the major international legal and regulatory frameworks such as the United Nations Commission on International Trade Law and the International Centre for Settlement of Investment Disputes. This workshop also develops participants' practical knowledge of mediation such as drafting an international mediation clause.",
+      "outline": "This event is organised by Marina Del Rey, in partnership with Samvad Mediation Centre. This two-day workshop offers deep insights into the international mediation landscape with a focus on international commercial mediation and investor-state mediation by examining the major international legal and regulatory frameworks such as the United Nations Commission on International Trade Law and the International Centre for Settlement of Investment Disputes. This workshop also develops participants' practical knowledge of mediation such as drafting an international mediation clause.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7367",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7367"
     },
@@ -801,6 +801,23 @@
       "outline": "This event is organised by NUS Centre for International Law. Outer space is vital to modern military, economic, and civilian activities. Satellites support communications, navigation, finance, emergency response, and defence operations, often serving both civilian and military functions. This webinar examines the legal challenges arising from the targeting of dual-use space systems during armed conflict, focusing on military objectives, proportionality, civilian protection, and the application of international humanitarian law.",
       "eventLink": "https://cil.nus.edu.sg/event/targeting-and-effects-in-dual-use-space-systems/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7777"
+    },
+    {
+      "id": 7810,
+      "title": "ISDA Masterclass: Derivatives Documentation+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-23",
+      "dateTo": "2026-07-24",
+      "venue": "voco Orchard Singapore, 581 Orchard Rd, Singapore 238883",
+      "organiser": "See Event Outline",
+      "practiceArea": "Banking and Finance",
+      "mecSegment": "NA",
+      "ptsValue": 14.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by International Swaps and Derivatives Association, Inc. (ISDA). This comprehensive two-day course will introduce you to the key uses and risks of derivatives and provide an in-depth review of the foundational documents related to derivatives transactions. You will learn to identify key elements of derivatives documents, gain an understanding of key considerations when negotiating these documents, and learn how to use the ISDA Create platform to turn those negotiations into legal documents.",
+      "eventLink": "https://events.isda.org/singapore-masterclass-2026/home",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7810"
     },
     {
       "id": 7738,
@@ -1243,6 +1260,23 @@
       "outline": "Learn how to maintain professional ethics, implement strategies for efficient document review and management, leverage technology, and draft discovery plans.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7328"
+    },
+    {
+      "id": 7783,
+      "title": "[WEBINAR] Senior Counsel Forum 2026 - Module 3: Disciplinary Process and Disciplinary Cases: Don’t Get Charged",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-11",
+      "dateTo": "2026-08-11",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "The Senior Counsel Forum, by the Law Society of Singapore, returns with six modules led by distinguished Senior Counsel. Topics include court submissions, duty to the court, disciplinary processes, conflicts of interest, common ethical scenarios, and English ethics practice. An invaluable opportunity for lawyers to learn best practices in legal ethics, delivered virtually via Zoom.",
+      "eventLink": "https://reg.eventnook.com/event/u77614",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7783"
     }
   ]
 }
