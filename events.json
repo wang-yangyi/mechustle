@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-07-02T02:48:57.922758+00:00",
-  "count": 80,
+  "generatedAt": "2026-07-03T02:31:52.621242+00:00",
+  "count": 83,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7692,
-      "title": "[WEBINAR] Building a Professional Brand and Delivering an Impactful Pitch for Legal Professionals (Session 1)",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-07-02",
-      "dateTo": "2026-07-02",
-      "venue": "Webinar",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "This exclusive three-part webinar series is designed to equip legal professionals with the tools, mindset, and strategies to build a compelling personal brand, show up authentically in every interaction, and deliver pitches that win mandates and open doors.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7692"
-    },
-    {
-      "id": 7745,
-      "title": "From Chaos to Order: Maximising Microsoft Word's Tools for Legal Documents",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-02",
-      "dateTo": "2026-07-02",
-      "venue": "ISCA House, 60 Cecil St, Singapore 049709",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "This workshop equips legal practitioners with practical Microsoft Word skills to reduce such risks. Participants will learn to produce clearly structured and professionally formatted legal documents, manage redlines and revisions accurately, and develop reusable precedent templates which achieve higher-quality deliverables and greater efficiency in matter management.",
-      "eventLink": "https://reg.eventnook.com/event/u77561",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7745"
-    },
     {
       "id": 7605,
       "title": "AI, Law & Responsible Use",
@@ -378,21 +344,21 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7732"
     },
     {
-      "id": 7760,
-      "title": "[WEBINAR] The Human Right to Peace: Past, Present, Future",
+      "id": 7781,
+      "title": "[WEBINAR] Senior Counsel Forum 2026 - Module 1: How to Make Good Submissions",
       "mandatory": false,
       "format": "Webinar / Online",
-      "dateFrom": "2026-07-15",
-      "dateTo": "2026-07-15",
+      "dateFrom": "2026-07-14",
+      "dateTo": "2026-07-14",
       "venue": "Webinar",
-      "organiser": "See Event Outline",
-      "practiceArea": "International Law",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
       "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by NUS Centre for International Law. This webinar examines the right to peace as a human right recognised in international, regional, and domestic legal frameworks. Despite this recognition, uncertainty remains regarding its legal status, content, and implementation. Against the backdrop of ongoing armed conflicts worldwide, participants will explore the development of the right, contemporary legal approaches, its role in strengthening the international legal order, and ways to advance it as an enforceable legal entitlement.",
-      "eventLink": "https://cil.nus.edu.sg/event/the-human-right-to-peace-past-present-and-future/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7760"
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "The Senior Counsel Forum, by the Law Society of Singapore, returns with six modules led by distinguished Senior Counsel. Topics include court submissions, duty to the court, disciplinary processes, conflicts of interest, common ethical scenarios, and English ethics practice. An invaluable opportunity for lawyers to learn best practices in legal ethics, delivered virtually via Zoom.",
+      "eventLink": "https://reg.eventnook.com/event/u77614",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7781"
     },
     {
       "id": 7764,
@@ -410,6 +376,23 @@
       "outline": "Financial issues are often the most contentious and anxiety-inducing aspect of divorce, particularly in community, pro bono and low-bono matters where clients may have limited resources, incomplete information, or significant financial power imbalances.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7764"
+    },
+    {
+      "id": 7760,
+      "title": "[WEBINAR] The Human Right to Peace: Past, Present, Future",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-15",
+      "dateTo": "2026-07-15",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. This webinar examines the right to peace as a human right recognised in international, regional, and domestic legal frameworks. Despite this recognition, uncertainty remains regarding its legal status, content, and implementation. Against the backdrop of ongoing armed conflicts worldwide, participants will explore the development of the right, contemporary legal approaches, its role in strengthening the international legal order, and ways to advance it as an enforceable legal entitlement.",
+      "eventLink": "https://cil.nus.edu.sg/event/the-human-right-to-peace-past-present-and-future/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7760"
     },
     {
       "id": 7674,
@@ -716,6 +699,23 @@
       "outline": "A guilty plea is more than a procedural step—it carries serious consequences for the client’s future. How can defence counsel ensure the plea is made knowingly, voluntarily, and with full understanding?\nThis seminar will equip criminal defence lawyers with the tools to navigate the legal and ethical landscape of guilty pleas. Learn when and how to advise clients, what they must understand before pleading, and how to support them even after sentencing.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7738"
+    },
+    {
+      "id": 7821,
+      "title": "[WEBINAR] Introduction to the International Climate Change Legal Regime (UNFCCC and Paris Agreement)",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-23",
+      "dateTo": "2026-07-23",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. This lecture introduces the international legal framework on climate change through the UNFCCC, the Kyoto Protocol, and the Paris Agreement. It examines their development, key obligations, and the principles of international cooperation, equity, differentiated responsibilities, transparency, and implementation. The session also explores the achievements, limitations, and policy relevance of these agreements, providing a foundation for understanding contemporary global climate governance.",
+      "eventLink": "https://cil.nus.edu.sg/event/climate-change-e-academy-july-to-november-2026/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7821"
     },
     {
       "id": 7668,
@@ -1041,6 +1041,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7784"
     },
     {
+      "id": 7782,
+      "title": "[WEBINAR] Senior Counsel Forum 2026 - Module 2: Duty to the Court: An Officer and A Lawyer",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-04",
+      "dateTo": "2026-08-04",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "The Senior Counsel Forum, by the Law Society of Singapore, returns with six modules led by distinguished Senior Counsel. Topics include court submissions, duty to the court, disciplinary processes, conflicts of interest, common ethical scenarios, and English ethics practice. An invaluable opportunity for lawyers to learn best practices in legal ethics, delivered virtually via Zoom.",
+      "eventLink": "https://reg.eventnook.com/event/u77614",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7782"
+    },
+    {
       "id": 7520,
       "title": "A Practical Workshop in Building and Construction Dispute Resolution+",
       "mandatory": false,
@@ -1362,6 +1379,40 @@
       "outline": "This module delves into Artificial Intelligence (AI) and Data in the legal industry. Participants will understand what is currently happening within this space and how AI and data can be utilised most efficiently within the legal sector.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-advanced-certificate-law-and-technology-module-3-applications-data-and-ai?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7786"
+    },
+    {
+      "id": 7700,
+      "title": "[WEBINAR] International Arbitration In Practice 2026 - Session 3: Working with Third Parties: Co-counsel and Experts",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-14",
+      "dateTo": "2026-08-14",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "This session explores practical considerations in managing relationships with local counsel, foreign lawyers, barristers, and expert witnesses in international arbitration. Drawing on practitioners’ experiences, it examines cross-jurisdictional challenges, common pitfalls, and effective strategies. The session also covers engaging and instructing experts, including expert briefs, timelines, independence, conflicts of interest, and preparing useful expert evidence for international tribunals.",
+      "eventLink": "https://reg.eventnook.com/event/u77632",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7700"
+    },
+    {
+      "id": 7744,
+      "title": "Lunchtime Conversations: Redesigning Legal Work for the Future",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-14",
+      "dateTo": "2026-08-14",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "mec",
+      "outline": "This seminar is targeted at managing partners, general counsel, team leaders and HR professionals in law firms and in-house legal teams.",
+      "eventLink": "https://store.lawnet.com/lunchtime-conversations-redesigning-legal-work-for-the-future-aug-2026.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7744"
     }
   ]
 }
