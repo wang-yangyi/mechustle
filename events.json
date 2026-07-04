@@ -1,59 +1,8 @@
 {
-  "generatedAt": "2026-07-03T02:31:52.621242+00:00",
+  "generatedAt": "2026-07-04T02:29:19.422042+00:00",
   "count": 83,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7605,
-      "title": "AI, Law & Responsible Use",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-03",
-      "dateTo": "2026-07-03",
-      "venue": "Singapore Management University",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Telecommunications, Media & Technology",
-      "mecSegment": "Yes",
-      "ptsValue": 2.5,
-      "ptsType": "mec",
-      "outline": "This half-day masterclass equips lawyers with a practical understanding of AI’s legal, regulatory and ethical implications. Covering governance, risk, and professional responsibilities, it combines focused modules with a hands-on workshop to enable participants to confidently advise clients and manage AI use within their organisations.",
-      "eventLink": "https://law.smu.edu.sg/newsletter/smula-masterclass-ai-law-responsible-use",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7605"
-    },
-    {
-      "id": 7697,
-      "title": "[WEBINAR] New Frontiers for Online Safety",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-07-03",
-      "dateTo": "2026-07-03",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Government",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "The provisions of OSRA will be activated within the next few weeks (if not already brought into force). It is therefore timely for the legal profession and generally the public of Singapore to obtain greater awareness of this rather unique new law whose provisions can have a substantial impact on personal interactions and social behaviour here in Singapore.",
-      "eventLink": "https://reg.eventnook.com/event/u77631",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7697"
-    },
-    {
-      "id": 7717,
-      "title": "Santa Marta Conference Debrief: Transitioning Away from Fossil Fuels",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-03",
-      "dateTo": "2026-07-03",
-      "venue": "White & Case LLP Office 88 Market Street, #41-01 CapitaSpring, Singapore 048948",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "The inaugural Conference for the Just Transition Away from Fossil Fuels at COP2025, reignited hopes for legal and policy shifts to move countries off fossil fuels. Outcomes include a coordination group of states driving transition efforts and a Science Panel for the Global Energy Transition. \nJoin us in discussing how these developments will impact the climate change regime, renewable energy infrastructure, project financing, and negotiating dynamics amongst subsidiary bodies.",
-      "eventLink": "https://law.nus.edu.sg/apcel/events/apcel-santa-marta-conference-debrief-transitioning-away-from-fossil-fuels/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7717"
-    },
     {
       "id": 7673,
       "title": "[WEBINAR] International Entry Course 2026",
@@ -361,23 +310,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7781"
     },
     {
-      "id": 7764,
-      "title": "[WEBINAR] Community Law Training Programme 2026 - Module 3: Divorce Part 3: Financial Issues",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-07-15",
-      "dateTo": "2026-07-15",
-      "venue": "Webinar",
-      "organiser": "Pro Bono SG",
-      "practiceArea": "Family",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "Financial issues are often the most contentious and anxiety-inducing aspect of divorce, particularly in community, pro bono and low-bono matters where clients may have limited resources, incomplete information, or significant financial power imbalances.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7764"
-    },
-    {
       "id": 7760,
       "title": "[WEBINAR] The Human Right to Peace: Past, Present, Future",
       "mandatory": false,
@@ -393,6 +325,23 @@
       "outline": "This event is organised by NUS Centre for International Law. This webinar examines the right to peace as a human right recognised in international, regional, and domestic legal frameworks. Despite this recognition, uncertainty remains regarding its legal status, content, and implementation. Against the backdrop of ongoing armed conflicts worldwide, participants will explore the development of the right, contemporary legal approaches, its role in strengthening the international legal order, and ways to advance it as an enforceable legal entitlement.",
       "eventLink": "https://cil.nus.edu.sg/event/the-human-right-to-peace-past-present-and-future/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7760"
+    },
+    {
+      "id": 7764,
+      "title": "[WEBINAR] Community Law Training Programme 2026 - Module 3: Divorce Part 3: Financial Issues",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-15",
+      "dateTo": "2026-07-15",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Family",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "Financial issues are often the most contentious and anxiety-inducing aspect of divorce, particularly in community, pro bono and low-bono matters where clients may have limited resources, incomplete information, or significant financial power imbalances.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7764"
     },
     {
       "id": 7674,
@@ -803,6 +752,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7728"
     },
     {
+      "id": 7672,
+      "title": "Shaping the Future of Personal Injury Law: Technology, Risk and Reform",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-24",
+      "dateTo": "2026-07-24",
+      "venue": "Havelock Hall, B2, State Courts of Singapore, 1 Havelock Square, Singapore 059724",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Personal Injury",
+      "mecSegment": "Yes",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "This year’s programme will examine product liability and personal injury claims arising from digital commerce, complex supply chains, and emerging technologies, followed by an overview of the Ministry of Law’s AI Guidelines and the responsible use of AI in the context of PIPD practice",
+      "eventLink": "https://store.lawnet.com/shaping-the-future-of-personal-injury-law-technology-risk-and-reform.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7672"
+    },
+    {
       "id": 7494,
       "title": "JLP - Cross-border Contract Drafting and Negotiation",
       "mandatory": false,
@@ -937,6 +903,23 @@
       "outline": "Not every mental condition changes the legal outcome and some may do so in surprising ways. This module equips lawyers to better identify psychiatric and psychological conditions in clients and understand their legal implications.\nLearn how to work with forensic psychiatrists, interpret reports, and support vulnerable witnesses. We’ll also explore the growing role of social workers and intermediaries in enhancing justice outcomes.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7747"
+    },
+    {
+      "id": 7731,
+      "title": "IT LAW SERIES: Leveraging Technology Tools in the Legal Sector",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-30",
+      "dateTo": "2026-07-30",
+      "venue": "Guoco Midtown Network Hub",
+      "organiser": "IP Academy (Singapore)",
+      "practiceArea": "Telecommunications, Media & Technology",
+      "mecSegment": "Yes",
+      "ptsValue": 2.5,
+      "ptsType": "mec",
+      "outline": "This seminar series aims to provide participants with an overview of some of the latest IT law issues and developments. Every session focuses on a different topic and will be conducted by a variety of leading practitioners and academics in the relevant field, who will deliver presentations and participate in a Q&A discussion with opportunities for participants to pose questions.",
+      "eventLink": "https://iposinternational.com/academy/ip-professionals/it-law-series-leveraging-technology-tools_807",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7731"
     },
     {
       "id": 7628,
@@ -1143,6 +1126,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7748"
     },
     {
+      "id": 7818,
+      "title": "[WEBINAR] Paris Agreement: Implementation and Compliance",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-06",
+      "dateTo": "2026-08-06",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This webinar is organised by NUS - Centre for International Law. This lecture will examine the Paris Agreement Implementation and Compliance Committee (PAICC), established under Article 15 of the Paris Agreement. It will explore the similarities and differences between the PAICC and compliance mechanisms under earlier multilateral environmental agreements. The lecture will also assess the PAICC’s contributions to global climate change efforts since the Paris Agreement entered into force.",
+      "eventLink": "https://cil.nus.edu.sg/event/climate-change-e-academy-july-to-november-2026/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7818"
+    },
+    {
       "id": 7658,
       "title": "Criminal Practice 101: Mentions Court Matters",
       "mandatory": false,
@@ -1279,23 +1279,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7682"
     },
     {
-      "id": 7696,
-      "title": "[WEBINAR] Decoding Trump’s Tariffs Policy: Method in the Madness",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-08-12",
-      "dateTo": "2026-08-12",
-      "venue": "WEBINAR",
-      "organiser": "Singapore Management University",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "This seminar will revisit the Liberation Day tariffs one year on, unpacking both their original rationale and their real-world consequences. The session will examine the political-economic logic driving the policy, analyze responses from key actors, especially China, and explore how the emerging bilateral deals are reshaping global trade governance in ways that remain under-appreciated.",
-      "eventLink": "https://law.smu.edu.sg/newsletter/smula-recent-highlights-series-decoding-trumps-tariffs-policy-method-madness?newsletter",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7696"
-    },
-    {
       "id": 7558,
       "title": "[WEBINAR] People, Pitfalls, and Practice: Managing Interpersonal Challenges in Law",
       "mandatory": false,
@@ -1311,6 +1294,23 @@
       "outline": "In this webinar, participants will learn why challenging behaviors arise, gain greater awareness of their own triggers and default responses, and learn practical strategies to navigate difficult conversations with colleagues, supervisors, and clients.",
       "eventLink": "https://reg.eventnook.com/event/u77463",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7558"
+    },
+    {
+      "id": 7696,
+      "title": "[WEBINAR] Decoding Trump’s Tariffs Policy: Method in the Madness",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-12",
+      "dateTo": "2026-08-12",
+      "venue": "WEBINAR",
+      "organiser": "Singapore Management University",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "This seminar will revisit the Liberation Day tariffs one year on, unpacking both their original rationale and their real-world consequences. The session will examine the political-economic logic driving the policy, analyze responses from key actors, especially China, and explore how the emerging bilateral deals are reshaping global trade governance in ways that remain under-appreciated.",
+      "eventLink": "https://law.smu.edu.sg/newsletter/smula-recent-highlights-series-decoding-trumps-tariffs-policy-method-madness?newsletter",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7696"
     },
     {
       "id": 7560,
