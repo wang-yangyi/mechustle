@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-07-04T02:29:19.422042+00:00",
-  "count": 83,
+  "generatedAt": "2026-07-05T02:39:00.214909+00:00",
+  "count": 82,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7673,
-      "title": "[WEBINAR] International Entry Course 2026",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-07-04",
-      "dateTo": "2026-07-04",
-      "venue": "Webinar",
-      "organiser": "Singapore Institute of Arbitrators",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 6.0,
-      "ptsType": "cpd",
-      "outline": "The IEC consists of 4 modules, 2 tutorials and a written assessment. Each module comprises 2 lectures. Each module covers a particular segment of arbitration law and practice.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7673",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7673"
-    },
     {
       "id": 7734,
       "title": "[WEBINAR] CLAS Training Programme 2026 - Module 1: 101 of Criminal Lawyering - Navigating Ethics, Taking Instructions, and Professional Standards",
