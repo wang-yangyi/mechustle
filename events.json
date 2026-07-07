@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-07-06T02:43:54.499421+00:00",
+  "generatedAt": "2026-07-07T02:39:42.113917+00:00",
   "count": 88,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7734,
-      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 1: 101 of Criminal Lawyering - Navigating Ethics, Taking Instructions, and Professional Standards",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-07-06",
-      "dateTo": "2026-07-06",
-      "venue": "Webinar",
-      "organiser": "Pro Bono SG",
-      "practiceArea": "Crime",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "Criminal defence lawyers walk a fine line—fierce advocates for their clients, yet bound by duties to the Court. This seminar explores the ethical tightrope defence counsel must navigate: taking instructions effectively, managing real-world challenges, and meeting evolving professional obligations. Are the standards rising? Are expectations shifting?",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7734"
-    },
-    {
-      "id": 7549,
-      "title": "[WEBINAR] Challenging Clients, Challenged Lawyers: Ethics and Excellence in Modern Client Care",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-07-06",
-      "dateTo": "2026-07-06",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "mec",
-      "outline": "This webinar is particularly useful for practitioners who wish to gain a better understanding on how to improve relationships with clients as well as those who want to develop their skills in this area.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7549",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7549"
-    },
     {
       "id": 7578,
       "title": "Mastering AML/CFT in the Digital Age: Effective Internal Framework, Emerging Risks, and Tech-Enabled Compliance for Legal Professionals",
@@ -293,23 +259,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7781"
     },
     {
-      "id": 7764,
-      "title": "[WEBINAR] Community Law Training Programme 2026 - Module 3: Divorce Part 3: Financial Issues",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-07-15",
-      "dateTo": "2026-07-15",
-      "venue": "Webinar",
-      "organiser": "Pro Bono SG",
-      "practiceArea": "Family",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "Financial issues are often the most contentious and anxiety-inducing aspect of divorce, particularly in community, pro bono and low-bono matters where clients may have limited resources, incomplete information, or significant financial power imbalances.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7764"
-    },
-    {
       "id": 7760,
       "title": "[WEBINAR] The Human Right to Peace: Past, Present, Future",
       "mandatory": false,
@@ -325,6 +274,23 @@
       "outline": "This event is organised by NUS Centre for International Law. This webinar examines the right to peace as a human right recognised in international, regional, and domestic legal frameworks. Despite this recognition, uncertainty remains regarding its legal status, content, and implementation. Against the backdrop of ongoing armed conflicts worldwide, participants will explore the development of the right, contemporary legal approaches, its role in strengthening the international legal order, and ways to advance it as an enforceable legal entitlement.",
       "eventLink": "https://cil.nus.edu.sg/event/the-human-right-to-peace-past-present-and-future/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7760"
+    },
+    {
+      "id": 7764,
+      "title": "[WEBINAR] Community Law Training Programme 2026 - Module 3: Divorce Part 3: Financial Issues",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-15",
+      "dateTo": "2026-07-15",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Family",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "Financial issues are often the most contentious and anxiety-inducing aspect of divorce, particularly in community, pro bono and low-bono matters where clients may have limited resources, incomplete information, or significant financial power imbalances.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7764"
     },
     {
       "id": 7674,
@@ -1498,6 +1464,40 @@
       "outline": "SMU Yong Pung How School of Law is pleased to invite members of the legal fraternity in Singapore and other interested parties to apply to audit selected LLB courses offered by the school. Participants are welcome to attend and observe seminars taught by our instructors. They are exempted from course requirements and a certificate of attendance will be awarded at the end of the course upon meeting the attendance requirements.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-yong-pung-how-school-law-auditing-programme-ay2026-27-term-1?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7791"
+    },
+    {
+      "id": 7557,
+      "title": "Prompt to Practice: A Launchpad for Exploring AI in Legal Work",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-18",
+      "dateTo": "2026-08-18",
+      "venue": "Members' Lounge (The Law Society of Singapore), 28 Maxwell Road, #01-03, Singapore 069120",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 2.5,
+      "ptsType": "mec",
+      "outline": "This hands-on workshop is designed for lawyers who are beginning to explore AI and want a practical, grounded introduction to what it can do for their practice.",
+      "eventLink": "https://reg.eventnook.com/event/u77469/home",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7557"
+    },
+    {
+      "id": 7521,
+      "title": "JLP - Application Advocacy+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-18",
+      "dateTo": "2026-08-19",
+      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Civil Procedure",
+      "mecSegment": "Yes",
+      "ptsValue": 1.5,
+      "ptsType": "mec",
+      "outline": "Get equipped with essential skills to effectively prepare for and argue applications in court.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7521"
     }
   ]
 }
