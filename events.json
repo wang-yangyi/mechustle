@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-07-07T02:39:42.113917+00:00",
-  "count": 88,
+  "generatedAt": "2026-07-08T02:13:18.012891+00:00",
+  "count": 91,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7578,
-      "title": "Mastering AML/CFT in the Digital Age: Effective Internal Framework, Emerging Risks, and Tech-Enabled Compliance for Legal Professionals",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-07",
-      "dateTo": "2026-07-07",
-      "venue": "Organiser The Law Society of Singapore",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "mec",
-      "outline": "This seminar equips legal professionals with essential AML/CFT knowledge and practical skills to navigate regulatory complexities. Key topics include best practices for internal policies and controls, emerging money laundering trends in the digital age, and technological advancements to strengthen compliance, providing valuable insights to enhance attendees' overall compliance strategies effectively.",
-      "eventLink": "https://reg.eventnook.com/event/u77486",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7578"
-    },
-    {
-      "id": 7689,
-      "title": "[WEBINAR & IN-PERSON] AI Ethics in Legal Practice: Governance, Accountability, and Regulatory Readiness",
-      "mandatory": false,
-      "format": "Hybrid",
-      "dateFrom": "2026-07-07",
-      "dateTo": "2026-07-07",
-      "venue": "Webinar / 1 Ayer Rajah Avenue, Singapore 138676",
-      "organiser": "See Event Outline",
-      "practiceArea": "Telecommunications, Media & Technology",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Assas International School (Singapore). A practical framework for lawyers advising senior executives responsible for AI governance, focused on the ethical concepts now embedded in regulatory obligations and how to make AI decisions explainable, auditable, and legally defensible. The course is offered by Assas International, Singapore campus of Paris Panthéon-Assas University.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7689"
-    },
     {
       "id": 7763,
       "title": "[WEBINAR] Community Law Training Programme 2026 - Module 2: Divorce Part 2: Children Issues in Divorce",
@@ -497,6 +463,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7765"
     },
     {
+      "id": 7807,
+      "title": "[WEBINAR] Specialist Arbitration Series: Energy, Oil & Gas Arbitrations (Virtual Edition)",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-07-22",
+      "dateTo": "2026-07-22",
+      "venue": "Webinar",
+      "organiser": "Singapore International Arbitration Centre",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "Arbitration has become the preferred method of dispute resolution for a wide range of commercial disputes. The Specialist Arbitration Series seeks to shine the spotlight on the different areas of arbitration disputes, the major stakeholders, contractual relationships, key legal principles and types of claims and defences that are typically brought in that area, as well as the issues and strategic considerations to take note of in each stage of the arbitration for that particular area of dispute.",
+      "eventLink": "https://siac.org.sg/event/specialist-arbitration-series-energy-oil-gas-arbitrations-virtual-edition",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7807"
+    },
+    {
       "id": 7618,
       "title": "[WEBINAR] Beyond Instinct: Evidence-Based Negotiation for Legal Practice",
       "mandatory": false,
@@ -614,6 +597,23 @@
       "outline": "This event is organised by NUS Centre for International Law. This lecture introduces the international legal framework on climate change through the UNFCCC, the Kyoto Protocol, and the Paris Agreement. It examines their development, key obligations, and the principles of international cooperation, equity, differentiated responsibilities, transparency, and implementation. The session also explores the achievements, limitations, and policy relevance of these agreements, providing a foundation for understanding contemporary global climate governance.",
       "eventLink": "https://cil.nus.edu.sg/event/climate-change-e-academy-july-to-november-2026/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7821"
+    },
+    {
+      "id": 7794,
+      "title": "AI Workshop for Legal Professionals (23 July)",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-23",
+      "dateTo": "2026-07-23",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "Step into the world of artificial intelligence with this practical, in-person workshop designed specifically for legal professionals. Gain foundational skills and the confidence to apply AI in your everyday work—from legal research to drafting and contract analysis. Guided by experienced trainers, you'll explore how to evaluate and use a range of general and legal-specific AI tools effectively and responsibly. Participants will work directly on their own devices with live support, ensuring a hands-on, outcome-focused learning experience.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7794"
     },
     {
       "id": 7668,
@@ -786,6 +786,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7343"
     },
     {
+      "id": 7827,
+      "title": "[WEBINAR & IN-PERSON] IWIRC x Acrostics Asia Panel on Southeast Asia Restructuring Evolution",
+      "mandatory": false,
+      "format": "Hybrid",
+      "dateFrom": "2026-07-29",
+      "dateTo": "2026-07-29",
+      "venue": "Webinar / Stephenson Harwood (Singapore) Alliance Office, 8 Marina Boulevard #29-01, Tower 1 Marina Bay Financial Centre, Singapore 018981",
+      "organiser": "See Event Outline",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by IWIRC Singapore. This seminar will deal with the notable developments in the Southeast Asia’s restructuring and insolvency landscape over the past year (including Vietnam’s new law that prioritises rehabilitation, Malaysia’s move to align its insolvency framework with international practices, and an agreement between the Supreme Courts of Singapore and Indonesia for greater coordination) and the potential implications for investors, borrowers and restructuring professionals.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7827",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7827"
+    },
+    {
       "id": 7766,
       "title": "[WEBINAR] Community Law Training Programme 2026 - Module 5: Syariah Divorces",
       "mandatory": false,
@@ -886,23 +903,6 @@
       "outline": "This module delves into IP laws and applying it to digital assets. Participants will acquire the knowledge to making proper considerations in managing and disputing IP matters. They will also learn how to manage digital assets and understand the application of IP law in this digital age.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7628"
-    },
-    {
-      "id": 7629,
-      "title": "Advanced Certificate in Law and Technology Module 8: Crimes of the Digital Economy+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-30",
-      "dateTo": "2026-07-31",
-      "venue": "Singapore Management University",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Crime",
-      "mecSegment": "NA",
-      "ptsValue": 12.0,
-      "ptsType": "cpd",
-      "outline": "This module examines the various digital ecosystems and offers insight on the implications of cybercrime. Participants will also learn preventive measures and build immunity against cybercrimes.",
-      "eventLink": "https://law.smu.edu.sg/newsletter/smula-advanced-certificate-law-and-technology-module-8-crimes-digital-economy-aclt?newsletter=",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7629"
     },
     {
       "id": 7803,
@@ -1022,6 +1022,23 @@
       "outline": "This module focuses on how lawyers and practitioners can better recognise and respond to invisible disabilities when assisting clients in community, pro bono and low-bono settings. Adopting a practical and community-law focused approach, the session explores how invisible disabilities may present in family and community law cases, and how inclusive, trauma-informed practices can improve access to justice.\nThis session is designed for practitioners working in community legal clinics and family law matters involving vulnerable clients.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7767"
+    },
+    {
+      "id": 7817,
+      "title": "[WEBINAR] Urgent Interim Relief in Insolvency Proceedings and Clawback Actions",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-05",
+      "dateTo": "2026-08-05",
+      "venue": "Webinar",
+      "organiser": "Insolvency Practitioners Association of Singapore",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "When speed is essential, the Singapore Courts can grant urgent interim relief in insolvency matters. This seminar covers key tools including provisional liquidation, interim judicial management, interim receivership in bankruptcy, moratoriums in scheme proceedings, injunctive relief in clawback actions, and court ordered receivership. It also examines key principles, practical considerations, and common pitfalls in making or opposing such applications.",
+      "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/Q1h5Tzk0a2EwUGFUNU1xZTlCZ0NMZz09/V3BJMStEUWNWdFVjazQrOHEvT3R3UT09",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7817"
     },
     {
       "id": 7677,
@@ -1498,6 +1515,40 @@
       "outline": "Get equipped with essential skills to effectively prepare for and argue applications in court.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7521"
+    },
+    {
+      "id": 7769,
+      "title": "[WEBINAR] Community Law Training Programme 2026 - Module 8: Child Protection Proceedings",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-19",
+      "dateTo": "2026-08-19",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Family",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "Child Protection Proceedings can be complex, urgent, and deeply impactful. Using a practical overview of how Care and Protection Order applications are handled in the Youth Court, and the role counsel can play in supporting families through the process.\nLearn the key stages of proceedings, from first mention to social report hearings, family conferences, contested hearings, and appeals. Gain insight into common court orders, expectations of represented parties, and how legal assistance can help clients navigate emotionally charged situations with clarity and confidence.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7769"
+    },
+    {
+      "id": 7822,
+      "title": "[WEBINAR] AML/CFT/PF in Practice: Managing Client Risk, Red Flags and Reporting Obligations in Today’s Legal Landscape",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-19",
+      "dateTo": "2026-08-19",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "mec",
+      "outline": "By the end of the programme, participants should be able to identify key AML/CFT/PF risks in legal practice, recognise common and emerging red flags, assess when enhanced due diligence or ongoing monitoring may be required, understand the practical considerations around STR filing, and appreciate the importance of proper documentation, internal controls and escalation within the law practice.",
+      "eventLink": "https://reg.eventnook.com/event/u77727",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7822"
     }
   ]
 }
