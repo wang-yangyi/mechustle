@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T02:14:47.546984+00:00",
-  "count": 101,
+  "generatedAt": "2026-07-13T02:16:38.013808+00:00",
+  "count": 103,
   "errorCount": 0,
   "events": [
     {
@@ -1719,6 +1719,40 @@
       "outline": "There have been many significant changes to Family Law legislation in recent years. This seminar seeks to provide an overview of the key changes, including the sixth fact relating to divorce, the new regimes and frameworks relating to enforcement of custody and access orders, maintenance enforcement, and the enhanced judge-led powers of the court. The speakers will also review the effectiveness of these changes in strengthening Therapeutic Justice elements in our family proceedings.",
       "eventLink": "https://www.suss.edu.sg/news-events/happenings/events/detail/2026/08/21/default-calendar/recent-developments-in-family-law---legislative-reforms-and-therapeutic-justice-in-singapore",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7811"
+    },
+    {
+      "id": 7727,
+      "title": "Family Law Masterclass for the Advanced Practitioner+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-24",
+      "dateTo": "2026-08-25",
+      "venue": "Singapore Academy of Law (SAL) The Adelphi, 1 Coleman Street #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Family",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "The Masterclass deals with the breadth and depth of family matters. While the standard topics such as matrimonial and divorce proceedings, maintenance, adopt, maintenance, will be covered, their treatment will focus on complex issues that experienced family lawyers may encounter or are increasingly encountering in their practice, such as pre-nuptial agreements, co-mingling of assets and enforcement of foreign divorce orders. At the end of the course, participants will achieve a better understanding and appreciation for, and thus able to better handle, complex family matters. The course is targeted at family law practitioners with at least 5 years of family law practice experience.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7727"
+    },
+    {
+      "id": 7787,
+      "title": "Advanced Certificate in Law and Technology Module 7: Personal Data and Data Protection+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-24",
+      "dateTo": "2026-08-25",
+      "venue": "Singapore Management University",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Data Protection & Privacy",
+      "mecSegment": "NA",
+      "ptsValue": 12.0,
+      "ptsType": "cpd",
+      "outline": "This module equips participants with the relevant skills to interpret and respond to increasingly complex privacy rules. Participants will also learn about current laws and practices that impact privacy rights, development of privacy laws, norms and cybersecurity issues.",
+      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-advanced-certificate-law-and-technology-module-7-personal-data-and-data-protection?newsletter",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7787"
     }
   ]
 }
