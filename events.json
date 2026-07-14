@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-07-13T02:16:38.013808+00:00",
+  "generatedAt": "2026-07-14T02:02:51.088431+00:00",
   "count": 103,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7401,
-      "title": "[WEBINAR] Advanced Certificate in Law and Technology Module 2: Essentials of LegalTech - Digitalisating Legal Work+",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-07-13",
-      "dateTo": "2026-07-14",
-      "venue": "Webinar",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "Yes",
-      "ptsValue": 2.0,
-      "ptsType": "mec",
-      "outline": "This module covers all the basic know-how you need to start implementing the 21st Century Office ASAP, from explaining how the various technologies work and how to apply them, to how culture is both the cultural glue and foundation from which the 21st Century Office can take off from.",
-      "eventLink": "https://law.smu.edu.sg/node/32546?newsletter",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7401"
-    },
-    {
-      "id": 7732,
-      "title": "ABA CJS’s Global White Collar Crime Institute+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-13",
-      "dateTo": "2026-07-14",
-      "venue": "Asian Civilisations Museum",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Crime",
-      "mecSegment": "NA",
-      "ptsValue": 9.0,
-      "ptsType": "cpd",
-      "outline": "During this one-and-a-half-day conference in Singapore, cutting edge issues in the field of international white collar crime will be examined and discussed and participants will learn about international white collar criminal laws and issues that matter most to their practices in 2026 and beyond.",
-      "eventLink": "https://events.americanbar.org/event/d30373d8-4cbd-44bd-b835-aae72a78efa5/summary",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7732"
-    },
     {
       "id": 7781,
       "title": "[WEBINAR] Senior Counsel Forum 2026 - Module 1: How to Make Good Submissions",
@@ -786,6 +752,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7843"
     },
     {
+      "id": 7842,
+      "title": "Foundation Mediation Training - Module 1: Foundations of Conflict",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-07-30",
+      "dateTo": "2026-07-30",
+      "venue": "PracticeForte Resolution Space, 70 Shenton Way, #11-13/14/15 Eon Shenton, Singapore 079118",
+      "organiser": "See Event Outline",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by PracticeForte Pte. Ltd.Conflicts are inevitable — but how we respond to them defines outcomes. This half-day module explores the nature and dynamics of conflict, key resolution models, and the critical distinction between positions and interests. Participants complete an individual conflict style assessment (TKI) to build the self-awareness every effective mediator needs.",
+      "eventLink": "https://practiceforte.sg/training/foundation-mediation-training/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7842"
+    },
+    {
       "id": 7803,
       "title": "Foundation Mediation Training+",
       "mandatory": false,
@@ -1279,23 +1262,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7682"
     },
     {
-      "id": 7558,
-      "title": "[WEBINAR] People, Pitfalls, and Practice: Managing Interpersonal Challenges in Law",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-08-12",
-      "dateTo": "2026-08-12",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "In this webinar, participants will learn why challenging behaviors arise, gain greater awareness of their own triggers and default responses, and learn practical strategies to navigate difficult conversations with colleagues, supervisors, and clients.",
-      "eventLink": "https://reg.eventnook.com/event/u77463",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7558"
-    },
-    {
       "id": 7696,
       "title": "[WEBINAR] Decoding Trump’s Tariffs Policy: Method in the Madness",
       "mandatory": false,
@@ -1311,6 +1277,23 @@
       "outline": "This seminar will revisit the Liberation Day tariffs one year on, unpacking both their original rationale and their real-world consequences. The session will examine the political-economic logic driving the policy, analyze responses from key actors, especially China, and explore how the emerging bilateral deals are reshaping global trade governance in ways that remain under-appreciated.",
       "eventLink": "https://law.smu.edu.sg/newsletter/smula-recent-highlights-series-decoding-trumps-tariffs-policy-method-madness?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7696"
+    },
+    {
+      "id": 7558,
+      "title": "[WEBINAR] People, Pitfalls, and Practice: Managing Interpersonal Challenges in Law",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-12",
+      "dateTo": "2026-08-12",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "In this webinar, participants will learn why challenging behaviors arise, gain greater awareness of their own triggers and default responses, and learn practical strategies to navigate difficult conversations with colleagues, supervisors, and clients.",
+      "eventLink": "https://reg.eventnook.com/event/u77463",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7558"
     },
     {
       "id": 7560,
@@ -1483,7 +1466,7 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7458"
     },
     {
-      "id": 7497,
+      "id": 7855,
       "title": "JLP - Translating Corporate Governance Principles into Legal Frameworks",
       "mandatory": false,
       "format": "In-person",
@@ -1496,8 +1479,8 @@
       "ptsValue": 1.0,
       "ptsType": "mec",
       "outline": "This module is designed to equip junior lawyers with the skills to advise clients on corporate governance issues, and how to balance ethical considerations with the rights of relevant stakeholders, and to comply with the prevailing regulations.",
-      "eventLink": "https://store.lawnet.com/jlp-translating-corporate-governance-principles-into-legal-frameworks-august-2026.html",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7497"
+      "eventLink": "https://store.lawnet.com/jlp-translating-corporate-governance-principles-into-legal-frameworks-august-2026.html%20%20",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7855"
     },
     {
       "id": 7791,
@@ -1753,6 +1736,23 @@
       "outline": "This module equips participants with the relevant skills to interpret and respond to increasingly complex privacy rules. Participants will also learn about current laws and practices that impact privacy rights, development of privacy laws, norms and cybersecurity issues.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-advanced-certificate-law-and-technology-module-7-personal-data-and-data-protection?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7787"
+    },
+    {
+      "id": 7723,
+      "title": "[WEBINAR & IN-PERSON] What To Do When The Mediator Goes Rogue? – Standards and Accountability in Mediation Seminar",
+      "mandatory": false,
+      "format": "Hybrid",
+      "dateFrom": "2026-08-25",
+      "dateTo": "2026-08-25",
+      "venue": "Webinar / 137 Amoy Street, Far East Square, #03-06, Singapore 049965",
+      "organiser": "See Event Outline",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "This event is organised by Sage Mediation Institute for Leadership Education. When mediators conduct themselves poorly, what can users and their advocates do to maintain user confidence in mediation practice. This seminar examines standards of professional mediation and explores the recourse available to parties who encounter unprofessional mediator behaviour. Expert panellists comprising practitioners and policymakers will discuss the need to strengthen safeguards and accountability frameworks to protect mediation users and uphold confidence in professional mediation.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7723",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7723"
     }
   ]
 }
