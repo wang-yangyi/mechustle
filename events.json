@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T02:01:50.998281+00:00",
-  "count": 106,
+  "generatedAt": "2026-07-19T02:12:50.599235+00:00",
+  "count": 108,
   "errorCount": 0,
   "events": [
     {
@@ -1313,6 +1313,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7791"
     },
     {
+      "id": 7829,
+      "title": "Visiting Sat Pal Khattar Professorial Lecture - The Insurance Act 2015: Is the Devil in the Detail?",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-18",
+      "dateTo": "2026-08-18",
+      "venue": "Yale-NUS Hall, University Town (Kent Ridge Campus)",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "The Insurance Act 2015 introduced significant changes to insurance contract law, amending or repealing central provisions of the Marine Insurance Act 1906. In force since August 2016, it marks its tenth anniversary this August. The reforms are broadly welcome, but questions remain about consistency within insurance contract law, consistency with general contract law, and the optimal level of legislative detail.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7829",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7829"
+    },
+    {
       "id": 7557,
       "title": "Prompt to Practice: A Launchpad for Exploring AI in Legal Work",
       "mandatory": false,
@@ -1736,6 +1753,23 @@
       "outline": "This two-day training module is designed to equip young lawyers with essential and practical skills in preparing for, dealing with and assisting in trial proceedings.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7647"
+    },
+    {
+      "id": 7679,
+      "title": "Kwa Geok Choo Distinguished Visitors Lecture - The Constitutional Status of the Bomb",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-27",
+      "dateTo": "2026-08-27",
+      "venue": "Yale-NUS Hall, University Town (Kent Ridge Campus)",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "Nuclear disarmament is often dismissed as idealistic, yet nuclear weapons continue to be justified through self-defence and deterrence, and remain deeply embedded in legal and political authority. This lecture explores the bomb as a constitutional artefact that has shaped world order, asking what forms of domination it sustains and why disarmament should be understood not as utopian aspiration, but as a constitutional imperative.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7679",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7679"
     },
     {
       "id": 7859,
