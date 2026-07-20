@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T02:12:50.599235+00:00",
-  "count": 108,
+  "generatedAt": "2026-07-20T02:33:03.093957+00:00",
+  "count": 109,
   "errorCount": 0,
   "events": [
     {
@@ -701,23 +701,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7848"
     },
     {
-      "id": 7582,
-      "title": "JLP - Understanding Business of Law+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-03",
-      "dateTo": "2026-08-04",
-      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "Yes",
-      "ptsValue": 4.5,
-      "ptsType": "mec",
-      "outline": "Learn how to position law firms and practice areas effectively, understand the fundamentals of the business of law, develop skills to become a trusted adviser, and master client pitch techniques.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7582"
-    },
-    {
       "id": 7784,
       "title": "[WEBINAR] Advanced Certificate in Law and Technology Module 6: Legal Issues in AI and Machine Learning+",
       "mandatory": false,
@@ -733,6 +716,23 @@
       "outline": "This module provides an overview of machine learning technology and dives into key terminology that will help participants navigate through legal issues in artificial intelligence. Participants will also dive deeper in the impacts of AI and its regulations, to better understand the power of AI and the magnitude that comes with it.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7784"
+    },
+    {
+      "id": 7582,
+      "title": "JLP - Understanding Business of Law+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-03",
+      "dateTo": "2026-08-04",
+      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 4.5,
+      "ptsType": "mec",
+      "outline": "Learn how to position law firms and practice areas effectively, understand the fundamentals of the business of law, develop skills to become a trusted adviser, and master client pitch techniques.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7582"
     },
     {
       "id": 7840,
@@ -1838,6 +1838,23 @@
       "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions. You will learn about the nature of conflicts and the most effective techniques to manage them. These fundamental dispute resolution strategies can be applied in diverse situations to manage work relationships within an organisation or with external parties, or to build stronger and more effective teams.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7733"
+    },
+    {
+      "id": 7600,
+      "title": "Certificate in Multi-Jurisdictional Tax and Structures",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-31",
+      "dateTo": "2026-08-31",
+      "venue": "Classroom at One Marina Boulevard",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "Yes",
+      "ptsValue": 2.5,
+      "ptsType": "mec",
+      "outline": "This event is organised by Wealth Management Institute (WMI). This module examines how family offices navigate cross-border tax and regulatory environments. It covers key regimes across major jurisdictions, with a focus on Singapore’s Section 13 incentives, licensing and structuring considerations. Participants explore CRS, FATCA, global minimum tax, and emerging trends, applying insights through practical case studies on family office operations.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-multi-jurisdictional-tax-structures/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7600"
     }
   ]
 }
