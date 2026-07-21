@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-07-20T02:33:03.093957+00:00",
-  "count": 109,
+  "generatedAt": "2026-07-21T02:11:39.476002+00:00",
+  "count": 106,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7469,
-      "title": "JLP - Acquiring Practical Skills in Contract Drafting (July 2026)+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-20",
-      "dateTo": "2026-07-21",
-      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "Learn ethical considerations, key drafting principles, and the use of commercial precedents and boilerplate clauses. Focus on enhancing clarity, avoiding pitfalls, and structuring contracts for better enforceability and value.",
-      "eventLink": "https://store.lawnet.com/jlp-acquiring-practical-skills-in-contract-drafting-july-2026.html",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7469"
-    },
-    {
-      "id": 7838,
-      "title": "International Tax Law and Policy+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-07-20",
-      "dateTo": "2026-07-22",
-      "venue": "Tax Academy of Singapore Hub, 55 Newton Road, Singapore 307987",
-      "organiser": "See Event Outline",
-      "practiceArea": "Tax",
-      "mecSegment": "NA",
-      "ptsValue": 18.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Tax Academy of Singapore. International Tax Law and Policy is an intensive three-day, in-person course offering a practice-oriented, policy-focused introduction to the legal and policy architecture of cross-border taxation. It is designed for tax professionals, policymakers, academics, and advanced students, and equips participants to navigate, from a tax policy perspective, the fast-evolving landscape of international tax rules, from core concepts to cutting-edge global reforms.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7838",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7838"
-    },
     {
       "id": 7706,
       "title": "[WEBINAR] Small & Medium Firms – Business Planning, Marketing and Client Development",
@@ -701,23 +667,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7848"
     },
     {
-      "id": 7784,
-      "title": "[WEBINAR] Advanced Certificate in Law and Technology Module 6: Legal Issues in AI and Machine Learning+",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-08-03",
-      "dateTo": "2026-08-04",
-      "venue": "Webinar",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Telecommunications, Media & Technology",
-      "mecSegment": "NA",
-      "ptsValue": 12.0,
-      "ptsType": "cpd",
-      "outline": "This module provides an overview of machine learning technology and dives into key terminology that will help participants navigate through legal issues in artificial intelligence. Participants will also dive deeper in the impacts of AI and its regulations, to better understand the power of AI and the magnitude that comes with it.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7784"
-    },
-    {
       "id": 7582,
       "title": "JLP - Understanding Business of Law+",
       "mandatory": false,
@@ -1194,23 +1143,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7744"
     },
     {
-      "id": 7221,
-      "title": "[WEBINAR] Introduction to Singapore Competition Law+",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-08-17",
-      "dateTo": "2026-08-26",
-      "venue": "Webinar",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "Competition Law",
-      "mecSegment": "NA",
-      "ptsValue": 8.0,
-      "ptsType": "cpd",
-      "outline": "This course will provide an overview of the key principles of competition law in Singapore. It will introduce participants to the underlying legal & economic concepts that underpin the statutory prohibitions against anti-competitive agreements, abuse of dominance and mergers. Each session will survey some of the landmark decisions of the Competition and Consumer Commission of Singapore (CCCS), examine the relevant legislative provisions applicable & explore the broader policy implications.",
-      "eventLink": "https://law.nus.edu.sg/nuslawacademy/intensive-courses/introduction-to-singapore-competition-law/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7221"
-    },
-    {
       "id": 7750,
       "title": "[WEBINAR] CLAS Training Programme 2026 - Module 8: Criminal Defence in the Digital Age: Harnessing AI & Digital Forensics",
       "mandatory": false,
@@ -1260,23 +1192,6 @@
       "outline": "This event is organised by Sage Mediation Institute for Leadership Education. As mediation gains prominence, advocates must stay updated and effective, not only in the courtroom but also at the mediation table. This workshop covers the thoughtful preparation needed for an advocate to prepare the client for an international mediation and how an advocate can engage effectively with counterparties and the mediator. Advocates who complete the full workshop may accredit themselves as IMI-Certified Mediation Advocates.",
       "eventLink": "https://sagemediationinstitute.sg/advocacy/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7812"
-    },
-    {
-      "id": 7458,
-      "title": "Valuation and Damages in International Arbitration+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-17",
-      "dateTo": "2026-09-14",
-      "venue": "National University of Singapore (Kent Ridge Campus)",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "Yes",
-      "ptsValue": 1.5,
-      "ptsType": "mec",
-      "outline": "This course walks the participants through the key aspects of valuation and damages in international arbitration. The overarching objective of the course is to equip participants with the essential basic knowledge and skills to understand the different stages of the valuation process, so that they can plead or adjudicate more effectively and efficiently when there is a dispute over the value of an asset.",
-      "eventLink": "https://law.nus.edu.sg/nuslawacademy/intensive-courses/valuation-and-damages-in-international-arbitration/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7458"
     },
     {
       "id": 7855,
@@ -1415,23 +1330,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7751"
     },
     {
-      "id": 7795,
-      "title": "AI Workshop for Legal Professionals (20 August)",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-20",
-      "dateTo": "2026-08-20",
-      "venue": "The Ritz-Carlton, Millenia Singapore, 7 Raffles Ave., Marina Bay, Singapore 039799",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "NA",
-      "ptsValue": 2.5,
-      "ptsType": "cpd",
-      "outline": "Step into the world of artificial intelligence with this practical, in-person workshop designed specifically for legal professionals. Gain foundational skills and the confidence to apply AI in your everyday work—from legal research to drafting and contract analysis. Guided by experienced trainers, you'll explore how to evaluate and use a range of general and legal-specific AI tools effectively and responsibly. Participants will work directly on their own devices with live support, ensuring a hands-on, outcome-focused learning experience.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7795"
-    },
-    {
       "id": 7607,
       "title": "[WEBINAR] Sustainability Apex Programme Masterclass #10: ESG Tech and Data",
       "mandatory": false,
@@ -1500,23 +1398,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7684"
     },
     {
-      "id": 7701,
-      "title": "[WEBINAR] International Arbitration In Practice 2026 - Session 4: Global Enforcement Strategies",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-08-21",
-      "dateTo": "2026-08-21",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 2.5,
-      "ptsType": "cpd",
-      "outline": "This session examines strategies for enforcing arbitral awards across Asia and against sovereign states. It explores procedural hurdles, sovereign immunity, investor-state enforcement challenges, and practical approaches to recovery. Participants will also gain insights into global asset tracing, cross-border enforcement coordination, forensic tools, freezing injunctions, disclosure orders, and other mechanisms used to identify and secure assets before they dissipate.",
-      "eventLink": "https://reg.eventnook.com/event/u77632",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7701"
-    },
-    {
       "id": 7772,
       "title": "[WEBINAR] Converging or Diverging? New Developments in the Regulation of Digital Assets across the EU, Singapore, and the United States",
       "mandatory": false,
@@ -1532,6 +1413,23 @@
       "outline": "This webinar examines the rapid consolidation of digital asset frameworks in the EU, Singapore, and the US. Moving beyond a basic jurisdiction survey, the session provides a comparative analysis of key developments, including the EU’s MiCA, Singapore’s stablecoin regime, and the US GENIUS and CLARITY Acts. Participants will gain a structured understanding of the changing legal landscape.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-recent-highlights-series-converging-or-diverging-new-developments-regulation?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7772"
+    },
+    {
+      "id": 7701,
+      "title": "[WEBINAR] International Arbitration In Practice 2026 - Session 4: Global Enforcement Strategies",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-21",
+      "dateTo": "2026-08-21",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "This session examines strategies for enforcing arbitral awards across Asia and against sovereign states. It explores procedural hurdles, sovereign immunity, investor-state enforcement challenges, and practical approaches to recovery. Participants will also gain insights into global asset tracing, cross-border enforcement coordination, forensic tools, freezing injunctions, disclosure orders, and other mechanisms used to identify and secure assets before they dissipate.",
+      "eventLink": "https://reg.eventnook.com/event/u77632",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7701"
     },
     {
       "id": 7811,
@@ -1551,23 +1449,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7811"
     },
     {
-      "id": 7787,
-      "title": "Advanced Certificate in Law and Technology Module 7: Personal Data and Data Protection+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-24",
-      "dateTo": "2026-08-25",
-      "venue": "Singapore Management University",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Data Protection & Privacy",
-      "mecSegment": "NA",
-      "ptsValue": 12.0,
-      "ptsType": "cpd",
-      "outline": "This module equips participants with the relevant skills to interpret and respond to increasingly complex privacy rules. Participants will also learn about current laws and practices that impact privacy rights, development of privacy laws, norms and cybersecurity issues.",
-      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-advanced-certificate-law-and-technology-module-7-personal-data-and-data-protection?newsletter",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7787"
-    },
-    {
       "id": 7727,
       "title": "Family Law Masterclass for the Advanced Practitioner+",
       "mandatory": false,
@@ -1583,6 +1464,23 @@
       "outline": "The Masterclass deals with the breadth and depth of family matters. While the standard topics such as matrimonial and divorce proceedings, maintenance, adopt, maintenance, will be covered, their treatment will focus on complex issues that experienced family lawyers may encounter or are increasingly encountering in their practice, such as pre-nuptial agreements, co-mingling of assets and enforcement of foreign divorce orders. At the end of the course, participants will achieve a better understanding and appreciation for, and thus able to better handle, complex family matters. The course is targeted at family law practitioners with at least 5 years of family law practice experience.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7727"
+    },
+    {
+      "id": 7787,
+      "title": "Advanced Certificate in Law and Technology Module 7: Personal Data and Data Protection+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-24",
+      "dateTo": "2026-08-25",
+      "venue": "Singapore Management University",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Data Protection & Privacy",
+      "mecSegment": "NA",
+      "ptsValue": 12.0,
+      "ptsType": "cpd",
+      "outline": "This module equips participants with the relevant skills to interpret and respond to increasingly complex privacy rules. Participants will also learn about current laws and practices that impact privacy rights, development of privacy laws, norms and cybersecurity issues.",
+      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-advanced-certificate-law-and-technology-module-7-personal-data-and-data-protection?newsletter",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7787"
     },
     {
       "id": 7723,
@@ -1721,6 +1619,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7806"
     },
     {
+      "id": 7863,
+      "title": "Mediation Through Asian Perspectives: Building Trust in Commercial Dispute Resolution",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-26",
+      "dateTo": "2026-08-26",
+      "venue": "TBC",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "This panel unites voices from Singapore, China, and Mongolia to examine mediation's role in resolving commercial disputes across Asia. As cross-border business grows, parties need practical, credible dispute resolution that preserves value and relationships. Speakers will discuss how institutions, courts, and practitioners are promoting mediation, what builds party confidence in the process, and how lawyers can foster constructive settlements, while addressing enforceability, standards, and regional cooperation shaping mediation's future.",
+      "eventLink": "https://reg.eventnook.com/event/u77729/home",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7863"
+    },
+    {
       "id": 7676,
       "title": "[WEBINAR & IN-PERSON] Bridging laws for business — A decade advancing trade, technology and trust",
       "mandatory": false,
@@ -1855,6 +1770,40 @@
       "outline": "This event is organised by Wealth Management Institute (WMI). This module examines how family offices navigate cross-border tax and regulatory environments. It covers key regimes across major jurisdictions, with a focus on Singapore’s Section 13 incentives, licensing and structuring considerations. Participants explore CRS, FATCA, global minimum tax, and emerging trends, applying insights through practical case studies on family office operations.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-multi-jurisdictional-tax-structures/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7600"
+    },
+    {
+      "id": 7785,
+      "title": "[WEBINAR] Senior Counsel Forum 2026 - Module 4: Conflicts in Relation to Two Existing Clients or Past Clients",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-01",
+      "dateTo": "2026-09-01",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "The Senior Counsel Forum, by the Law Society of Singapore, returns with six modules led by distinguished Senior Counsel. Topics include court submissions, duty to the court, disciplinary processes, conflicts of interest, common ethical scenarios, and English ethics practice. An invaluable opportunity for lawyers to learn best practices in legal ethics, delivered virtually via Zoom.",
+      "eventLink": "https://reg.eventnook.com/event/u77614",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7785"
+    },
+    {
+      "id": 7663,
+      "title": "JLP - Cross-Examination and Experts+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-01",
+      "dateTo": "2026-09-02",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Civil Procedure",
+      "mecSegment": "Yes",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "Develop essential and practical skills required to cross-examine witnesses in court proceedings, and how to deal with experts and use expert evidence in the course of a dispute.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7663"
     }
   ]
 }
