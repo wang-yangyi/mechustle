@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T02:23:16.170830+00:00",
-  "count": 108,
+  "generatedAt": "2026-07-27T02:30:25.119130+00:00",
+  "count": 109,
   "errorCount": 0,
   "events": [
     {
@@ -512,23 +512,6 @@
       "outline": "When speed is essential, the Singapore Courts can grant urgent interim relief in insolvency matters. This seminar covers key tools including provisional liquidation, interim judicial management, interim receivership in bankruptcy, moratoriums in scheme proceedings, injunctive relief in clawback actions, and court ordered receivership. It also examines key principles, practical considerations, and common pitfalls in making or opposing such applications.",
       "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/Q1h5Tzk0a2EwUGFUNU1xZTlCZ0NMZz09/V3BJMStEUWNWdFVjazQrOHEvT3R3UT09",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7817"
-    },
-    {
-      "id": 7834,
-      "title": "LawNet Training Workshop (5 August 2026)",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-05",
-      "dateTo": "2026-08-05",
-      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street S(179803)",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This training workshop guides attendees through the new features and functionalities of LawNet.com. Through walkthroughs and hands-on exercises, participants will learn how to use the revamped platform efficiently",
-      "eventLink": "https://store.lawnet.com/lawnet-training-workshop-5-august-2026.html",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7834"
     },
     {
       "id": 7677,
@@ -1211,23 +1194,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7701"
     },
     {
-      "id": 7772,
-      "title": "[WEBINAR] Converging or Diverging? New Developments in the Regulation of Digital Assets across the EU, Singapore, and the United States",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-08-21",
-      "dateTo": "2026-08-21",
-      "venue": "Webinar",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Banking and Finance",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "This webinar examines the rapid consolidation of digital asset frameworks in the EU, Singapore, and the US. Moving beyond a basic jurisdiction survey, the session provides a comparative analysis of key developments, including the EU’s MiCA, Singapore’s stablecoin regime, and the US GENIUS and CLARITY Acts. Participants will gain a structured understanding of the changing legal landscape.",
-      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-recent-highlights-series-converging-or-diverging-new-developments-regulation?newsletter",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7772"
-    },
-    {
       "id": 7811,
       "title": "[WEBINAR] Recent Developments in Family Law – Legislative Reforms and Therapeutic Justice in Singapore",
       "mandatory": false,
@@ -1243,6 +1209,23 @@
       "outline": "There have been many significant changes to Family Law legislation in recent years. This seminar seeks to provide an overview of the key changes, including the sixth fact relating to divorce, the new regimes and frameworks relating to enforcement of custody and access orders, maintenance enforcement, and the enhanced judge-led powers of the court. The speakers will also review the effectiveness of these changes in strengthening Therapeutic Justice elements in our family proceedings.",
       "eventLink": "https://www.suss.edu.sg/news-events/happenings/events/detail/2026/08/21/default-calendar/recent-developments-in-family-law---legislative-reforms-and-therapeutic-justice-in-singapore",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7811"
+    },
+    {
+      "id": 7772,
+      "title": "[WEBINAR] Converging or Diverging? New Developments in the Regulation of Digital Assets across the EU, Singapore, and the United States",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-08-21",
+      "dateTo": "2026-08-21",
+      "venue": "Webinar",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Banking and Finance",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "This webinar examines the rapid consolidation of digital asset frameworks in the EU, Singapore, and the US. Moving beyond a basic jurisdiction survey, the session provides a comparative analysis of key developments, including the EU’s MiCA, Singapore’s stablecoin regime, and the US GENIUS and CLARITY Acts. Participants will gain a structured understanding of the changing legal landscape.",
+      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-recent-highlights-series-converging-or-diverging-new-developments-regulation?newsletter",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7772"
     },
     {
       "id": 7727,
@@ -1472,7 +1455,7 @@
       "format": "In-person",
       "dateFrom": "2026-08-26",
       "dateTo": "2026-08-26",
-      "venue": "TBC",
+      "venue": "Training Room 701 (Level 7), NTUC Business Centre, One Marina Boulevard, Singapore 018989",
       "organiser": "The Law Society of Singapore",
       "practiceArea": "Alternative Dispute Resolution",
       "mecSegment": "NA",
@@ -1838,6 +1821,40 @@
       "outline": "This seminar examines the law of easements under Singapore's Torrens system, highlighting recent developments in implied and court-created easements through landmark cases and expert commentary from contributors to The Singapore Torrens System After Baalman.",
       "eventLink": "https://events.sal.sg/event/SGTorrensSystemAfterBaalman/summary",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7771"
+    },
+    {
+      "id": 7858,
+      "title": "Loss of Profits Fundamentals",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-07",
+      "dateTo": "2026-09-07",
+      "venue": "Room 701, Level 7, NTUC Centre, One Marina Boulevard, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by J.S. Held. Getting the quantum wrong can undo an otherwise winning case.  Loss of profits sits at the heart of commercial disputes, including breach of contract, shareholder rows, business interruptions, IP infringement and investment treaty arbitration.  This seminar gives legal practitioners the fundamentals needed to instruct experts effectively, pressure-test opposing calculations, and argue quantum with confidence.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7858",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7858"
+    },
+    {
+      "id": 7704,
+      "title": "Legal Innovation Workshop (Sep 2026)+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-07",
+      "dateTo": "2026-09-11",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 3.5,
+      "ptsType": "mec",
+      "outline": "This 2-day legal innovation course is designed to provide an analytical excursion of the state of legal innovation in Singapore and the region as well as best practices in legal innovation.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7704"
     }
   ]
 }
