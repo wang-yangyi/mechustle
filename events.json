@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T02:05:36.025016+00:00",
-  "count": 106,
+  "generatedAt": "2026-07-29T02:08:25.953820+00:00",
+  "count": 108,
   "errorCount": 0,
   "events": [
     {
@@ -646,7 +646,7 @@
       "ptsValue": 0.5,
       "ptsType": "mec",
       "outline": "This exclusive three-part webinar series is designed to equip legal professionals with the tools, mindset, and strategies to build a compelling personal brand, show up authentically in every interaction, and deliver pitches that win mandates and open doors.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "eventLink": "https://store.lawnet.com/building-a-professional-brand-and-delivering-an-impactful-pitch-for-legal-professionals-session-2.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7693"
     },
     {
@@ -1653,6 +1653,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7805"
     },
     {
+      "id": 7885,
+      "title": "[NUS Law Bicentennial Lecture on the Rule of Law] Evolving Conceptions of the Rule of Law: The Singapore Experience",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-02",
+      "dateTo": "2026-09-02",
+      "venue": "Yale-NUS College Hall, NUS Law, UTown",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Government",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "This address traces the evolution of the rule of law in Singapore, from its procedural foundations to a broader, substantive conception. It examines core principles underpinning stability and commercial credibility, and considers how Singapore adapts to globalisation, fragmentation and AI through enhanced legal coherence, access to justice, therapeutic justice, and international cooperation.",
+      "eventLink": "https://law.nus.edu.sg/cals/events/nus-law-bicentennial-lecture-on-the-rule-of-law/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7885"
+    },
+    {
       "id": 7752,
       "title": "[WEBINAR] CLAS Training Programme 2026 - Module 10: Mastering Sentencing: Key Principles and Evolving Trends",
       "mandatory": false,
@@ -1804,6 +1821,23 @@
       "outline": "This module covers the technical and legal aspects of informal restructuring, i.e., restructuring outside of formal court processes. Participants will learn how to change the composition and/or structure of a distressed debtor company’s assets and liabilities, without the Court’s intervention. The course also reviews both operational restructuring as well as financial restructuring, and how other issues arising from such an exercise need to be managed.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-ipas-advanced-certificate-insolvency-and-restructuring-module-3-informal?newsletter=",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7872"
+    },
+    {
+      "id": 7456,
+      "title": "Executive Programme in Criminology and Criminal Justice+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-09",
+      "dateTo": "2026-09-29",
+      "venue": "National University of Singapore (Kent Ridge Campus)",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Crime",
+      "mecSegment": "NA",
+      "ptsValue": 25.0,
+      "ptsType": "cpd",
+      "outline": "Criminological research is making fast progress in understanding the causes and prevention of crime, the impact of penal laws and sanctions on behaviour, the prediction of future risk, and the functioning of the criminal justice system.\n\nThe course is open to senior legal practitioners, including prosecutors, defence counsel, judges, and other criminal justice professionals/ stakeholders from Singapore.",
+      "eventLink": "https://law.nus.edu.sg/nuslawacademy/intensive-courses/criminology-and-criminal-justice/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7456"
     }
   ]
 }
