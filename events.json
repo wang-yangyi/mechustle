@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T02:15:37.376903+00:00",
-  "count": 99,
+  "generatedAt": "2026-08-03T02:23:39.529448+00:00",
+  "count": 102,
   "errorCount": 0,
   "events": [
     {
@@ -1685,6 +1685,57 @@
       "outline": "This seminar examines a hypothetical time charterparty dispute involving late delivery. It considers the conflict between delivery obligations and reasonable diligence, the nature of breach, and the legality of charterer termination. It highlights the innocent party’s decision-making period, shaped by contractual context, urgency, market conditions, performance, and potential prejudice. It also stresses reserving rights and properly framing termination notices, as termination is not automatic.",
       "eventLink": "https://law.nus.edu.sg/cml/events/cmlss260910/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7887"
+    },
+    {
+      "id": 7754,
+      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 12: The \"Perfect\" Case Theory and the CCDC Process",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-14",
+      "dateTo": "2026-09-14",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Crime",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "A trial isn’t about throwing every fact and legal argument at the court—it’s about strategy. As solicitors, our role is to distill complex information into a clear, compelling story that shows why our client is not guilty. In this seminar, seasoned advocates share practical insights on crafting a powerful case theory, making the tough calls along the way, and navigating the CCDC process where both sides reveal their strategies.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7754"
+    },
+    {
+      "id": 7901,
+      "title": "[WEBINAR] What Is A \"Frozen Conflict\" in International Law?",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-14",
+      "dateTo": "2026-09-14",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by National University of Singapore, Centre for International Law (NUS CIL). What is a \"frozen conflict\" in international law? This webinar examines the contested legal meaning of the term, distinguishing frozen conflicts from other contemporary conflicts through a survey of global conflict hotspots. Focusing on the post-Soviet space, Dr. Livia Bonhôte-Enzler explores how these conflicts challenge legal concepts of sovereignty, territorial integrity, self-determination, occupation, and the use of force.",
+      "eventLink": "https://cil.nus.edu.sg/event/what-is-a-frozen-conflict-in-international-law/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7901"
+    },
+    {
+      "id": 7864,
+      "title": "[WEBINAR] AEICs: The 2026 Paradigm",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-14",
+      "dateTo": "2026-09-14",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Civil Procedure",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "This webinar explores the evolving 2026 paradigm for Affidavits of Evidence in Chief (AEICs) in Singapore civil trials, covering judicial guidance, procedural changes, and technology's growing role. Speakers address best practices for drafting, structuring, and managing factual and expert evidence, integrating electronic material, and avoiding pitfalls. Participants will learn judicial expectations, common AEIC weaknesses, techniques for clarity and persuasiveness, and how to handle cross-examination and submission challenges.",
+      "eventLink": "https://reg.eventnook.com/event/u77782",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7864"
     }
   ]
 }
