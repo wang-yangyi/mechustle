@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-08-07T02:26:54.406541+00:00",
-  "count": 98,
+  "generatedAt": "2026-08-08T01:13:48.241843+00:00",
+  "count": 96,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7699,
-      "title": "[WEBINAR] International Arbitration In Practice 2026 - Session 2: Document Production in Arbitration",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-08-07",
-      "dateTo": "2026-08-07",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This session examines document production in international arbitration, covering its purpose, scope, and key principles such as relevance, proportionality, and efficiency. Through lectures, panel discussions, and a practical workshop, participants will explore common and civil law approaches, arbitral standards including the IBA Rules, ethical issues, and practical tools such as eDiscovery platforms and Redfern Schedules. The session concludes with an interactive drafting exercise and live feedback from practitioners.",
-      "eventLink": "https://reg.eventnook.com/event/u77632",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7699"
-    },
     {
       "id": 7678,
       "title": "Visiting Tan Ah Tah Professorial Lecture - False Friend: The Frailties and Pathologies of Alliances",
@@ -597,23 +580,6 @@
       "outline": "This webinar examines the rapid consolidation of digital asset frameworks in the EU, Singapore, and the US. Moving beyond a basic jurisdiction survey, the session provides a comparative analysis of key developments, including the EU’s MiCA, Singapore’s stablecoin regime, and the US GENIUS and CLARITY Acts. Participants will gain a structured understanding of the changing legal landscape.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-recent-highlights-series-converging-or-diverging-new-developments-regulation?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7772"
-    },
-    {
-      "id": 7787,
-      "title": "Advanced Certificate in Law and Technology Module 7: Personal Data and Data Protection+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-24",
-      "dateTo": "2026-08-25",
-      "venue": "Singapore Management University",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Data Protection & Privacy",
-      "mecSegment": "NA",
-      "ptsValue": 12.0,
-      "ptsType": "cpd",
-      "outline": "This module equips participants with the relevant skills to interpret and respond to increasingly complex privacy rules. Participants will also learn about current laws and practices that impact privacy rights, development of privacy laws, norms and cybersecurity issues.",
-      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-advanced-certificate-law-and-technology-module-7-personal-data-and-data-protection?newsletter",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7787"
     },
     {
       "id": 7727,
