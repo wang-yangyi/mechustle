@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T01:18:51.202859+00:00",
-  "count": 96,
+  "generatedAt": "2026-08-10T01:20:32.904648+00:00",
+  "count": 99,
   "errorCount": 0,
   "events": [
     {
@@ -973,23 +973,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7870"
     },
     {
-      "id": 7733,
-      "title": "Strategic Conflict Management for Professionals Module 1+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-28",
-      "dateTo": "2026-08-31",
-      "venue": "Singapore Academy of Law (SAL) The Adelphi, 1 Coleman Street #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 15.0,
-      "ptsType": "cpd",
-      "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions. You will learn about the nature of conflicts and the most effective techniques to manage them. These fundamental dispute resolution strategies can be applied in diverse situations to manage work relationships within an organisation or with external parties, or to build stronger and more effective teams.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7733"
-    },
-    {
       "id": 7851,
       "title": "Introduction to International Arbitration",
       "mandatory": false,
@@ -1005,6 +988,23 @@
       "outline": "This course provides candidates with a foundational understanding of the general principles of International Arbitration, and how it relates to other dispute resolution processes. Candidates will be introduced to the legal framework governing International Arbitration, alongside good practice and procedure. Our lecturers bring hands-on experience in IP and technology-related disputes, offering candidates valuable real-world perspectives throughout the course.",
       "eventLink": "https://ciarbsingapore.wildapricot.org/event-6758197",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7851"
+    },
+    {
+      "id": 7733,
+      "title": "Strategic Conflict Management for Professionals Module 1+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-28",
+      "dateTo": "2026-08-31",
+      "venue": "Singapore Academy of Law (SAL) The Adelphi, 1 Coleman Street #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 15.0,
+      "ptsType": "cpd",
+      "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions. You will learn about the nature of conflicts and the most effective techniques to manage them. These fundamental dispute resolution strategies can be applied in diverse situations to manage work relationships within an organisation or with external parties, or to build stronger and more effective teams.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7733"
     },
     {
       "id": 7600,
@@ -1634,6 +1634,57 @@
       "outline": "In this module, participants will discover the tools and ideas that are driving these big changes. They will also study the principles of innovation and how tech disruption is affecting legal services; from understanding nuances to exploring how they are changing the way lawyers do their jobs.",
       "eventLink": "https://law.smu.edu.sg/node/32561?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7535"
+    },
+    {
+      "id": 7756,
+      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 14: Rehabilitation Over Retribution: Alternative Sentencing for Youth and Vulnerable Offenders",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-21",
+      "dateTo": "2026-09-21",
+      "venue": "Webinar",
+      "organiser": "Pro Bono SG",
+      "practiceArea": "Crime",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "Ensuring that young and vulnerable offenders have the chance to rehabilitate and reintegrate is a matter of public importance. Often, the most effective justice lies not in incarceration, but in meaningful alternatives that support transformation",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7756"
+    },
+    {
+      "id": 7792,
+      "title": "Strategic Conflict Management for Professionals Module 1+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-21",
+      "dateTo": "2026-09-22",
+      "venue": "Singapore Academy of Law (SAL) The Adelphi, 1 Coleman Street #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 15.0,
+      "ptsType": "cpd",
+      "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme conducted by SAL-SMC to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions. You will learn about the nature of conflicts and the most effective techniques to manage them. These fundamental dispute resolution strategies can be applied in diverse situations to manage work relationships within an organisation or with external parties, or to build stronger and more effective teams.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7792"
+    },
+    {
+      "id": 7409,
+      "title": "Certificate for Family Office Advisors - Advanced+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-21",
+      "dateTo": "2026-09-25",
+      "venue": "Wealth Management Institute, One Marina Boulevard, #16-01, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7409"
     }
   ]
 }
