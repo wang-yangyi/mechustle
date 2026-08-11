@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T01:20:32.904648+00:00",
-  "count": 99,
+  "generatedAt": "2026-08-11T01:18:46.137372+00:00",
+  "count": 101,
   "errorCount": 0,
   "events": [
     {
@@ -1685,6 +1685,40 @@
       "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7409"
+    },
+    {
+      "id": 7882,
+      "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 5: Forensics And Investigations+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-22",
+      "dateTo": "2026-09-24",
+      "venue": "Singapore Management University",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 6.0,
+      "ptsType": "cpd",
+      "outline": "This module provides an insight into the types and motivations of fraud and the obligations of an insolvency practitioner when faced with circumstances involving fraud. Participants will be introduced to a series of investigation methodology and the importance of forensic services in uncovering valuable evidence for the insolvency practitioner.",
+      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-ipas-advanced-certificate-insolvency-and-restructuring-module-5-forensics-and?newsletter=",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7882"
+    },
+    {
+      "id": 7896,
+      "title": "[WEBINAR] Day of Conveyancing Highlights 2026 – Day 2",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-22",
+      "dateTo": "2026-09-22",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Real Estate",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "The Conveyancing Practice Committee presents its 14th annual \"Day of Conveyancing Highlights,\" held as two half-day webinars covering different topics. Speakers include Leonard Tay (Knight Frank) on residential/commercial market trends, S. Suressh (Harry Elias Partnership) on anti-money laundering, Orson Zhu (SLA) on the upcoming Digital Conveyancing Portal, and Carrie Wong (SLA) on adaptive reuse of State properties - addressing property law, market dynamics, technology, and compliance for practitioners.",
+      "eventLink": "https://reg.eventnook.com/event/u77823",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7896"
     }
   ]
 }
