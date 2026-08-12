@@ -1,59 +1,8 @@
 {
-  "generatedAt": "2026-08-11T01:18:46.137372+00:00",
+  "generatedAt": "2026-08-12T01:27:09.883354+00:00",
   "count": 101,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7678,
-      "title": "Visiting Tan Ah Tah Professorial Lecture - False Friend: The Frailties and Pathologies of Alliances",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-11",
-      "dateTo": "2026-08-11",
-      "venue": "Yale-NUS Hall, University Town (Kent Ridge Campus)",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "Modern geopolitics has thrown the question of alliances into sharp relief. We habitually valorise alliances as guarantees of security and friendship, binding states into a shared future. Yet alliances also harbour pathologies: they can drag states into war, suffer from a credible-commitment problem, and vary in equality. The lecture pursues Montesquieu’s intuition that alliances must be seen as just to bind; when one party commands and the other complies, trust erodes and costly power follows.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7678",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7678"
-    },
-    {
-      "id": 7783,
-      "title": "[WEBINAR] Senior Counsel Forum 2026 - Module 3: Disciplinary Process and Disciplinary Cases: Don’t Get Charged",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-08-11",
-      "dateTo": "2026-08-11",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "mec",
-      "outline": "The Senior Counsel Forum, by the Law Society of Singapore, returns with six modules led by distinguished Senior Counsel. Topics include court submissions, duty to the court, disciplinary processes, conflicts of interest, common ethical scenarios, and English ethics practice. An invaluable opportunity for lawyers to learn best practices in legal ethics, delivered virtually via Zoom.",
-      "eventLink": "https://reg.eventnook.com/event/u77614",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7783"
-    },
-    {
-      "id": 7889,
-      "title": "NUS Faculty of Law Graduate Programmes and Auditing Programme AY2026/2027 Semester 1+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-11",
-      "dateTo": "2026-12-04",
-      "venue": "NUS Faculty of Law",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "Others/Multi-disciplinary",
-      "mecSegment": "NA",
-      "ptsValue": 36.0,
-      "ptsType": "cpd",
-      "outline": "Event Link",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7889",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7889"
-    },
     {
       "id": 7768,
       "title": "[WEBINAR] Community Law Training Programme 2026 - Module 7: Mental Capacity Matters, Wills & Probate",
@@ -580,23 +529,6 @@
       "outline": "This webinar examines the rapid consolidation of digital asset frameworks in the EU, Singapore, and the US. Moving beyond a basic jurisdiction survey, the session provides a comparative analysis of key developments, including the EU’s MiCA, Singapore’s stablecoin regime, and the US GENIUS and CLARITY Acts. Participants will gain a structured understanding of the changing legal landscape.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-recent-highlights-series-converging-or-diverging-new-developments-regulation?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7772"
-    },
-    {
-      "id": 7727,
-      "title": "Family Law Masterclass for the Advanced Practitioner+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-24",
-      "dateTo": "2026-08-25",
-      "venue": "Singapore Academy of Law (SAL) The Adelphi, 1 Coleman Street #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Family",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "The Masterclass deals with the breadth and depth of family matters. While the standard topics such as matrimonial and divorce proceedings, maintenance, adopt, maintenance, will be covered, their treatment will focus on complex issues that experienced family lawyers may encounter or are increasingly encountering in their practice, such as pre-nuptial agreements, co-mingling of assets and enforcement of foreign divorce orders. At the end of the course, participants will achieve a better understanding and appreciation for, and thus able to better handle, complex family matters. The course is targeted at family law practitioners with at least 5 years of family law practice experience.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7727"
     },
     {
       "id": 7723,
@@ -1177,23 +1109,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7752"
     },
     {
-      "id": 7853,
-      "title": "Public International Law Conference 2026",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-03",
-      "dateTo": "2026-09-03",
-      "venue": "The Law Society of Singapore (Members’ Lounge) ,28 Maxwell Road #01-03, Maxwell Chambers Suites Singapore 069120",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Government",
-      "mecSegment": "NA",
-      "ptsValue": 6.0,
-      "ptsType": "cpd",
-      "outline": "The post-World War II international order is under unprecedented strain as powerful states increasingly disregard international law, undermine multilateral institutions, and pursue national interests through military and economic force. Organised by the Public and International Law Committee of the Law Society of Singapore, this conference brings together practitioners, academics, and policy experts across four panels to examine what these developments mean for the international rules-based order and for Singapore and the ASEAN region.",
-      "eventLink": "https://reg.eventnook.com/event/PublicLawConf2026",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7853"
-    },
-    {
       "id": 7583,
       "title": "JLP - Client Management",
       "mandatory": false,
@@ -1209,6 +1124,23 @@
       "outline": "Get equipped with essential client management skills, focusing on practical aspects such as AML/KYC issues, client interviews, and dealing with difficult clients.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7583"
+    },
+    {
+      "id": 7853,
+      "title": "Public International Law Conference 2026",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-03",
+      "dateTo": "2026-09-03",
+      "venue": "The Law Society of Singapore (Members’ Lounge) ,28 Maxwell Road #01-03, Maxwell Chambers Suites Singapore 069120",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Government",
+      "mecSegment": "NA",
+      "ptsValue": 6.0,
+      "ptsType": "cpd",
+      "outline": "The post-World War II international order is under unprecedented strain as powerful states increasingly disregard international law, undermine multilateral institutions, and pursue national interests through military and economic force. Organised by the Public and International Law Committee of the Law Society of Singapore, this conference brings together practitioners, academics, and policy experts across four panels to examine what these developments mean for the international rules-based order and for Singapore and the ASEAN region.",
+      "eventLink": "https://reg.eventnook.com/event/PublicLawConf2026",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7853"
     },
     {
       "id": 7753,
@@ -1311,6 +1243,23 @@
       "outline": "This module covers the technical and legal aspects of informal restructuring, i.e., restructuring outside of formal court processes. Participants will learn how to change the composition and/or structure of a distressed debtor company’s assets and liabilities, without the Court’s intervention. The course also reviews both operational restructuring as well as financial restructuring, and how other issues arising from such an exercise need to be managed.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-ipas-advanced-certificate-insolvency-and-restructuring-module-3-informal?newsletter=",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7872"
+    },
+    {
+      "id": 7912,
+      "title": "Tracing Crypto: From Blockchain to Courtroom",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-08",
+      "dateTo": "2026-09-08",
+      "venue": "Selvam LLC, 16 Collyer Quay, #17-00, Singapore 049318",
+      "organiser": "See Event Outline",
+      "practiceArea": "Banking and Finance",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "The event is organized by Selvam LLC and KordaMentha. This programme aims to equip participants with a foundational understanding of the following: \n• The key concepts and terminology relevant to digital assets and cryptocurrencies, and how blockchain transactions are recorded and traced on blockchain. \n\n• The current state of Singapore law regarding the classification of cryptocurrency as property and the principles governing the valuation of cryptocurrency in legal proceedings. \n\n• The practical application of Chainalysis Reactor and related tools for tracing the flow of cryptocurrency between addresses, and attributing addresses to real-world entities.",
+      "eventLink": "https://www.duanemorris.com/events/tracing_crypto_blockchain_courtroom_0926.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7912"
     },
     {
       "id": 7908,
@@ -1464,6 +1413,23 @@
       "outline": "Megaprojects are defined by scale, value & increasingly complex delivery environments. From evolving regulations, compressed delivery timelines to supply chain disruption, stakeholder pressures & shifting commercial realities, project teams operate in more uncertain/challenging conditions. We explore lessons from major projects, how legal frameworks interact with broader aspects, how industry/contractual practices evolve to better manage risk, improve project delivery, achieve better outcomes.",
       "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/09/15/429/-/megaprojects-what-works-what-fails-and-whats-next-15-september-2026-5-00-7-30pm-gmt-8.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7809"
+    },
+    {
+      "id": 7909,
+      "title": "Multilateralism: The UN Charter and the International Order based on International Law in the 21st Century",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-15",
+      "dateTo": "2026-09-15",
+      "venue": "Ngee Ann Kongsi Auditorium, National Gallery of Singapore, 1 St Andrew's Road, Singapore 178957",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Attorney-General’s Chambers. The UN Charter celebrated its 80th anniversary in 2025, amidst what some have described as a crisis of multilateralism. The UN is facing cost cutting issues, slow movement in multilateral treaty negotiations, and challenges in resolving intractable armed conflicts. And yet, there have also been triumphs – the BBNJ Agreement came into force in 2026, and the International Court of Justice has been more active than ever, with more cases on its docket than at any other time in its history.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7909",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7909"
     },
     {
       "id": 7567,
@@ -1719,6 +1685,40 @@
       "outline": "The Conveyancing Practice Committee presents its 14th annual \"Day of Conveyancing Highlights,\" held as two half-day webinars covering different topics. Speakers include Leonard Tay (Knight Frank) on residential/commercial market trends, S. Suressh (Harry Elias Partnership) on anti-money laundering, Orson Zhu (SLA) on the upcoming Digital Conveyancing Portal, and Carrie Wong (SLA) on adaptive reuse of State properties - addressing property law, market dynamics, technology, and compliance for practitioners.",
       "eventLink": "https://reg.eventnook.com/event/u77823",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7896"
+    },
+    {
+      "id": 7735,
+      "title": "Maritime Arbitrator Accreditation Programme 2026",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-23",
+      "dateTo": "2026-09-23",
+      "venue": "TBC",
+      "organiser": "Singapore Institute of Arbitrators",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 4.5,
+      "ptsType": "cpd",
+      "outline": "The SCMA’s MAAP comprises two parts: an in-person workshop, consisting of two modules, will be held on 23 September 2026. An online Written Assessment will be held on 24 September 2026. Module 1: Statutory and Rule Framework for Maritime Arbitration – 2.5 hours. Module 2: Drafting the Award and Practical Issues – 2.5 hours.",
+      "eventLink": "https://siarb.org.sg/product/maritime-arbitrator-accreditation-programme-2026-2/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7735"
+    },
+    {
+      "id": 7475,
+      "title": "From Trusted Advisor to Strategic Ally: Mastering Stakeholder Management for In-house Counsel",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-23",
+      "dateTo": "2026-09-23",
+      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 7.5,
+      "ptsType": "cpd",
+      "outline": "This course is designed for those who seek to enhance their effectiveness by mastering the art of stakeholder management. It is particularly beneficial for those looking to improve communication, build stronger internal and external relationships, and strategically navigate complex organizational dynamics. \n\nParticipants will leave this course with actionable strategies, practical tools, and enhanced confidence to effectively manage their stakeholders, strengthen their influence within the organization, and drive better legal and business outcomes.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7475"
     }
   ]
 }
