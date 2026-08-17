@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T01:01:11.776240+00:00",
-  "count": 102,
+  "generatedAt": "2026-08-17T00:59:39.147797+00:00",
+  "count": 103,
   "errorCount": 0,
   "events": [
     {
@@ -1736,6 +1736,23 @@
       "outline": "FAC will focus on teaching candidates the practical aspects of acting as an Arbitrator.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7826",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7826"
+    },
+    {
+      "id": 7871,
+      "title": "[WEBINAR] Urgent Applications Without Notice: A Practical Guide for Pragmatic Practitioners",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-28",
+      "dateTo": "2026-09-28",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Civil Procedure",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "Urgent, without-notice applications demand speed and precision in taking instructions. This session offers practical guidance for handling these matters with confidence.\nTopics covered include what to do when an urgent matter lands on your desk, key aspects such as full and frank disclosure and undertakings as to damages and the mechanics of getting matters heard urgently, including skeletal submissions under the Rules of Court 2021, as well as freezing/proprietary injunctions and search orders.",
+      "eventLink": "https://reg.eventnook.com/event/u77784",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7871"
     }
   ]
 }
