@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-08-19T00:58:19.940528+00:00",
-  "count": 97,
+  "generatedAt": "2026-08-20T00:57:32.124428+00:00",
+  "count": 96,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7769,
-      "title": "[WEBINAR] Community Law Training Programme 2026 - Module 8: Child Protection Proceedings",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-08-19",
-      "dateTo": "2026-08-19",
-      "venue": "Webinar",
-      "organiser": "Pro Bono SG",
-      "practiceArea": "Family",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "Child Protection Proceedings can be complex, urgent, and deeply impactful. Using a practical overview of how Care and Protection Order applications are handled in the Youth Court, and the role counsel can play in supporting families through the process.\nLearn the key stages of proceedings, from first mention to social report hearings, family conferences, contested hearings, and appeals. Gain insight into common court orders, expectations of represented parties, and how legal assistance can help clients navigate emotionally charged situations with clarity and confidence.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7769"
-    },
-    {
-      "id": 7822,
-      "title": "[WEBINAR] AML/CFT/PF in Practice: Managing Client Risk, Red Flags and Reporting Obligations in Today’s Legal Landscape",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-08-19",
-      "dateTo": "2026-08-19",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "mec",
-      "outline": "By the end of the programme, participants should be able to identify key AML/CFT/PF risks in legal practice, recognise common and emerging red flags, assess when enhanced due diligence or ongoing monitoring may be required, understand the practical considerations around STR filing, and appreciate the importance of proper documentation, internal controls and escalation within the law practice.",
-      "eventLink": "https://reg.eventnook.com/event/u77727",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7822"
-    },
     {
       "id": 7751,
       "title": "[WEBINAR] CLAS Training Programme 2026 - Module 9: Drug Offences & Forensics: What Defence Counsels Need to Know",
@@ -189,6 +155,23 @@
       "outline": "This session examines strategies for enforcing arbitral awards across Asia and against sovereign states. It explores procedural hurdles, sovereign immunity, investor-state enforcement challenges, and practical approaches to recovery. Participants will also gain insights into global asset tracing, cross-border enforcement coordination, forensic tools, freezing injunctions, disclosure orders, and other mechanisms used to identify and secure assets before they dissipate.",
       "eventLink": "https://reg.eventnook.com/event/u77632",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7701"
+    },
+    {
+      "id": 7877,
+      "title": "SIAC Symposium 2026",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-08-24",
+      "dateTo": "2026-08-24",
+      "venue": "Shangri-La Singapore (Tower Ballroom)",
+      "organiser": "Singapore International Arbitration Centre",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 6.5,
+      "ptsType": "cpd",
+      "outline": "The SIAC Symposium is SIAC’s flagship conference, which will bring together various stakeholders of the international arbitration community, to provide a platform for dialogue, the co-creation and cross-pollination of ideas and networking opportunities.",
+      "eventLink": "https://www.siacsymposium.org/event/siacsymposium2026",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7877"
     },
     {
       "id": 7723,
@@ -818,23 +801,6 @@
       "outline": "The criminal defence counsel will understand the various factors that are considered by the Courts in the selection and calibration of the appropriate individual and global sentences.\nThis seminar equips criminal defence counsel with practical insights into sentencing objectives, frameworks, and how recent jurisprudence has shaped their application.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7752"
-    },
-    {
-      "id": 7583,
-      "title": "JLP - Client Management",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-03",
-      "dateTo": "2026-09-03",
-      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "Yes",
-      "ptsValue": 7.0,
-      "ptsType": "mec",
-      "outline": "Get equipped with essential client management skills, focusing on practical aspects such as AML/KYC issues, client interviews, and dealing with difficult clients.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7583"
     },
     {
       "id": 7853,
@@ -1651,6 +1617,23 @@
       "outline": "This session participants will learn about purpose, values and strengths, the relevance of these in their legal work (and personal lives) and how using these can promote self-leadership and support a sustainable career in the legal profession.",
       "eventLink": "https://store.lawnet.com/self-leadership-for-lawyers-taking-charge-of-your-work-life-module-2.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7685"
+    },
+    {
+      "id": 7904,
+      "title": "JLP - Effective Business Negotiation",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-01",
+      "dateTo": "2026-10-01",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "This one-day programme equips participants with a structured negotiation approach, practical communication tools, and strategies to handle resistance and rejection in client-facing negotiations. The workshop uses client-relevant scenarios to ensure learning is immediately transferable to real-world negotiation challenges in reinsurance and related commercial discussions.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7904"
     }
   ]
 }
