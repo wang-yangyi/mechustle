@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T01:02:43.212938+00:00",
-  "count": 91,
+  "generatedAt": "2026-08-24T01:00:13.502320+00:00",
+  "count": 93,
   "errorCount": 0,
   "events": [
     {
@@ -1549,6 +1549,40 @@
       "outline": "This webinar examines modern Ponzi insolvencies, and the various legal, commercial and strategic issues that can arise. It delves into clawback litigation, tracing and recovery strategies, cross-border enforcement issues, and also cryptocurrency-related recovery challenges that arise through such insolvencies today. A number of jurisdictions are covered, from Singapore, US, and the UK.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-261002?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7910"
+    },
+    {
+      "id": 7825,
+      "title": "Public Lecture on Climate Change “Legal and Scientific (Un)certainties: 10 Years after the Paris Agreement”",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-05",
+      "dateTo": "2026-10-05",
+      "venue": "NUS Bukit Timah Campus, Block B, Seminar Room 4-4, Singapore 259756",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. The Paris Agreement is now fully operational, with Parties required to submit new nationally determined contributions (NDC 3.0) for 2035 that are more ambitious and informed by the first global stocktake. As implementation takes centre stage, geopolitical tensions, technological advances, and competing commercial interests challenge effective climate governance. This seminar examines how international law can provide legal stability and strengthen the rule of law in climate action.",
+      "eventLink": "https://cil.nus.edu.sg/event/professor-petra-minnerop-on-legal-and-scientific-uncertainties-10-years-after-the-paris-agreement/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7825"
+    },
+    {
+      "id": 7879,
+      "title": "Integrated IP, Valuation & Tax (IIVT): A Strategic Toolkit for Decision-Makers+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-05",
+      "dateTo": "2026-10-07",
+      "venue": "Tax Academy of Singapore Hub",
+      "organiser": "IP Academy (Singapore)",
+      "practiceArea": "Others/Multi-disciplinary",
+      "mecSegment": "NA",
+      "ptsValue": 18.0,
+      "ptsType": "cpd",
+      "outline": "IP Identification & Strategic Positioning\n-Start from business strategy\n-Identify the IP/IA that enables the strategy\n-Prioritise and position IP/IA for competitive advantage\n\nIP Commercialisation, Licensing & Structuring\n-Commercialisation pathways for IP/IA\n-Allocation of rights, obligations, and control\n-Implementation and control\n\nIP Due Diligence in M&A & Restructuring\n-Objectives and scope of IP due diligence\n-Common IP issues and early warning signs\n-Dependence on IP and ability to operate",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7879"
     }
   ]
 }
