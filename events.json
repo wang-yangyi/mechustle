@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T03:12:59.850235+00:00",
-  "count": 79,
+  "generatedAt": "2026-08-31T03:06:57.697549+00:00",
+  "count": 80,
   "errorCount": 0,
   "events": [
     {
@@ -293,23 +293,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7912"
     },
     {
-      "id": 7908,
-      "title": "[WEBINAR] Directors in the Twilight Zone: Duties, Decisions and Liability as Insolvency Approaches",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-09",
-      "dateTo": "2026-09-09",
-      "venue": "Webinar",
-      "organiser": "Insolvency Practitioners Association of Singapore",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 2.5,
-      "ptsType": "cpd",
-      "outline": "This webinar examines how directors’ duties operate as insolvency nears, and when claims for breach of fiduciary duties may be pursued against former directors independently of statutory avoidance or clawback claims. Drawing on the recent decisions of Foo Kian Beng v OP3 International Pte Ltd (in liquidation) and Goh Jin Hian v Inter-Pacific Petroleum Pte Ltd (in liquidation), the speakers will highlight key legal principles and practical indicators of potential breaches of duty.",
-      "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/ditDQldTUTBldHQ5N1kvK1MwMWdNUT09/MWhEbzkzRTBBeEJFeDU1NWs5amFxdz09",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7908"
-    },
-    {
       "id": 7915,
       "title": "From Innovation to Impact: IP Commercialisation in Healthcare and MedTech",
       "mandatory": false,
@@ -325,6 +308,23 @@
       "outline": "Healthcare innovation is transforming the way we diagnose, treat and deliver care. From AI-powered diagnostics and digital health platforms to connected medical devices, new technologies are transforming the way healthcare is delivered. But bringing these innovations to market takes more than great ideas – it requires the right IP strategy.",
       "eventLink": "https://iposinternational.com/academy/enterprises-individuals/from-innovation-to-impact-ip-commercialisation-in-healthcare-and-medtech_817",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7915"
+    },
+    {
+      "id": 7908,
+      "title": "[WEBINAR] Directors in the Twilight Zone: Duties, Decisions and Liability as Insolvency Approaches",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-09",
+      "dateTo": "2026-09-09",
+      "venue": "Webinar",
+      "organiser": "Insolvency Practitioners Association of Singapore",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "This webinar examines how directors’ duties operate as insolvency nears, and when claims for breach of fiduciary duties may be pursued against former directors independently of statutory avoidance or clawback claims. Drawing on the recent decisions of Foo Kian Beng v OP3 International Pte Ltd (in liquidation) and Goh Jin Hian v Inter-Pacific Petroleum Pte Ltd (in liquidation), the speakers will highlight key legal principles and practical indicators of potential breaches of duty.",
+      "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/ditDQldTUTBldHQ5N1kvK1MwMWdNUT09/MWhEbzkzRTBBeEJFeDU1NWs5amFxdz09",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7908"
     },
     {
       "id": 7646,
@@ -1345,6 +1345,23 @@
       "outline": "Following a successful 1st edition in October 2025, the Law Society of Singapore's Advocacy Committee will be working with criminal barristers from the Australian Bar Association for the 2nd edition of the Criminal Trial Advocacy Course.\n\nWith a slate of pre-course webinars, experienced speakers from various sides of the criminal justice system and interactive workshops, this Course will broaden your perspectives, sharpen your advocacy skills and enhance your preparation for a criminal trial.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7774"
+    },
+    {
+      "id": 7385,
+      "title": "Certificate for Family Office Advisors - Foundation+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-12",
+      "dateTo": "2026-10-14",
+      "venue": "Classroom at One Marina Boulevard",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Wealth Management Institute Limited. The foundation level program uses real-world case studies to explain family offices, their functions, and the legal and fiscal context in which they operate. It also covers tools for long-term wealth protection and focuses on understanding the human context of wealth owners, including individuals, entrepreneurs, and families.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7385"
     }
   ]
 }
