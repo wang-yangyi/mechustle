@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-08-31T03:06:57.697549+00:00",
-  "count": 80,
+  "generatedAt": "2026-09-01T03:15:31.783319+00:00",
+  "count": 82,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7600,
-      "title": "Certificate in Multi-Jurisdictional Tax and Structures",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-08-31",
-      "dateTo": "2026-08-31",
-      "venue": "Classroom at One Marina Boulevard",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "Yes",
-      "ptsValue": 2.5,
-      "ptsType": "mec",
-      "outline": "This event is organised by Wealth Management Institute (WMI). This module examines how family offices navigate cross-border tax and regulatory environments. It covers key regimes across major jurisdictions, with a focus on Singapore’s Section 13 incentives, licensing and structuring considerations. Participants explore CRS, FATCA, global minimum tax, and emerging trends, applying insights through practical case studies on family office operations.",
-      "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-multi-jurisdictional-tax-structures/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7600"
-    },
     {
       "id": 7869,
       "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 2: Formal Restructuring Options+",
@@ -291,6 +274,23 @@
       "outline": "The event is organized by Selvam LLC and KordaMentha. This programme aims to equip participants with a foundational understanding of the following: \n• The key concepts and terminology relevant to digital assets and cryptocurrencies, and how blockchain transactions are recorded and traced on blockchain. \n\n• The current state of Singapore law regarding the classification of cryptocurrency as property and the principles governing the valuation of cryptocurrency in legal proceedings. \n\n• The practical application of Chainalysis Reactor and related tools for tracing the flow of cryptocurrency between addresses, and attributing addresses to real-world entities.",
       "eventLink": "https://www.duanemorris.com/events/tracing_crypto_blockchain_courtroom_0926.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7912"
+    },
+    {
+      "id": 7941,
+      "title": "Building Resilient & Sustainable Supply Chains: Accounting, Legal and Financial Perspectives",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-08",
+      "dateTo": "2026-09-08",
+      "venue": "60 Cecil Street ISCA House Singapore 049709",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Others/Multi-disciplinary",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This multidisciplinary panel discussion explores how legal, accounting and logistics professionals can contribute to building resilient and sustainable supply chains amid evolving sustainability requirements, regulatory developments and business risks. Participants will gain practical insights into governance, risk management, contractual considerations and emerging sustainability-related obligations, while examining how organisations can strengthen resilience and support informed decision-making in a changing business environment.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7941",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7941"
     },
     {
       "id": 7915,
@@ -1041,6 +1041,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7462"
     },
     {
+      "id": 7943,
+      "title": "The Green Plan 2030 Five Years On: From Policy Vision to Legal Reality",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-30",
+      "dateTo": "2026-09-30",
+      "venue": "Linklaters Singapore Pte. Ltd.,  2 Central Boulevard #28-01, West Tower,  IOI Central Boulevard Towers, Singapore 018916",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Others/Multi-disciplinary",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This panel explores how the Singapore Green Plan 2030 has influenced environmental law and regulation across climate change, carbon markets, energy, transport, and the built environment, and what reforms may still lie ahead.",
+      "eventLink": "https://law.nus.edu.sg/apcel/events/apcel-the-green-plan-2030-five-years-on-from-policy-vision-to-legal-reality/%20",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7943"
+    },
+    {
       "id": 7685,
       "title": "Self-Leadership for Lawyers: Taking Charge of your Work Life - Module 2",
       "mandatory": false,
@@ -1362,6 +1379,23 @@
       "outline": "This event is organised by Wealth Management Institute Limited. The foundation level program uses real-world case studies to explain family offices, their functions, and the legal and fiscal context in which they operate. It also covers tools for long-term wealth protection and focuses on understanding the human context of wealth owners, including individuals, entrepreneurs, and families.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7385"
+    },
+    {
+      "id": 7890,
+      "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 8: Financing+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-13",
+      "dateTo": "2026-10-15",
+      "venue": "Singapore Management University",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 6.0,
+      "ptsType": "cpd",
+      "outline": "This module will discuss the conditions for seeking rescue financing and the various practical challenges associated with it. It will further explore alternative structures for financing without going through a court process. The course will also do an in-depth study of previous cases in Singapore that had sought rescue financing and draw out the learning points for each case.",
+      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-ipas-graduate-certificate-insolvency-and-restructuring-module-8-financing-gcir?newsletter=  ",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7890"
     }
   ]
 }
