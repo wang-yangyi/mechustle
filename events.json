@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-09-03T02:39:31.602241+00:00",
+  "generatedAt": "2026-09-04T02:35:42.799011+00:00",
   "count": 81,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7752,
-      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 10: Mastering Sentencing: Key Principles and Evolving Trends",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-03",
-      "dateTo": "2026-09-03",
-      "venue": "Webinar",
-      "organiser": "Pro Bono SG",
-      "practiceArea": "Crime",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "The criminal defence counsel will understand the various factors that are considered by the Courts in the selection and calibration of the appropriate individual and global sentences.\nThis seminar equips criminal defence counsel with practical insights into sentencing objectives, frameworks, and how recent jurisprudence has shaped their application.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7752"
-    },
-    {
-      "id": 7853,
-      "title": "Public International Law Conference 2026",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-03",
-      "dateTo": "2026-09-03",
-      "venue": "The Law Society of Singapore (Members’ Lounge) ,28 Maxwell Road #01-03, Maxwell Chambers Suites Singapore 069120",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Government",
-      "mecSegment": "NA",
-      "ptsValue": 6.0,
-      "ptsType": "cpd",
-      "outline": "The post-World War II international order is under unprecedented strain as powerful states increasingly disregard international law, undermine multilateral institutions, and pursue national interests through military and economic force. Organised by the Public and International Law Committee of the Law Society of Singapore, this conference brings together practitioners, academics, and policy experts across four panels to examine what these developments mean for the international rules-based order and for Singapore and the ASEAN region.",
-      "eventLink": "https://reg.eventnook.com/event/PublicLawConf2026",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7853"
-    },
     {
       "id": 7753,
       "title": "[WEBINAR] CLAS Training Programme 2026 - Module 11: Mastering Examination: Techniques for Evidence-in-Chief, Cross-Examination, and Re-Examination",
@@ -667,23 +633,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7756"
     },
     {
-      "id": 7409,
-      "title": "Certificate for Family Office Advisors - Advanced+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-21",
-      "dateTo": "2026-09-25",
-      "venue": "Wealth Management Institute, One Marina Boulevard, #16-01, Singapore 018989",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
-      "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7409"
-    },
-    {
       "id": 7792,
       "title": "Strategic Conflict Management for Professionals Module 1+",
       "mandatory": false,
@@ -699,6 +648,23 @@
       "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme conducted by SAL-SMC to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions. You will learn about the nature of conflicts and the most effective techniques to manage them. These fundamental dispute resolution strategies can be applied in diverse situations to manage work relationships within an organisation or with external parties, or to build stronger and more effective teams.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7792"
+    },
+    {
+      "id": 7409,
+      "title": "Certificate for Family Office Advisors - Advanced+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-21",
+      "dateTo": "2026-09-25",
+      "venue": "Wealth Management Institute, One Marina Boulevard, #16-01, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7409"
     },
     {
       "id": 7882,
@@ -1005,6 +971,23 @@
       "outline": "As Maritime Autonomous Surface Ships (MASS) adopt AI for tasks traditionally handled by crews, questions arise over liability when AI causes cargo damage. While claims will usually target carriers, cargo owners and insurers may also pursue AI producers. This seminar argues that existing English negligence law can address AI-related issues, including defect, evidence, causation and remoteness, without new liability rules, and examines implications for insurers and contractual risk allocation.",
       "eventLink": "https://law.nus.edu.sg/cml/events/cmlss261001/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7944"
+    },
+    {
+      "id": 7950,
+      "title": "[WEBINAR] Judicial Attitudes to the Criminal Advocate",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-10-01",
+      "dateTo": "2026-10-01",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Crime",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "This session discusses the judicial perspectives of what makes a good criminal defence advocate. Judges recognise that practitioners are not merely representing their clients but also play a vital role in assisting the Court in the administration of justice.",
+      "eventLink": "https://reg.eventnook.com/event/u77915/home",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7950"
     },
     {
       "id": 7904,
@@ -1379,6 +1362,23 @@
       "outline": "This event is organised by Sage Mediation Institute for Leadership Education Pte Ltd. Participants will hone their mediation skills through an in-depth exploration of mediation strategies, agile process-design and the complexities of international mediation. Through rigorous mediation role-plays and the assessment, constructive feedback will be provided for participants to continuously improve their mediation strategy and approach. Participants who pass the assessment are qualified to receive the P.E.A.C.E. Certificate for International Mediators (PCIM) from SMILE.",
       "eventLink": "https://sagemediationinstitute.sg/imaw/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7942"
+    },
+    {
+      "id": 7716,
+      "title": "Advocacy My Way: A Fireside Chat with N Sreenivasan SC",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-16",
+      "dateTo": "2026-10-16",
+      "venue": "The Law Society of Singapore (Members’ Lounge) ,28 Maxwell Road #01-03, Maxwell Chambers Suites Singapore 069120",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "mec",
+      "outline": "In the second instalment of the Advocacy Committee’s “The Path of An Advocate” series, N Sreenivasan SC shares reflections from a distinguished career at the forefront of complex disputes. This fireside chat explores advocacy, ethics, resilience, mentorship, and adapting to technological and professional change, offering valuable insights on building a legal career and legacy grounded in purpose and the profession’s core values.",
+      "eventLink": "https://reg.eventnook.com/event/u77647",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7716"
     }
   ]
 }
