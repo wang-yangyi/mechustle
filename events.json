@@ -1,59 +1,8 @@
 {
-  "generatedAt": "2026-09-04T02:35:42.799011+00:00",
+  "generatedAt": "2026-09-05T02:36:40.155193+00:00",
   "count": 81,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7753,
-      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 11: Mastering Examination: Techniques for Evidence-in-Chief, Cross-Examination, and Re-Examination",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-04",
-      "dateTo": "2026-09-04",
-      "venue": "Webinar",
-      "organiser": "Pro Bono SG",
-      "practiceArea": "Crime",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "Witness testimony is the heart of any trial—shaped through evidence-in-chief, cross-examination, and re-examination. But in a world where truth isn’t always freely offered, skilled examination becomes essential.\nIn this dynamic session, seasoned practitioners share practical techniques and insights on drawing out compelling, reliable testimony.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7753"
-    },
-    {
-      "id": 7651,
-      "title": "Annual CPD Day 2026 (Part 1): The Inaugural Ethics and Innovation Forum",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-04",
-      "dateTo": "2026-09-04",
-      "venue": "Members' Lounge (The Law Society of Singapore)",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "mec",
-      "outline": "What does it mean to practise with integrity in an age of AI? Join us for an afternoon CPD programme that brings together the leadership of the Singapore Bar and the architects of its digital future for two focused sessions – offering frank perspectives on where the profession stands today, and what it takes to lead it forward.",
-      "eventLink": "https://reg.eventnook.com/event/u77571",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7651"
-    },
-    {
-      "id": 7771,
-      "title": "The Singapore Torrens System After Baalman",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-04",
-      "dateTo": "2026-09-04",
-      "venue": "SAL, The Adelphi #07 -01, 1 Coleman Street (S179803)",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Real Estate",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This seminar examines the law of easements under Singapore's Torrens system, highlighting recent developments in implied and court-created easements through landmark cases and expert commentary from contributors to The Singapore Torrens System After Baalman.",
-      "eventLink": "https://events.sal.sg/event/SGTorrensSystemAfterBaalman/summary",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7771"
-    },
     {
       "id": 7858,
       "title": "Loss of Profits Fundamentals",
@@ -123,23 +72,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7941"
     },
     {
-      "id": 7908,
-      "title": "[WEBINAR] Directors in the Twilight Zone: Duties, Decisions and Liability as Insolvency Approaches",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-09",
-      "dateTo": "2026-09-09",
-      "venue": "Webinar",
-      "organiser": "Insolvency Practitioners Association of Singapore",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 2.5,
-      "ptsType": "cpd",
-      "outline": "This webinar examines how directors’ duties operate as insolvency nears, and when claims for breach of fiduciary duties may be pursued against former directors independently of statutory avoidance or clawback claims. Drawing on the recent decisions of Foo Kian Beng v OP3 International Pte Ltd (in liquidation) and Goh Jin Hian v Inter-Pacific Petroleum Pte Ltd (in liquidation), the speakers will highlight key legal principles and practical indicators of potential breaches of duty.",
-      "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/ditDQldTUTBldHQ5N1kvK1MwMWdNUT09/MWhEbzkzRTBBeEJFeDU1NWs5amFxdz09",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7908"
-    },
-    {
       "id": 7915,
       "title": "From Innovation to Impact: IP Commercialisation in Healthcare and MedTech",
       "mandatory": false,
@@ -155,6 +87,23 @@
       "outline": "Healthcare innovation is transforming the way we diagnose, treat and deliver care. From AI-powered diagnostics and digital health platforms to connected medical devices, new technologies are transforming the way healthcare is delivered. But bringing these innovations to market takes more than great ideas – it requires the right IP strategy.",
       "eventLink": "https://iposinternational.com/academy/enterprises-individuals/from-innovation-to-impact-ip-commercialisation-in-healthcare-and-medtech_817",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7915"
+    },
+    {
+      "id": 7908,
+      "title": "[WEBINAR] Directors in the Twilight Zone: Duties, Decisions and Liability as Insolvency Approaches",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-09",
+      "dateTo": "2026-09-09",
+      "venue": "Webinar",
+      "organiser": "Insolvency Practitioners Association of Singapore",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "This webinar examines how directors’ duties operate as insolvency nears, and when claims for breach of fiduciary duties may be pursued against former directors independently of statutory avoidance or clawback claims. Drawing on the recent decisions of Foo Kian Beng v OP3 International Pte Ltd (in liquidation) and Goh Jin Hian v Inter-Pacific Petroleum Pte Ltd (in liquidation), the speakers will highlight key legal principles and practical indicators of potential breaches of duty.",
+      "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/ditDQldTUTBldHQ5N1kvK1MwMWdNUT09/MWhEbzkzRTBBeEJFeDU1NWs5amFxdz09",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7908"
     },
     {
       "id": 7646,
@@ -548,23 +497,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7694"
     },
     {
-      "id": 7932,
-      "title": "[WEBINAR] ALB Cross-Border Contracts: Drafting for Risk, Negotiation and Enforceability+",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-17",
-      "dateTo": "2026-09-18",
-      "venue": "Webinar",
-      "organiser": "Thomson Reuters Corporation Pte Ltd",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 9.0,
-      "ptsType": "cpd",
-      "outline": "This masterclass moves beyond generic contract templates and instead understand how clauses operate in practice, how commercial risk is allocated, how liability and remedies should be structured, and how drafting choices affect enforceability across jurisdictions.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7932",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7932"
-    },
-    {
       "id": 7917,
       "title": "APAA - Singapore Group Lecture 2026",
       "mandatory": false,
@@ -580,6 +512,23 @@
       "outline": "This event is organised by Asian Patent Attorneys Association – Singapore Group. This lecture will cover developments and case law updates in the United Kingdom and the European Union for intellectual property, financial relief in patent litigation, and practical issues in IP litigation.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7917",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7917"
+    },
+    {
+      "id": 7932,
+      "title": "[WEBINAR] ALB Cross-Border Contracts: Drafting for Risk, Negotiation and Enforceability+",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-17",
+      "dateTo": "2026-09-18",
+      "venue": "Webinar",
+      "organiser": "Thomson Reuters Corporation Pte Ltd",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 9.0,
+      "ptsType": "cpd",
+      "outline": "This masterclass moves beyond generic contract templates and instead understand how clauses operate in practice, how commercial risk is allocated, how liability and remedies should be structured, and how drafting choices affect enforceability across jurisdictions.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7932",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7932"
     },
     {
       "id": 7918,
@@ -633,21 +582,21 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7756"
     },
     {
-      "id": 7792,
-      "title": "Strategic Conflict Management for Professionals Module 1+",
+      "id": 7921,
+      "title": "[WEBINAR] Registrar’s and Judge’s Case Conferences: Merely Procedural, or an Opportunity to Advance Your Case?",
       "mandatory": false,
-      "format": "In-person",
+      "format": "Webinar / Online",
       "dateFrom": "2026-09-21",
-      "dateTo": "2026-09-22",
-      "venue": "Singapore Academy of Law (SAL) The Adelphi, 1 Coleman Street #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Alternative Dispute Resolution",
+      "dateTo": "2026-09-21",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Civil Procedure",
       "mecSegment": "NA",
-      "ptsValue": 15.0,
+      "ptsValue": 1.0,
       "ptsType": "cpd",
-      "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme conducted by SAL-SMC to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions. You will learn about the nature of conflicts and the most effective techniques to manage them. These fundamental dispute resolution strategies can be applied in diverse situations to manage work relationships within an organisation or with external parties, or to build stronger and more effective teams.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7792"
+      "outline": "Registrar's and Judge's Case Conferences are pivotal in High Court litigation, shaping a dispute's trajectory rather than a mere procedural step. This webinar examines case conferences from both practitioners' and the Courts' perspectives, covering preparation, best practices, pitfalls to avoid, and ADR's interplay with procedural steps. Participants will leave understanding conferences' purposes and judicial expectations, proper decorum, and practical strategies for navigating them.",
+      "eventLink": "https://reg.eventnook.com/event/u77876",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7921"
     },
     {
       "id": 7409,
@@ -665,6 +614,23 @@
       "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7409"
+    },
+    {
+      "id": 7792,
+      "title": "Strategic Conflict Management for Professionals Module 1+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-21",
+      "dateTo": "2026-09-22",
+      "venue": "Singapore Academy of Law (SAL) The Adelphi, 1 Coleman Street #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 15.0,
+      "ptsType": "cpd",
+      "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme conducted by SAL-SMC to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions. You will learn about the nature of conflicts and the most effective techniques to manage them. These fundamental dispute resolution strategies can be applied in diverse situations to manage work relationships within an organisation or with external parties, or to build stronger and more effective teams.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7792"
     },
     {
       "id": 7882,
@@ -767,6 +733,23 @@
       "outline": "The last decade has seen a rise in sexual crime cases in Singapore. Join us for an in-depth discussion on how legislative changes, sentencing frameworks, and institutional responses are shaping the prosecution and defence of sexual assault cases.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7757"
+    },
+    {
+      "id": 7961,
+      "title": "[WEBINAR] Reinventing the World Court",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-24",
+      "dateTo": "2026-09-24",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS - Centre for International Law. This forward-looking webinar explores how the ICJ can remain relevant and effective in the 21st century. It will consider the skills, expertise and qualities required of future ICJ judges, as well as how the Court can adapt its institutions and methods to address increasingly complex disputes. The session will also examine the changes needed to ensure that the ICJ remains an authoritative, resilient and fit-for-purpose world court.",
+      "eventLink": "https://cil.nus.edu.sg/event/webinar-series-reinventing-the-world-court-webinar-3-a-world-court-for-the-future/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7961"
     },
     {
       "id": 7954,
@@ -1379,6 +1362,23 @@
       "outline": "In the second instalment of the Advocacy Committee’s “The Path of An Advocate” series, N Sreenivasan SC shares reflections from a distinguished career at the forefront of complex disputes. This fireside chat explores advocacy, ethics, resilience, mentorship, and adapting to technological and professional change, offering valuable insights on building a legal career and legacy grounded in purpose and the profession’s core values.",
       "eventLink": "https://reg.eventnook.com/event/u77647",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7716"
+    },
+    {
+      "id": 7624,
+      "title": "The Annual Medico Legal Seminar 2026+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-17",
+      "dateTo": "2026-10-18",
+      "venue": "One Farrer Hotel, 1 Farrer Park Station Road, Singapore 217562",
+      "organiser": "See Event Outline",
+      "practiceArea": "Others/Multi-disciplinary",
+      "mecSegment": "NA",
+      "ptsValue": 9.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Singapore Medical Association. Enhance your skills in the ethical, legal and communicative aspects of high-stakes care in end-of-life situations. Designed for physicians, nurses and social workers, the programme addresses key clinical and legal considerations, palliative care interventions and navigating difficult conversations with patients and families.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7624",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7624"
     }
   ]
 }
