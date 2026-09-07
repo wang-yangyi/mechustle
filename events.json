@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T02:33:33.284441+00:00",
-  "count": 81,
+  "generatedAt": "2026-09-07T02:31:47.172712+00:00",
+  "count": 83,
   "errorCount": 0,
   "events": [
     {
@@ -72,23 +72,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7941"
     },
     {
-      "id": 7915,
-      "title": "From Innovation to Impact: IP Commercialisation in Healthcare and MedTech",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-09",
-      "dateTo": "2026-09-09",
-      "venue": "Resmed Office @One-north 1 Fusionopolis Place, #07-10/16 Galaxis, Singapore 138522",
-      "organiser": "IP Academy (Singapore)",
-      "practiceArea": "Intellectual Property",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "Healthcare innovation is transforming the way we diagnose, treat and deliver care. From AI-powered diagnostics and digital health platforms to connected medical devices, new technologies are transforming the way healthcare is delivered. But bringing these innovations to market takes more than great ideas – it requires the right IP strategy.",
-      "eventLink": "https://iposinternational.com/academy/enterprises-individuals/from-innovation-to-impact-ip-commercialisation-in-healthcare-and-medtech_817",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7915"
-    },
-    {
       "id": 7908,
       "title": "[WEBINAR] Directors in the Twilight Zone: Duties, Decisions and Liability as Insolvency Approaches",
       "mandatory": false,
@@ -104,6 +87,23 @@
       "outline": "This webinar examines how directors’ duties operate as insolvency nears, and when claims for breach of fiduciary duties may be pursued against former directors independently of statutory avoidance or clawback claims. Drawing on the recent decisions of Foo Kian Beng v OP3 International Pte Ltd (in liquidation) and Goh Jin Hian v Inter-Pacific Petroleum Pte Ltd (in liquidation), the speakers will highlight key legal principles and practical indicators of potential breaches of duty.",
       "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/ditDQldTUTBldHQ5N1kvK1MwMWdNUT09/MWhEbzkzRTBBeEJFeDU1NWs5amFxdz09",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7908"
+    },
+    {
+      "id": 7915,
+      "title": "From Innovation to Impact: IP Commercialisation in Healthcare and MedTech",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-09",
+      "dateTo": "2026-09-09",
+      "venue": "Resmed Office @One-north 1 Fusionopolis Place, #07-10/16 Galaxis, Singapore 138522",
+      "organiser": "IP Academy (Singapore)",
+      "practiceArea": "Intellectual Property",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "Healthcare innovation is transforming the way we diagnose, treat and deliver care. From AI-powered diagnostics and digital health platforms to connected medical devices, new technologies are transforming the way healthcare is delivered. But bringing these innovations to market takes more than great ideas – it requires the right IP strategy.",
+      "eventLink": "https://iposinternational.com/academy/enterprises-individuals/from-innovation-to-impact-ip-commercialisation-in-healthcare-and-medtech_817",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7915"
     },
     {
       "id": 7646,
@@ -497,23 +497,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7694"
     },
     {
-      "id": 7917,
-      "title": "APAA - Singapore Group Lecture 2026",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-17",
-      "dateTo": "2026-09-17",
-      "venue": "Rooms 4011 and 4111, Level 4, Marina Bay Sands Expo and Convention Centre,  10 Bayfront Avenue, Singapore 018956",
-      "organiser": "See Event Outline",
-      "practiceArea": "Intellectual Property",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Asian Patent Attorneys Association – Singapore Group. This lecture will cover developments and case law updates in the United Kingdom and the European Union for intellectual property, financial relief in patent litigation, and practical issues in IP litigation.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7917",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7917"
-    },
-    {
       "id": 7932,
       "title": "[WEBINAR] ALB Cross-Border Contracts: Drafting for Risk, Negotiation and Enforceability+",
       "mandatory": false,
@@ -529,6 +512,23 @@
       "outline": "This masterclass moves beyond generic contract templates and instead understand how clauses operate in practice, how commercial risk is allocated, how liability and remedies should be structured, and how drafting choices affect enforceability across jurisdictions.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7932",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7932"
+    },
+    {
+      "id": 7917,
+      "title": "APAA - Singapore Group Lecture 2026",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-17",
+      "dateTo": "2026-09-17",
+      "venue": "Rooms 4011 and 4111, Level 4, Marina Bay Sands Expo and Convention Centre,  10 Bayfront Avenue, Singapore 018956",
+      "organiser": "See Event Outline",
+      "practiceArea": "Intellectual Property",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Asian Patent Attorneys Association – Singapore Group. This lecture will cover developments and case law updates in the United Kingdom and the European Union for intellectual property, financial relief in patent litigation, and practical issues in IP litigation.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7917",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7917"
     },
     {
       "id": 7918,
@@ -599,23 +599,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7921"
     },
     {
-      "id": 7409,
-      "title": "Certificate for Family Office Advisors - Advanced+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-21",
-      "dateTo": "2026-09-25",
-      "venue": "Wealth Management Institute, One Marina Boulevard, #16-01, Singapore 018989",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
-      "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7409"
-    },
-    {
       "id": 7792,
       "title": "Strategic Conflict Management for Professionals Module 1+",
       "mandatory": false,
@@ -631,6 +614,23 @@
       "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme conducted by SAL-SMC to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions. You will learn about the nature of conflicts and the most effective techniques to manage them. These fundamental dispute resolution strategies can be applied in diverse situations to manage work relationships within an organisation or with external parties, or to build stronger and more effective teams.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7792"
+    },
+    {
+      "id": 7409,
+      "title": "Certificate for Family Office Advisors - Advanced+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-21",
+      "dateTo": "2026-09-25",
+      "venue": "Wealth Management Institute, One Marina Boulevard, #16-01, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised Wealth Management Institute Limited. by This advanced program goes beyond the basics of Family Offices, focusing on the psychology and motivations of today's UHNW families. It explores opportunities such as impact investing, where affluent clients can align their wealth decisions with societal and environmental values, offering insights into the emerging trends in the field.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certified-family-office-advisor/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7409"
     },
     {
       "id": 7882,
@@ -1075,23 +1075,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7881"
     },
     {
-      "id": 7686,
-      "title": "Self-Leadership for Lawyers: Taking Charge of your Work Life - Module 3",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-06",
-      "dateTo": "2026-10-06",
-      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "mec",
-      "outline": "This session, participants will learn about the optimal and sub-optimal impacts of stimulation vs stress on the way we think, feel, and act, and how to better regulate ourselves towards the “just right” place for greater sustainability and effectiveness.",
-      "eventLink": "https://store.lawnet.com/self-leadership-for-lawyers-taking-charge-of-your-work-life-module-3.html",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7686"
-    },
-    {
       "id": 7819,
       "title": "[WEBINAR] Energy Justice and Just Transition",
       "mandatory": false,
@@ -1107,6 +1090,23 @@
       "outline": "This webinar is organised by NUS - Centre for International Law. This lecture introduces energy justice and its relevance to energy poverty, inequality, and climate change. It examines the five tenets of energy justice and their practical application, including trade-offs between affordability, energy security, and justice. The lecture then explores just transition in the energy sector within international climate law and policy, and concludes by considering the challenges of balancing transition speed, fairness, and implementation.",
       "eventLink": "https://cil.nus.edu.sg/event/climate-change-e-academy-july-to-november-2026/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7819"
+    },
+    {
+      "id": 7686,
+      "title": "Self-Leadership for Lawyers: Taking Charge of your Work Life - Module 3",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-06",
+      "dateTo": "2026-10-06",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "This session, participants will learn about the optimal and sub-optimal impacts of stimulation vs stress on the way we think, feel, and act, and how to better regulate ourselves towards the “just right” place for greater sustainability and effectiveness.",
+      "eventLink": "https://store.lawnet.com/self-leadership-for-lawyers-taking-charge-of-your-work-life-module-3.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7686"
     },
     {
       "id": 7907,
@@ -1379,6 +1379,40 @@
       "outline": "This event is organised by Singapore Medical Association. Enhance your skills in the ethical, legal and communicative aspects of high-stakes care in end-of-life situations. Designed for physicians, nurses and social workers, the programme addresses key clinical and legal considerations, palliative care interventions and navigating difficult conversations with patients and families.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7624",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7624"
+    },
+    {
+      "id": 7854,
+      "title": "Procedures and Principles in the Contested Administration of Estates and Trusts",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-19",
+      "dateTo": "2026-10-19",
+      "venue": "TBC",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "The workshop will cover the procedural framework for and principles relating to contentious administration of estates and trusts under the Family Justice (Probate and Other Matters) Rules and other related subsidiary legislation and practice directions.",
+      "eventLink": "https://reg.eventnook.com/event/u77770",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7854"
+    },
+    {
+      "id": 7597,
+      "title": "Certificate in Wealth, Succession and Legacy",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-19",
+      "dateTo": "2026-10-19",
+      "venue": "Classroom at One Marina Boulevard",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "Yes",
+      "ptsValue": 1.5,
+      "ptsType": "mec",
+      "outline": "This event is organised by Wealth Management Institute Limited. This course provides an overview of the legal and practical considerations in wealth transition and succession planning. Participants examine how purpose and governance influence long-term family decisions, and review key estate-planning tools and structures. The module also explores philanthropic planning and the role of legal practitioners in supporting families through legacy, governance, and wealth-planning discussions.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-wealth-succession-legacy/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7597"
     }
   ]
 }
