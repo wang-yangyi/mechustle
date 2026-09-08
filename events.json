@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-09-07T02:31:47.172712+00:00",
-  "count": 83,
+  "generatedAt": "2026-09-08T02:44:10.020130+00:00",
+  "count": 82,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7858,
-      "title": "Loss of Profits Fundamentals",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-07",
-      "dateTo": "2026-09-07",
-      "venue": "Room 701, Level 7, NTUC Centre, One Marina Boulevard, Singapore 018989",
-      "organiser": "See Event Outline",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by J.S. Held. Getting the quantum wrong can undo an otherwise winning case.  Loss of profits sits at the heart of commercial disputes, including breach of contract, shareholder rows, business interruptions, IP infringement and investment treaty arbitration.  This seminar gives legal practitioners the fundamentals needed to instruct experts effectively, pressure-test opposing calculations, and argue quantum with confidence.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7858",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7858"
-    },
     {
       "id": 7872,
       "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 3: Informal Restructuring Options+",
@@ -546,23 +529,6 @@
       "outline": "Spanning two days, the programme offers a rich mix of plenary sessions, interactive discussions, and collaborative exchanges covering the most pressing issues in family law today, from considering and reshaping the substantive bases for the division of matrimonial assets, the changing legal practice and concerns relating to child welfare, succession and wealth planning, the provision and protection of the vulnerable in the family, the evolving role of technology in family practice, and ethical considerations for a practitioner engaging in modern family & probate practice.",
       "eventLink": "https://reg.eventnook.com/event/FamilyConference2026",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7918"
-    },
-    {
-      "id": 7933,
-      "title": "STA Conference 2026: Stewardship in a Shifting World",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-18",
-      "dateTo": "2026-09-18",
-      "venue": "Marina bay Sands Expo & Convention Centre, Heliconia Ballroom Level 3, Bayfront Ave, Singapore 018956",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 6.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Singapore Trustees Association. This conference examines recent legal developments and emerging issues in trust law and private client practice. Topics include significant court decisions from Singapore, Jersey and the UK, trustee decision-making, disclosure of trust information, cross-border wealth structuring, succession planning, China developments, non-bankable assets, trustee challenges, and the impact of AI on the trust industry, providing practical insights for trust and private client practitioners.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7933",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7933"
     },
     {
       "id": 7756,
@@ -1413,6 +1379,23 @@
       "outline": "This event is organised by Wealth Management Institute Limited. This course provides an overview of the legal and practical considerations in wealth transition and succession planning. Participants examine how purpose and governance influence long-term family decisions, and review key estate-planning tools and structures. The module also explores philanthropic planning and the role of legal practitioners in supporting families through legacy, governance, and wealth-planning discussions.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-wealth-succession-legacy/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7597"
+    },
+    {
+      "id": 7839,
+      "title": "STEP Asia Conference 2026: Advising Families in an Emerging New World Order+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-20",
+      "dateTo": "2026-10-21",
+      "venue": "Marina Bay Sands Expo & Convention, 10 Bayfront Avenue, Singapore 018956",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 12.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by STEP (Singapore Branch). This Conference unpacks the latest emerging trends and innovative strategies shaping family advisory in today’s evolving landscape. Hear directly from experts in Australia, China, India, Indonesia, South Korea & Vietnam on how family needs are evolving across Asia. Sessions address core succession planning challenges: from tax transparency & compliance requirements to strategic family structures & sensitive matters e.g. matrimonial disputes, family governance & alternative dispute resolution.",
+      "eventLink": "https://www.stepevents.org/event/asia/summary",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7839"
     }
   ]
 }
