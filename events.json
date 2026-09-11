@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-09-10T02:46:20.483472+00:00",
-  "count": 81,
+  "generatedAt": "2026-09-11T02:39:29.797983+00:00",
+  "count": 82,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7903,
-      "title": "[WEBINAR] Ponzi Insolvencies: Clawbacks, Investor Defences and Cross-Border Recovery",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-10",
-      "dateTo": "2026-09-10",
-      "venue": "Webinar",
-      "organiser": "See Event Outline",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by INSOL International (Asia) Ltd. This webinar examines the legal, commercial and operational challenges arising from modern Ponzi insolvencies, including clawback litigation, investor defences, forensic investigations, asset tracing, digital asset recovery and cross-border recovery strategies. Drawing on recent legal developments and the speakers’ firsthand experience, it also considers the legal, forensic and commercial issues that influence successful recovery outcomes in complex domestic and cross-border frauds.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7903",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7903"
-    },
-    {
-      "id": 7887,
-      "title": "CML Seminar Series: Termination for Late Delivery in Charterparties: A Pause for Thought?",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-10",
-      "dateTo": "2026-09-10",
-      "venue": "The Executive Centre Level 22 Ocean Financial Centre 10 Collyer Quay Singapore 049315",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "Admiralty Practice / Shipping",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This seminar examines a hypothetical time charterparty dispute involving late delivery. It considers the conflict between delivery obligations and reasonable diligence, the nature of breach, and the legality of charterer termination. It highlights the innocent party’s decision-making period, shaped by contractual context, urgency, market conditions, performance, and potential prejudice. It also stresses reserving rights and properly framing termination notices, as termination is not automatic.",
-      "eventLink": "https://law.nus.edu.sg/cml/events/cmlss260910/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7887"
-    },
     {
       "id": 7754,
       "title": "[WEBINAR] CLAS Training Programme 2026 - Module 12: The \"Perfect\" Case Theory and the CCDC Process",
@@ -548,6 +514,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7926"
     },
     {
+      "id": 7966,
+      "title": "LawNet Training Workshop (23 September 2026)",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-23",
+      "dateTo": "2026-09-23",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This training workshop guides attendees through the new features and functionalities of LawNet.com. Through walkthroughs and hands-on exercises, participants will learn how to use the revamped platform efficiently",
+      "eventLink": "https://store.lawnet.com/lawnet-training-workshop-23-september-2026.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7966"
+    },
+    {
       "id": 7735,
       "title": "Maritime Arbitrator Accreditation Programme 2026",
       "mandatory": false,
@@ -818,6 +801,23 @@
       "outline": "As Maritime Autonomous Surface Ships (MASS) adopt AI for tasks traditionally handled by crews, questions arise over liability when AI causes cargo damage. While claims will usually target carriers, cargo owners and insurers may also pursue AI producers. This seminar argues that existing English negligence law can address AI-related issues, including defect, evidence, causation and remoteness, without new liability rules, and examines implications for insurers and contractual risk allocation.",
       "eventLink": "https://law.nus.edu.sg/cml/events/cmlss261001/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7944"
+    },
+    {
+      "id": 7922,
+      "title": "[WEBiNAR] CALS Webinar - Ethics in Lived Reality: Mentoring in the Daily Grind",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-10-01",
+      "dateTo": "2026-10-01",
+      "venue": "Webinar",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "mec",
+      "outline": "This panel explores how legal ethics can be meaningfully integrated into the everyday training and mentorship of lawyers. Focusing on the role of ethical environments and mentoring in fostering sustainable ethical practice, the discussion brings together speakers from diverse backgrounds to share perspectives on practical challenges and effective strategies for embedding ethics into the daily realities of legal practice.",
+      "eventLink": "https://law.nus.edu.sg/cals/events/cals-seminar-ethics-in-lived-reality-mentoring-in-the-daily-grind/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7922"
     },
     {
       "id": 7950,
@@ -1141,6 +1141,23 @@
       "outline": "This module will discuss the conditions for seeking rescue financing and the various practical challenges associated with it. It will further explore alternative structures for financing without going through a court process. The course will also do an in-depth study of previous cases in Singapore that had sought rescue financing and draw out the learning points for each case.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-ipas-graduate-certificate-insolvency-and-restructuring-module-8-financing-gcir?newsletter=  ",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7890"
+    },
+    {
+      "id": 7962,
+      "title": "[WEBINRA & IN-PERSON] Herbert Smith Freehills Kramer - SMU Asian Arbitration Lecture 2026: Caught in the Crossfire: Arbitration’s struggle with sanctions",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-14",
+      "dateTo": "2026-10-14",
+      "venue": "Webinar / Ngee Ann Kongsi Auditorium, SMU School of Accountancy",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This lecture examines how sanctions affect arbitration, from parties’ ability to participate in the arbitration process, to the enforcement of arbitral awards. It also considers the wider implications for transnational system of commercial justice, including escalation of costs and uncertainty, and weakening of arbitration as a reliable means for resolving cross-border disputes.",
+      "eventLink": "https://site.smu.edu.sg/herbert-smith-freehills-kramer-smu-asian-arbitration-lecture-2026",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7962"
     },
     {
       "id": 7862,
