@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-11T02:39:29.797983+00:00",
-  "count": 82,
+  "generatedAt": "2026-09-12T02:48:50.041985+00:00",
+  "count": 86,
   "errorCount": 0,
   "events": [
     {
@@ -104,6 +104,23 @@
       "outline": "This event is organised by Attorney-General’s Chambers. The UN Charter celebrated its 80th anniversary in 2025, amidst what some have described as a crisis of multilateralism. The UN is facing cost cutting issues, slow movement in multilateral treaty negotiations, and challenges in resolving intractable armed conflicts. And yet, there have also been triumphs – the BBNJ Agreement came into force in 2026, and the International Court of Justice has been more active than ever, with more cases on its docket than at any other time in its history.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7909",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7909"
+    },
+    {
+      "id": 7968,
+      "title": "[WEBINAR] Senior Counsel Forum 2026 - Module 5: Practical Examples of Common Situations Lawyers Find Themselves in and Recommended Course of Action",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-15",
+      "dateTo": "2026-09-15",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "The Senior Counsel Forum, by the Law Society of Singapore, returns with six modules led by distinguished Senior Counsel. Topics include court submissions, duty to the court, disciplinary processes, conflicts of interest, common ethical scenarios, and English ethics practice. An invaluable opportunity for lawyers to learn best practices in legal ethics, delivered virtually via Zoom.",
+      "eventLink": "https://reg.eventnook.com/event/u77614",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7968"
     },
     {
       "id": 7919,
@@ -718,6 +735,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7462"
     },
     {
+      "id": 7963,
+      "title": "[WEBINAR] The (UN)visible United Nations – Episode 1: The Visible UN: Behind the Scenes of Progressive Development and Codification of International Law at the United Nations",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-30",
+      "dateTo": "2026-09-30",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "The UNvisible United Nations is a new CIL webinar series exploring lesser-known UN institutions that shape international law. Its first episode examines the roles of the International Law Commission, the General Assembly’s Sixth Committee and the UN Office of Legal Affairs. The session considers how these bodies interact, balance expert-led processes with State participation, and whether their approaches create fragmentation, synergy or productive contestation.",
+      "eventLink": "https://cil.nus.edu.sg/event/the-unvisible-united-nations-episode-1-the-visible-un-behind-the-scenes-of-progressive-development-and-codification-of-international-law-at-the-united-nations/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7963"
+    },
+    {
       "id": 7943,
       "title": "The Green Plan 2030 Five Years On: From Policy Vision to Legal Reality",
       "mandatory": false,
@@ -1058,6 +1092,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7797"
     },
     {
+      "id": 7949,
+      "title": "Words that Win: Witness Interviewing and Statement-Drafting Skills for Arbitration Practitioners",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-08",
+      "dateTo": "2026-10-08",
+      "venue": "TBC",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "Yes",
+      "ptsValue": 3.5,
+      "ptsType": "mec",
+      "outline": "Witness evidence is often the most important and most vulnerable part of an arbitration case. A well-prepared witness anchors a tribunal's findings; a poorly interviewed one can unravel under cross-examination. This workshop teaches young arbitration lawyers rarely-taught skills: conducting witness interviews, distinguishing recollection from reconstruction, and drafting persuasive, ethical statements. Participants interview a \"live\" witness, draft under time pressure, and confront a late-disclosed document — then debrief with senior practitioners on judgment calls and ethics.",
+      "eventLink": "https://reg.eventnook.com/event/u77875",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7949"
+    },
+    {
       "id": 7591,
       "title": "Certificate in Family Office & Governance",
       "mandatory": false,
@@ -1144,9 +1195,9 @@
     },
     {
       "id": 7962,
-      "title": "[WEBINRA & IN-PERSON] Herbert Smith Freehills Kramer - SMU Asian Arbitration Lecture 2026: Caught in the Crossfire: Arbitration’s struggle with sanctions",
+      "title": "[WEBINAR & IN-PERSON] Herbert Smith Freehills Kramer - SMU Asian Arbitration Lecture 2026: Caught in the Crossfire: Arbitration’s struggle with sanctions",
       "mandatory": false,
-      "format": "In-person",
+      "format": "Hybrid",
       "dateFrom": "2026-10-14",
       "dateTo": "2026-10-14",
       "venue": "Webinar / Ngee Ann Kongsi Auditorium, SMU School of Accountancy",
@@ -1328,6 +1379,23 @@
       "outline": "This event is organised by Wealth Management Institute Limited. This course provides an overview of the legal and practical considerations in wealth transition and succession planning. Participants examine how purpose and governance influence long-term family decisions, and review key estate-planning tools and structures. The module also explores philanthropic planning and the role of legal practitioners in supporting families through legacy, governance, and wealth-planning discussions.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-wealth-succession-legacy/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7597"
+    },
+    {
+      "id": 7982,
+      "title": "Singapore Insolvency Conference 2026+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-20",
+      "dateTo": "2026-10-21",
+      "venue": "PARKROYAL COLLECTION Marina Bay, Garden Ballroom Level 1",
+      "organiser": "See Event Outline",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 9.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Insolvency Practitioners Association of Singapore (IPAS). The Singapore Insolvency Conference 2026 (SIC 2026) brings together the restructuring and insolvency community to examine the evolution and future direction of restructuring and insolvency law and practice in Singapore and beyond. Building on four decades of transformation since the Pan-Electric crisis, the conference will explore how Singapore has developed into a leading international restructuring hub and consider the opportunities and challenges that lie ahead.",
+      "eventLink": "https://eventnook.site/sites/s413bfea840c245fa989ca66251e3363c",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7982"
     },
     {
       "id": 7839,
