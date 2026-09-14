@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T02:46:53.431327+00:00",
-  "count": 86,
+  "generatedAt": "2026-09-14T03:01:47.197738+00:00",
+  "count": 87,
   "errorCount": 0,
   "events": [
     {
@@ -973,23 +973,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7881"
     },
     {
-      "id": 7686,
-      "title": "Self-Leadership for Lawyers: Taking Charge of your Work Life - Module 3",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-06",
-      "dateTo": "2026-10-06",
-      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "mec",
-      "outline": "This session, participants will learn about the optimal and sub-optimal impacts of stimulation vs stress on the way we think, feel, and act, and how to better regulate ourselves towards the “just right” place for greater sustainability and effectiveness.",
-      "eventLink": "https://store.lawnet.com/self-leadership-for-lawyers-taking-charge-of-your-work-life-module-3.html",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7686"
-    },
-    {
       "id": 7819,
       "title": "[WEBINAR] Energy Justice and Just Transition",
       "mandatory": false,
@@ -1005,6 +988,23 @@
       "outline": "This webinar is organised by NUS - Centre for International Law. This lecture introduces energy justice and its relevance to energy poverty, inequality, and climate change. It examines the five tenets of energy justice and their practical application, including trade-offs between affordability, energy security, and justice. The lecture then explores just transition in the energy sector within international climate law and policy, and concludes by considering the challenges of balancing transition speed, fairness, and implementation.",
       "eventLink": "https://cil.nus.edu.sg/event/climate-change-e-academy-july-to-november-2026/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7819"
+    },
+    {
+      "id": 7686,
+      "title": "Self-Leadership for Lawyers: Taking Charge of your Work Life - Module 3",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-06",
+      "dateTo": "2026-10-06",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "This session, participants will learn about the optimal and sub-optimal impacts of stimulation vs stress on the way we think, feel, and act, and how to better regulate ourselves towards the “just right” place for greater sustainability and effectiveness.",
+      "eventLink": "https://store.lawnet.com/self-leadership-for-lawyers-taking-charge-of-your-work-life-module-3.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7686"
     },
     {
       "id": 7907,
@@ -1464,6 +1464,23 @@
       "outline": "The course is an intensive 2.5-day programme which will require participants to prepare and perform as advocates in court, handling case analysis, opening and closing speeches, as well as examination and cross-examination of witnesses. The highlight of the course will culminate in a mock trial where participants, working in pairs, will conduct examination and cross-examination of expert witnesses and deliver oral submissions. At the end of the mock trial, the presiding Judge will provide an extempore judgment along with comments and feedback on the participants’ performance.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7779"
+    },
+    {
+      "id": 7601,
+      "title": "Certificate in Multi-Jurisdictional Tax and Structures",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-26",
+      "dateTo": "2026-10-26",
+      "venue": "Classroom at One Marina Boulevard",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "Yes",
+      "ptsValue": 2.5,
+      "ptsType": "mec",
+      "outline": "This event is organised by Wealth Management Institute (WMI). This module examines how family offices navigate cross-border tax and regulatory environments. It covers key regimes across major jurisdictions, with a focus on Singapore’s Section 13 incentives, licensing and structuring considerations. Participants explore CRS, FATCA, global minimum tax, and emerging trends, applying insights through practical case studies on family office operations.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-multi-jurisdictional-tax-structures/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7601"
     }
   ]
 }
