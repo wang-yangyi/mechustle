@@ -1,59 +1,8 @@
 {
-  "generatedAt": "2026-09-14T03:01:47.197738+00:00",
-  "count": 87,
+  "generatedAt": "2026-09-15T03:04:09.298825+00:00",
+  "count": 89,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7754,
-      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 12: The \"Perfect\" Case Theory and the CCDC Process",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-14",
-      "dateTo": "2026-09-14",
-      "venue": "Webinar",
-      "organiser": "Pro Bono SG",
-      "practiceArea": "Crime",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "A trial isn’t about throwing every fact and legal argument at the court—it’s about strategy. As solicitors, our role is to distill complex information into a clear, compelling story that shows why our client is not guilty. In this seminar, seasoned advocates share practical insights on crafting a powerful case theory, making the tough calls along the way, and navigating the CCDC process where both sides reveal their strategies.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7754"
-    },
-    {
-      "id": 7901,
-      "title": "[WEBINAR] What Is A \"Frozen Conflict\" in International Law?",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-14",
-      "dateTo": "2026-09-14",
-      "venue": "Webinar",
-      "organiser": "See Event Outline",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by National University of Singapore, Centre for International Law (NUS CIL). What is a \"frozen conflict\" in international law? This webinar examines the contested legal meaning of the term, distinguishing frozen conflicts from other contemporary conflicts through a survey of global conflict hotspots. Focusing on the post-Soviet space, Dr. Livia Bonhôte-Enzler explores how these conflicts challenge legal concepts of sovereignty, territorial integrity, self-determination, occupation, and the use of force.",
-      "eventLink": "https://cil.nus.edu.sg/event/what-is-a-frozen-conflict-in-international-law/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7901"
-    },
-    {
-      "id": 7864,
-      "title": "[WEBINAR] AEICs: The 2026 Paradigm",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-14",
-      "dateTo": "2026-09-14",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Civil Procedure",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "This webinar explores the evolving 2026 paradigm for Affidavits of Evidence in Chief (AEICs) in Singapore civil trials, covering judicial guidance, procedural changes, and technology's growing role. Speakers address best practices for drafting, structuring, and managing factual and expert evidence, integrating electronic material, and avoiding pitfalls. Participants will learn judicial expectations, common AEIC weaknesses, techniques for clarity and persuasiveness, and how to handle cross-examination and submission challenges.",
-      "eventLink": "https://reg.eventnook.com/event/u77782",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7864"
-    },
     {
       "id": 7878,
       "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 4: Dispute Resolution+",
@@ -718,6 +667,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7880"
     },
     {
+      "id": 7965,
+      "title": "Navigating ICC Arbitration Rules 2026: Key Changes and Practical Implications",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-09-29",
+      "dateTo": "2026-09-29",
+      "venue": "Maxwell Chambers; Level 2, 32 Maxwell Road, Singapore 069115",
+      "organiser": "Singapore Institute of Arbitrators",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "1. Introduction to the 2026 Rules\n\n2. Insights into how the 2026 Rules aim to enhance transparency, streamline proceedings, and respond to the changing needs of global dispute resolution.\n\n3. Key amendments and new features, which will enable participants to leave with a practical understanding of what has changed, why it matters, and how to use the new Rules to their advantage.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7965",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7965"
+    },
+    {
       "id": 7462,
       "title": "[WEBINAR] Establishing Fraud, Unconscionable Conduct and Beyond",
       "mandatory": false,
@@ -1024,6 +990,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7907"
     },
     {
+      "id": 7978,
+      "title": "Women at the Bar: Advocacy, Leadership, Sustainability and Longevity",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-07",
+      "dateTo": "2026-10-07",
+      "venue": "Courtyard @ Rajah & Tann Singapore LLP",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "mec",
+      "outline": "Women in Advocacy returns for its second edition after a strong 2025 debut. Under the theme Women at the Bar: Advocacy, Leadership, Sustainability and Longevity, senior advocates, including an international voice, will discuss building a lasting career in litigation—from developing courtroom confidence and a personal advocacy style to navigating setbacks, progressing into leadership, and leading with authority and authenticity.",
+      "eventLink": "https://reg.eventnook.com/event/u77963/home",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7978"
+    },
+    {
       "id": 7898,
       "title": "[WEBINAR] Tort Claims in Employment Disputes: Recent Developments",
       "mandatory": false,
@@ -1192,6 +1175,23 @@
       "outline": "This module will discuss the conditions for seeking rescue financing and the various practical challenges associated with it. It will further explore alternative structures for financing without going through a court process. The course will also do an in-depth study of previous cases in Singapore that had sought rescue financing and draw out the learning points for each case.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-ipas-graduate-certificate-insolvency-and-restructuring-module-8-financing-gcir?newsletter=  ",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7890"
+    },
+    {
+      "id": 7959,
+      "title": "[WEBINAR] ALB International M&A Transactions Masterclass 2026+",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-10-13",
+      "dateTo": "2026-10-14",
+      "venue": "Webinar",
+      "organiser": "Thomson Reuters Corporation Pte Ltd",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 9.5,
+      "ptsType": "cpd",
+      "outline": "The ALB International M&A Transactions Masterclass 2026 is an intensive, practical programme for legal counsel, corporate leaders and deal professionals seeking the technical clarity and commercial confidence to manage cross-border transactions from the initial term sheet through to completion.",
+      "eventLink": "https://www.legalbusinessonline.com/MA2026",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7959"
     },
     {
       "id": 7962,
@@ -1415,6 +1415,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7839"
     },
     {
+      "id": 7955,
+      "title": "Global Sanctions and Export Controls: Practical Insights for Legal Professional and Businesses",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-21",
+      "dateTo": "2026-10-21",
+      "venue": "Clifford Chance, 12 Marina Boulevard, Tower 3, #25-00, Marina Bay Financial Centre, 018982",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "This networking session brings together senior representatives from legal practice and industry to share practical perspectives on navigating this evolving landscape. Moderated by Kai-Niklas Schneider (Clifford Chance Asia), the discussion will feature Michael Lamson (Linklaters), Andrew Macintosh (FTI Consulting), and Wan-Yi Ho (Deutsche Bank) as they discuss key developments in sanctions and export controls, the practical challenges facing businesses, and considerations for managing these risks in an increasingly complex global environment.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7955"
+    },
+    {
       "id": 7653,
       "title": "Client Management: Dealing with Vulnerable Clients+",
       "mandatory": false,
@@ -1481,6 +1498,23 @@
       "outline": "This event is organised by Wealth Management Institute (WMI). This module examines how family offices navigate cross-border tax and regulatory environments. It covers key regimes across major jurisdictions, with a focus on Singapore’s Section 13 incentives, licensing and structuring considerations. Participants explore CRS, FATCA, global minimum tax, and emerging trends, applying insights through practical case studies on family office operations.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-multi-jurisdictional-tax-structures/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7601"
+    },
+    {
+      "id": 7906,
+      "title": "Navigating AI, Workplace Fairness and Workplace Investigations: HR Risk Management for In-house Counsel",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-27",
+      "dateTo": "2026-10-27",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Employment Law",
+      "mecSegment": "NA",
+      "ptsValue": 7.0,
+      "ptsType": "cpd",
+      "outline": "We will explore how counsel can bridge the gap between \"knowing\" the law and \"doing\" the work of an operational leader, ensuring that the legal function acts as a driver of sustained competitive advantage rather than a mere cost centre.",
+      "eventLink": "https://store.lawnet.com/navigating-ai-workplace-fairness-and-workplace-investigations-hr-risk-management-for-in-house-counsel-oct-2026.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7906"
     }
   ]
 }
