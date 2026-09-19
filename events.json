@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-09-18T02:51:00.547284+00:00",
+  "generatedAt": "2026-09-19T02:49:23.526422+00:00",
   "count": 76,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7933,
-      "title": "STA Conference 2026: Stewardship in a Shifting World",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-18",
-      "dateTo": "2026-09-18",
-      "venue": "Marina bay Sands Expo & Convention Centre, Heliconia Ballroom Level 3, Bayfront Ave, Singapore 018956",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 6.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Singapore Trustees Association. This conference examines recent legal developments and emerging issues in trust law and private client practice. Topics include significant court decisions from Singapore, Jersey and the UK, trustee decision-making, disclosure of trust information, cross-border wealth structuring, succession planning, China developments, non-bankable assets, trustee challenges, and the impact of AI on the trust industry, providing practical insights for trust and private client practitioners.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7933",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7933"
-    },
     {
       "id": 7756,
       "title": "[WEBINAR] CLAS Training Programme 2026 - Module 14: Rehabilitation Over Retribution: Alternative Sentencing for Youth and Vulnerable Offenders",
@@ -393,6 +376,23 @@
       "outline": "This panel explores how the Singapore Green Plan 2030 has influenced environmental law and regulation across climate change, carbon markets, energy, transport, and the built environment, and what reforms may still lie ahead.",
       "eventLink": "https://law.nus.edu.sg/apcel/events/apcel-the-green-plan-2030-five-years-on-from-policy-vision-to-legal-reality/%20",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7943"
+    },
+    {
+      "id": 7999,
+      "title": "[WEBINAR] Bills of Lading: Dead, Spent or Still Alive?",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-09-30",
+      "dateTo": "2026-09-30",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "Admiralty Practice / Shipping",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Singapore Chamber of Maritime Arbitration. This session explores discharge LOIs and the risks when banks retain bills of lading as security after delivery, including shipowners’ exposure and defences to misdelivery claims.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7999",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7999"
     },
     {
       "id": 7923,
