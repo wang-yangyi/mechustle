@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T03:01:40.019866+00:00",
-  "count": 76,
+  "generatedAt": "2026-09-21T02:59:07.264464+00:00",
+  "count": 77,
   "errorCount": 0,
   "events": [
     {
@@ -1073,6 +1073,23 @@
       "outline": "he programme is intended for criminal practitioners, young lawyers and law students, and offers participants an opportunity to reflect on the competencies, values, and ethical foundations necessary for effective and sustainable criminal practice.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7987"
+    },
+    {
+      "id": 7988,
+      "title": "[WEBINAR] Disclosure, Not Discovery: Navigating the 2021 ROC Landscape",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-10-20",
+      "dateTo": "2026-10-20",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Civil Procedure",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "This session will help litigators, junior lawyers and in-house counsel translate the new framework into practical litigation judgment: what to ask for, when to ask for it, how to resist overbroad requests, and how to use document production strategically without losing sight of the Ideals under the Rules of Court 2021.",
+      "eventLink": "https://reg.eventnook.com/event/u77931/home",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7988"
     },
     {
       "id": 7986,
