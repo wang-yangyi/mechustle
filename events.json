@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-09-22T02:59:12.705426+00:00",
+  "generatedAt": "2026-09-23T02:59:15.348922+00:00",
   "count": 75,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7882,
-      "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 5: Forensics And Investigations+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-09-22",
-      "dateTo": "2026-09-24",
-      "venue": "Singapore Management University",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 6.0,
-      "ptsType": "cpd",
-      "outline": "This module provides an insight into the types and motivations of fraud and the obligations of an insolvency practitioner when faced with circumstances involving fraud. Participants will be introduced to a series of investigation methodology and the importance of forensic services in uncovering valuable evidence for the insolvency practitioner.",
-      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-ipas-advanced-certificate-insolvency-and-restructuring-module-5-forensics-and?newsletter=",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7882"
-    },
-    {
-      "id": 7896,
-      "title": "[WEBINAR] Day of Conveyancing Highlights 2026 – Day 2",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-22",
-      "dateTo": "2026-09-22",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Real Estate",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "The Conveyancing Practice Committee presents its 14th annual \"Day of Conveyancing Highlights,\" held as two half-day webinars covering different topics. Speakers include Leonard Tay (Knight Frank) on residential/commercial market trends, S. Suressh (Harry Elias Partnership) on anti-money laundering, Orson Zhu (SLA) on the upcoming Digital Conveyancing Portal, and Carrie Wong (SLA) on adaptive reuse of State properties - addressing property law, market dynamics, technology, and compliance for practitioners.",
-      "eventLink": "https://reg.eventnook.com/event/u77823",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7896"
-    },
     {
       "id": 7926,
       "title": "Corporate Law Day 2026+",
@@ -546,23 +512,6 @@
       "outline": "This event is organise by NUS - Centre for International Law. Professor Kaddous will examine how the EU AI Act is reshaping AI regulation within and beyond the EU, including its scope, risk-based duties, enforcement and interaction with fundamental rights and data protection. The lecture will explore cross-border jurisdiction, state responsibility, economic law and global standards, as well as implications for Switzerland. It will conclude with the Geneva AI Summit 2027’s potential role in advancing global cooperation on responsible AI governance.",
       "eventLink": "https://cil.nus.edu.sg/event/artificial-intelligence-governance-in-europe-and-beyond-by-professor-christine-kaddous/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7974"
-    },
-    {
-      "id": 7907,
-      "title": "Integrating ESG into Corporate Governance and Compliance",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-06",
-      "dateTo": "2026-10-06",
-      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 7.5,
-      "ptsType": "cpd",
-      "outline": "The course aims to equip inhouse counsel and private practitioners with an understanding of the key concepts and issues relating to sustainability and ESG and how to incorporate such concepts into corporate policies and strategies, ensuring they are equipped to advise organisations on best practices and compliance with relevant regulations",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7907"
     },
     {
       "id": 7978,
@@ -1245,6 +1194,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7503"
     },
     {
+      "id": 7992,
+      "title": "Certificate in ESG, Philanthropy, and Sustainable Investing",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-02",
+      "dateTo": "2026-11-02",
+      "venue": "Classroom at WMI, One Marina Boulevard, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "The event is organised by Wealth Management Institute Limited. It examines philanthropy advisory, stakeholder management, ESG and sustainable investing within family office and private wealth contexts. Through governance discussions, case studies and practical applications, participants will explore philanthropic structures, sustainable investment approaches, stewardship, stakeholder considerations, greenwashing risks and governance frameworks relevant to advising private clients and family offices.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7992"
+    },
+    {
       "id": 7893,
       "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 11: Capstone - Integrating the Concepts+",
       "mandatory": false,
@@ -1277,6 +1243,40 @@
       "outline": "Understand aspects of the licensing of intellectual property (IP) – particularly for trade marks, copyright, patents, and registered designs – at the LES Singapore Basic Licensing Course 2026! Organised together with the Licensing Executives Society (Singapore), our programme will cover the various principles and procedures involved in licensing negotiations. Learn how to effectively apply them in practice, through a “hands-on” scenario.",
       "eventLink": "https://iposinternational.com/academy/enterprises-individuals/les-singapore-basic-licensing-course_362",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7434"
+    },
+    {
+      "id": 7993,
+      "title": "Certificate for Family Office Practitioner – Family Office Management and Operations",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-03",
+      "dateTo": "2026-11-03",
+      "venue": "Classroom at WMI, One Marina Boulevard, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "Yes",
+      "ptsValue": 1.5,
+      "ptsType": "mec",
+      "outline": "This event is organised by Wealth Management Institute Limited. This course provides participants with an overview of the key considerations involved in family office design and management and equips them with the practical knowledge required to understand, establish, support and operate family offices.",
+      "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7993"
+    },
+    {
+      "id": 7546,
+      "title": "[APCEL-EWBCLB Book Launch] The Oxford Handbook of Climate Change and Private Law",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-04",
+      "dateTo": "2026-11-04",
+      "venue": "Yale-NUS College Performance Hall  NUS Law (UTown), Kent Ridge Campus",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Others/Multi-disciplinary",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "The Oxford Handbook of Climate Change and Private Law edited by Douglas A. Kysar (Yale) and Ernest Lim (NUS) offers a comprehensive scholarly assessment of the impacts of climate change for private law. It brings together a team of world-leading experts to examine the interface between private law and climate change, including how existing private law can respond to climate change and whether private law itself might be impacted by climate change.",
+      "eventLink": "https://law.nus.edu.sg/apcel/events/book-launch-the-oxford-handbook-of-climate-change-and-private-law/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7546"
     }
   ]
 }
