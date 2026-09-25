@@ -1,59 +1,8 @@
 {
-  "generatedAt": "2026-09-24T02:49:47.780743+00:00",
-  "count": 76,
+  "generatedAt": "2026-09-25T03:07:36.670044+00:00",
+  "count": 75,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7757,
-      "title": "[WEBINAR] CLAS Training Programme 2026 - Module 15: Navigating Sexual Offence Cases: Legal Developments and Cross-Examination Strategies",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-24",
-      "dateTo": "2026-09-24",
-      "venue": "Webinar",
-      "organiser": "Pro Bono SG",
-      "practiceArea": "Crime",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "The last decade has seen a rise in sexual crime cases in Singapore. Join us for an in-depth discussion on how legislative changes, sentencing frameworks, and institutional responses are shaping the prosecution and defence of sexual assault cases.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7757"
-    },
-    {
-      "id": 7961,
-      "title": "[WEBINAR] Reinventing the World Court",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-09-24",
-      "dateTo": "2026-09-24",
-      "venue": "Webinar",
-      "organiser": "See Event Outline",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by NUS - Centre for International Law. This forward-looking webinar explores how the ICJ can remain relevant and effective in the 21st century. It will consider the skills, expertise and qualities required of future ICJ judges, as well as how the Court can adapt its institutions and methods to address increasingly complex disputes. The session will also examine the changes needed to ensure that the ICJ remains an authoritative, resilient and fit-for-purpose world court.",
-      "eventLink": "https://cil.nus.edu.sg/event/webinar-series-reinventing-the-world-court-webinar-3-a-world-court-for-the-future/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7961"
-    },
-    {
-      "id": 7954,
-      "title": "[WEBINAR & IN-PERSON] Sustainability Reporting in the AI Age: Useful Tool or False Confidence?",
-      "mandatory": false,
-      "format": "Hybrid",
-      "dateFrom": "2026-09-24",
-      "dateTo": "2026-09-24",
-      "venue": "Webinar / 60 Cecil Street ISCA House Singapore 049709",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Others/Multi-disciplinary",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "This multidisciplinary panel discussion examines the growing role of AI in sustainability reporting and explores whether AI improves reporting quality or creates false confidence. Participants will gain insights into the opportunities, limitations and risks of AI-assisted reporting, including issues relating to data quality, governance, accountability, oversight and professional judgement. The session will also consider how organisations can responsibly adopt AI while maintaining confidence in sustainability disclosures.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7954",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7954"
-    },
     {
       "id": 7991,
       "title": "Litigation Strategy before International Courts and Tribunals by Peter Tzeng",
@@ -582,23 +531,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7949"
     },
     {
-      "id": 7774,
-      "title": "The Law Society Criminal Trial Advocacy Course 2026+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-09",
-      "dateTo": "2026-10-10",
-      "venue": "Maxwell Chambers & State Courts",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Crime",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "Following a successful 1st edition in October 2025, the Law Society of Singapore's Advocacy Committee will be working with criminal barristers from the Australian Bar Association for the 2nd edition of the Criminal Trial Advocacy Course.\n\nWith a slate of pre-course webinars, experienced speakers from various sides of the criminal justice system and interactive workshops, this Course will broaden your perspectives, sharpen your advocacy skills and enhance your preparation for a criminal trial.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7774"
-    },
-    {
       "id": 7591,
       "title": "Certificate in Family Office & Governance",
       "mandatory": false,
@@ -614,6 +546,23 @@
       "outline": "This event is organised by Wealth Management Institute Limited. This module introduces the family office landscape, core functions, and role within the private wealth ecosystem. It covers family governance structures, constitutions, councils, ownership and board dynamics, and alignment of values and roles. Participants also examine family dynamics, cultural influences, conflict management, and the legal professional’s role, supported by case studies and practical discussions.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-family-office-governance/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7591"
+    },
+    {
+      "id": 7774,
+      "title": "The Law Society Criminal Trial Advocacy Course 2026+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-09",
+      "dateTo": "2026-10-10",
+      "venue": "Maxwell Chambers & State Courts",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Crime",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "Following a successful 1st edition in October 2025, the Law Society of Singapore's Advocacy Committee will be working with criminal barristers from the Australian Bar Association for the 2nd edition of the Criminal Trial Advocacy Course.\n\nWith a slate of pre-course webinars, experienced speakers from various sides of the criminal justice system and interactive workshops, this Course will broaden your perspectives, sharpen your advocacy skills and enhance your preparation for a criminal trial.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7774"
     },
     {
       "id": 7967,
@@ -1126,6 +1075,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7731"
     },
     {
+      "id": 8002,
+      "title": "[WEBINAR & IN-PERSON] Singapore’s Latest Insolvency Reforms: What Will They Mean in Practice?",
+      "mandatory": false,
+      "format": "Hybrid",
+      "dateFrom": "2026-10-30",
+      "dateTo": "2026-10-30",
+      "venue": "Webinar / Allen & Gledhill Auditorium, 31F One Marina Boulevard, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by INSOL International (Asia) Ltd. This hybrid event will bring together senior legal, financial and restructuring professionals to examine the latest recommended reforms to Singapore’s corporate restructuring and insolvency framework. These recommendations include addressing aspects of judicial management, cross-class cramdown and restructuring tools, as well as cross-border and enterprise group insolvency. With the recommendations moving towards implementation, the panel will discuss what they could mean in practice.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8002",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8002"
+    },
+    {
       "id": 7503,
       "title": "[WEBINAR & IN-PERSON] Lexplorer Workshop Series 4: From Self-Insight to Career Strategy+",
       "mandatory": false,
@@ -1294,6 +1260,23 @@
       "outline": "Understand aspects of the licensing of intellectual property (IP) – particularly for trade marks, copyright, patents, and registered designs – at the LES Singapore Intermediate Licensing Course 2026! Organised together with the Licensing Executives Society (Singapore), our programme will cover the various principles and procedures involved in licensing negotiations.",
       "eventLink": "https://iposinternational.com/academy/enterprises-individuals/les-singapore-intermediate-licensing-course_363",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7627"
+    },
+    {
+      "id": 7934,
+      "title": "[WEBINAR] Candour Counts: Guiding practice trainees through the duty of candour in Bar admission",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-11-06",
+      "dateTo": "2026-11-06",
+      "venue": "Webinar",
+      "organiser": "Singapore Institute of Legal Education",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "mec",
+      "outline": "In this online panel discussion, experienced counsel will discuss the evolving jurisprudence on the duty of candour in admission proceedings and the principles that have emerged from recent decisions. The panellists will consider common disclosure scenarios, the role of supervising solicitors in guiding and rehabilitating trainees, and how to instil the duty of candour from the very start of a lawyer's professional journey.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7934",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7934"
     }
   ]
 }
