@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T03:16:33.531440+00:00",
-  "count": 71,
+  "generatedAt": "2026-09-28T03:13:38.503243+00:00",
+  "count": 72,
   "errorCount": 0,
   "events": [
     {
@@ -1005,6 +1005,23 @@
       "outline": "This seminar series aims to provide participants with an overview of some of the latest IT law issues and developments. Every session focuses on a different topic and will be conducted by a variety of leading practitioners and academics in the relevant field, who will deliver presentations and participate in a Q&A discussion with opportunities for participants to pose questions.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7731"
+    },
+    {
+      "id": 8013,
+      "title": "Inside The Income Tax Implications of Trusts",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-29",
+      "dateTo": "2026-10-29",
+      "venue": "Seminar Room 2.8, School of Economics Singapore Management University, 90 Stamford Road Singapore 178903",
+      "organiser": "See Event Outline",
+      "practiceArea": "Tax",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Singapore Chartered Tax Professionals. Trusts can arise in a wide range of situations, but their income tax treatment can be complex. Join in for a practical introduction to trusts law before examining how income tax applies across different trust arrangements. Gain a clearer understanding of the taxation of beneficiaries, trusts and the tax implications of beneficial ownership. This in-person session will help strengthen your understanding of the key principles and tax considerations to look out for when trusts arise in practice.",
+      "eventLink": "https://sctp.org.sg/EventDetail?id=1354",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8013"
     },
     {
       "id": 8002,
