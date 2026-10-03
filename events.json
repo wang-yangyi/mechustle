@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-10-02T03:44:20.924027+00:00",
-  "count": 72,
+  "generatedAt": "2026-10-03T03:29:20.416989+00:00",
+  "count": 71,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7905,
-      "title": "Distinguished Visitor Lecture: New Era, New Concepts: Innovation and Development in China’s Company Law (2023) and Its Judicial Interpretations",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-02",
-      "dateTo": "2026-10-02",
-      "venue": "Wee Chong Jin Moot Court, NUS Law",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "This seminar examines China’s 2023 Company Law revision and its judicial interpretations. It explores the law’s new principles, including stronger corporate governance, shareholder and creditor protection, and corporate social responsibility. Key reforms include changes to registered capital, directors’ duties, minority shareholder rights, simplified structures for small firms, and creditor safeguards, alongside their practical impact on governance and business practice.",
-      "eventLink": "https://law.nus.edu.sg/ewbclb/events/distinguished-visitor-lecture-by-prof-zhu-ciyun/%20",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7905"
-    },
-    {
-      "id": 7910,
-      "title": "[WEBINAR] Ponzi Insolvencies Across Jurisdictions",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-10-02",
-      "dateTo": "2026-10-02",
-      "venue": "Webinar",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Civil Procedure",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "This webinar examines modern Ponzi insolvencies, and the various legal, commercial and strategic issues that can arise. It delves into clawback litigation, tracing and recovery strategies, cross-border enforcement issues, and also cryptocurrency-related recovery challenges that arise through such insolvencies today. A number of jurisdictions are covered, from Singapore, US, and the UK.",
-      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-261002?newsletter",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7910"
-    },
     {
       "id": 7825,
       "title": "Public Lecture on Climate Change “Legal and Scientific (Un)certainties: 10 Years after the Paris Agreement”",
@@ -206,6 +172,23 @@
       "outline": "This seminar focuses on the topic of sanctions, i.e. the punishment which an errant lawyer may face owing to breaches of the legal ethical norms. The aim of the seminar is two-fold: First, to provide a general introduction to the topic of sanctions. Second, to explore in detail the court’s approach in determining the appropriate sanction for a legal ethical breach and to offer guidance in this regard based on the existing case law.",
       "eventLink": "https://www.suss.edu.sg/news-events/happenings/events/detail/2026/10/08/default-calendar/sanctions-for-legal-ethical-breaches---determining-the-appropriate-sanction-for-lawyer-misconduct",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7927"
+    },
+    {
+      "id": 8026,
+      "title": "[WEBINAR] The Right to a safe, stable and healthy climate: From recognition to realisation",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-10-08",
+      "dateTo": "2026-10-08",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by National University of Singapore - Centre for International Law. This webinar examines the emerging right to a safe, stable and healthy climate as part of the right to a clean, healthy and sustainable environment. Leading practitioners and scholars will explore whether it should be a stand-alone right, the duties of states and corporations, protections for vulnerable communities, climate justice and eco-colonialism, the role of courts, the rights of future generations and nature, and effective ways to implement and advance climate-related rights.",
+      "eventLink": "https://cil.nus.edu.sg/event/the-right-to-a-safe-stable-and-healthy-climate-from-recognition-to-realisation/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8026"
     },
     {
       "id": 7797,
