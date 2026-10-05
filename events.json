@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T03:56:47.138059+00:00",
-  "count": 71,
+  "generatedAt": "2026-10-05T03:41:39.956608+00:00",
+  "count": 72,
   "errorCount": 0,
   "events": [
     {
@@ -157,23 +157,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7984"
     },
     {
-      "id": 7927,
-      "title": "Sanctions for Legal Ethical Breaches – Determining the Appropriate Sanction for Lawyer Misconduct",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-08",
-      "dateTo": "2026-10-08",
-      "venue": "SUSS Room at the State Courts",
-      "organiser": "Singapore University of Social Sciences",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "mec",
-      "outline": "This seminar focuses on the topic of sanctions, i.e. the punishment which an errant lawyer may face owing to breaches of the legal ethical norms. The aim of the seminar is two-fold: First, to provide a general introduction to the topic of sanctions. Second, to explore in detail the court’s approach in determining the appropriate sanction for a legal ethical breach and to offer guidance in this regard based on the existing case law.",
-      "eventLink": "https://www.suss.edu.sg/news-events/happenings/events/detail/2026/10/08/default-calendar/sanctions-for-legal-ethical-breaches---determining-the-appropriate-sanction-for-lawyer-misconduct",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7927"
-    },
-    {
       "id": 8026,
       "title": "[WEBINAR] The Right to a safe, stable and healthy climate: From recognition to realisation",
       "mandatory": false,
@@ -189,6 +172,23 @@
       "outline": "This event is organised by National University of Singapore - Centre for International Law. This webinar examines the emerging right to a safe, stable and healthy climate as part of the right to a clean, healthy and sustainable environment. Leading practitioners and scholars will explore whether it should be a stand-alone right, the duties of states and corporations, protections for vulnerable communities, climate justice and eco-colonialism, the role of courts, the rights of future generations and nature, and effective ways to implement and advance climate-related rights.",
       "eventLink": "https://cil.nus.edu.sg/event/the-right-to-a-safe-stable-and-healthy-climate-from-recognition-to-realisation/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8026"
+    },
+    {
+      "id": 7927,
+      "title": "Sanctions for Legal Ethical Breaches – Determining the Appropriate Sanction for Lawyer Misconduct",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-08",
+      "dateTo": "2026-10-08",
+      "venue": "SUSS Room at the State Courts",
+      "organiser": "Singapore University of Social Sciences",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "mec",
+      "outline": "This seminar focuses on the topic of sanctions, i.e. the punishment which an errant lawyer may face owing to breaches of the legal ethical norms. The aim of the seminar is two-fold: First, to provide a general introduction to the topic of sanctions. Second, to explore in detail the court’s approach in determining the appropriate sanction for a legal ethical breach and to offer guidance in this regard based on the existing case law.",
+      "eventLink": "https://www.suss.edu.sg/news-events/happenings/events/detail/2026/10/08/default-calendar/sanctions-for-legal-ethical-breaches---determining-the-appropriate-sanction-for-lawyer-misconduct",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7927"
     },
     {
       "id": 7797,
@@ -1209,6 +1209,23 @@
       "outline": "This event is organised by Wealth Management Institute Limited. The Certificate in AML, Fiduciary Duties and Regulatory Compliance examines AML/CFT obligations, fiduciary responsibilities, regulatory compliance, risk management and governance considerations relevant to family offices, trust structures and private wealth arrangements. Through practical case studies, regulatory developments and enforcement lessons, participants will develop the ability to identify risks, assess compliance issues and provide informed legal and regulatory advice.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8005"
+    },
+    {
+      "id": 7442,
+      "title": "Negotiating Success+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-16",
+      "dateTo": "2026-11-17",
+      "venue": "National University of Singapore (Kent Ridge Campus)",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 13.0,
+      "ptsType": "cpd",
+      "outline": "This 2-day workshop will focus on giving participants a working knowledge of the Interests-Based Model of Negotiation created by Roger Fisher and as taught at the Program on Negotiation at Harvard Law School. It will be taught through a mixture of presentations, facilitated discussions and role plays.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7442"
     }
   ]
 }
