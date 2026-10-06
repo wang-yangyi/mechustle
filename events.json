@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-10-05T03:41:39.956608+00:00",
-  "count": 72,
+  "generatedAt": "2026-10-06T04:29:43.946847+00:00",
+  "count": 74,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7825,
-      "title": "Public Lecture on Climate Change “Legal and Scientific (Un)certainties: 10 Years after the Paris Agreement”",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-05",
-      "dateTo": "2026-10-05",
-      "venue": "NUS Bukit Timah Campus, Block B, Seminar Room 4-4, Singapore 259756",
-      "organiser": "See Event Outline",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by NUS Centre for International Law. The Paris Agreement is now fully operational, with Parties required to submit new nationally determined contributions (NDC 3.0) for 2035 that are more ambitious and informed by the first global stocktake. As implementation takes centre stage, geopolitical tensions, technological advances, and competing commercial interests challenge effective climate governance. This seminar examines how international law can provide legal stability and strengthen the rule of law in climate action.",
-      "eventLink": "https://cil.nus.edu.sg/event/professor-petra-minnerop-on-legal-and-scientific-uncertainties-10-years-after-the-paris-agreement/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7825"
-    },
-    {
-      "id": 7879,
-      "title": "Integrated IP, Valuation & Tax (IIVT): A Strategic Toolkit for Decision-Makers+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-05",
-      "dateTo": "2026-10-07",
-      "venue": "Tax Academy of Singapore Hub",
-      "organiser": "IP Academy (Singapore)",
-      "practiceArea": "Others/Multi-disciplinary",
-      "mecSegment": "NA",
-      "ptsValue": 18.0,
-      "ptsType": "cpd",
-      "outline": "IP Identification & Strategic Positioning\n-Start from business strategy\n-Identify the IP/IA that enables the strategy\n-Prioritise and position IP/IA for competitive advantage\n\nIP Commercialisation, Licensing & Structuring\n-Commercialisation pathways for IP/IA\n-Allocation of rights, obligations, and control\n-Implementation and control\n\nIP Due Diligence in M&A & Restructuring\n-Objectives and scope of IP due diligence\n-Common IP issues and early warning signs\n-Dependence on IP and ability to operate",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7879"
-    },
     {
       "id": 7881,
       "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 7: Business Valuation+",
@@ -157,23 +123,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7984"
     },
     {
-      "id": 8026,
-      "title": "[WEBINAR] The Right to a safe, stable and healthy climate: From recognition to realisation",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-10-08",
-      "dateTo": "2026-10-08",
-      "venue": "Webinar",
-      "organiser": "See Event Outline",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by National University of Singapore - Centre for International Law. This webinar examines the emerging right to a safe, stable and healthy climate as part of the right to a clean, healthy and sustainable environment. Leading practitioners and scholars will explore whether it should be a stand-alone right, the duties of states and corporations, protections for vulnerable communities, climate justice and eco-colonialism, the role of courts, the rights of future generations and nature, and effective ways to implement and advance climate-related rights.",
-      "eventLink": "https://cil.nus.edu.sg/event/the-right-to-a-safe-stable-and-healthy-climate-from-recognition-to-realisation/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8026"
-    },
-    {
       "id": 7927,
       "title": "Sanctions for Legal Ethical Breaches – Determining the Appropriate Sanction for Lawyer Misconduct",
       "mandatory": false,
@@ -189,6 +138,23 @@
       "outline": "This seminar focuses on the topic of sanctions, i.e. the punishment which an errant lawyer may face owing to breaches of the legal ethical norms. The aim of the seminar is two-fold: First, to provide a general introduction to the topic of sanctions. Second, to explore in detail the court’s approach in determining the appropriate sanction for a legal ethical breach and to offer guidance in this regard based on the existing case law.",
       "eventLink": "https://www.suss.edu.sg/news-events/happenings/events/detail/2026/10/08/default-calendar/sanctions-for-legal-ethical-breaches---determining-the-appropriate-sanction-for-lawyer-misconduct",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7927"
+    },
+    {
+      "id": 8026,
+      "title": "[WEBINAR] The Right to a safe, stable and healthy climate: From recognition to realisation",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-10-08",
+      "dateTo": "2026-10-08",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by National University of Singapore - Centre for International Law. This webinar examines the emerging right to a safe, stable and healthy climate as part of the right to a clean, healthy and sustainable environment. Leading practitioners and scholars will explore whether it should be a stand-alone right, the duties of states and corporations, protections for vulnerable communities, climate justice and eco-colonialism, the role of courts, the rights of future generations and nature, and effective ways to implement and advance climate-related rights.",
+      "eventLink": "https://cil.nus.edu.sg/event/the-right-to-a-safe-stable-and-healthy-climate-from-recognition-to-realisation/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8026"
     },
     {
       "id": 7797,
@@ -973,23 +939,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7893"
     },
     {
-      "id": 7434,
-      "title": "LES Singapore Basic Licensing Course 2026+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-03",
-      "dateTo": "2026-11-04",
-      "venue": "IPOS International",
-      "organiser": "IP Academy (Singapore)",
-      "practiceArea": "Intellectual Property",
-      "mecSegment": "NA",
-      "ptsValue": 13.0,
-      "ptsType": "cpd",
-      "outline": "Understand aspects of the licensing of intellectual property (IP) – particularly for trade marks, copyright, patents, and registered designs – at the LES Singapore Basic Licensing Course 2026! Organised together with the Licensing Executives Society (Singapore), our programme will cover the various principles and procedures involved in licensing negotiations. Learn how to effectively apply them in practice, through a “hands-on” scenario.",
-      "eventLink": "https://iposinternational.com/academy/enterprises-individuals/les-singapore-basic-licensing-course_362",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7434"
-    },
-    {
       "id": 7993,
       "title": "Certificate for Family Office Practitioner – Family Office Management and Operations",
       "mandatory": false,
@@ -1007,6 +956,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7993"
     },
     {
+      "id": 7434,
+      "title": "LES Singapore Basic Licensing Course 2026+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-03",
+      "dateTo": "2026-11-04",
+      "venue": "IPOS International",
+      "organiser": "IP Academy (Singapore)",
+      "practiceArea": "Intellectual Property",
+      "mecSegment": "NA",
+      "ptsValue": 13.0,
+      "ptsType": "cpd",
+      "outline": "Understand aspects of the licensing of intellectual property (IP) – particularly for trade marks, copyright, patents, and registered designs – at the LES Singapore Basic Licensing Course 2026! Organised together with the Licensing Executives Society (Singapore), our programme will cover the various principles and procedures involved in licensing negotiations. Learn how to effectively apply them in practice, through a “hands-on” scenario.",
+      "eventLink": "https://iposinternational.com/academy/enterprises-individuals/les-singapore-basic-licensing-course_362",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7434"
+    },
+    {
       "id": 7546,
       "title": "[APCEL-EWBCLB Book Launch] The Oxford Handbook of Climate Change and Private Law",
       "mandatory": false,
@@ -1022,6 +988,23 @@
       "outline": "The Oxford Handbook of Climate Change and Private Law edited by Douglas A. Kysar (Yale) and Ernest Lim (NUS) offers a comprehensive scholarly assessment of the impacts of climate change for private law. It brings together a team of world-leading experts to examine the interface between private law and climate change, including how existing private law can respond to climate change and whether private law itself might be impacted by climate change.",
       "eventLink": "https://law.nus.edu.sg/apcel/events/book-launch-the-oxford-handbook-of-climate-change-and-private-law/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7546"
+    },
+    {
+      "id": 8028,
+      "title": "[WEBINAR] Data Poisoning and International Law",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-11-04",
+      "dateTo": "2026-11-04",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by National University of Singapore - Centre for International Law. What happens when an adversary corrupts the data that AI systems rely on? As militaries use AI for intelligence, targeting and operations, data poisoning could disrupt decisions without physical force. This CIL panel examines when such interference might breach international law, including rules on intervention, use of force, deception, perfidy and attacks during armed conflict. Experts will discuss how existing legal rules apply when data becomes both a weapon and a vulnerability.",
+      "eventLink": "https://cil.nus.edu.sg/event/data-poisoning-and-international-law/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8028"
     },
     {
       "id": 7820,
@@ -1226,6 +1209,57 @@
       "outline": "This 2-day workshop will focus on giving participants a working knowledge of the Interests-Based Model of Negotiation created by Roger Fisher and as taught at the Program on Negotiation at Harvard Law School. It will be taught through a mixture of presentations, facilitated discussions and role plays.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7442"
+    },
+    {
+      "id": 7836,
+      "title": "LawNet Training Workshop (17 November 2026)",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-17",
+      "dateTo": "2026-11-17",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This training workshop guides attendees through the new features and functionalities of LawNet.com. Through walkthroughs and hands-on exercises, participants will learn how to use the revamped platform efficiently",
+      "eventLink": "https://store.lawnet.com/lawnet-training-workshop-17-november-2026.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7836"
+    },
+    {
+      "id": 7816,
+      "title": "SCL(S) Conference 2026: Technology, Legal Innovation and Singapore’s Built Future",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-17",
+      "dateTo": "2026-11-17",
+      "venue": "M Hotel Singapore, Banquet Suite at Level 10, 81 Anson Road, Singapore 079908",
+      "organiser": "Society of Construction Law (Singapore)",
+      "practiceArea": "Building & Construction",
+      "mecSegment": "NA",
+      "ptsValue": 7.0,
+      "ptsType": "cpd",
+      "outline": "Industry leaders, legal experts & technologists examine how S'pore can harness digital innovation yet maintain robust legal safeguards. Through expert panels, case studies & debate, we explore the legal frontiers of Construction 4.0 to chart a course for continued excellence in the built environment sector. Sessions:\nThe Data Centre Boom\nDigital Contract Administration & Claims\nDigital Evidence & the Future of Construction Disputes\nIn AI We Trust? The Evidential Risks of Automating Project Records",
+      "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7816"
+    },
+    {
+      "id": 7911,
+      "title": "SCL(S) Conference 2026: Technology, Legal Innovation and Singapore’s Built Future",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-17",
+      "dateTo": "2026-11-17",
+      "venue": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422",
+      "organiser": "Society of Construction Law (Singapore)",
+      "practiceArea": "Building & Construction",
+      "mecSegment": "Yes",
+      "ptsValue": 4.0,
+      "ptsType": "mec",
+      "outline": "Industry leaders, legal experts & technologists examine how S'pore can harness digital innovation yet maintain robust legal safeguards. Through expert panels, case studies & debate, we explore the legal frontiers of Construction 4.0 to chart a course for continued excellence in the built environment sector. Sessions: The Data Centre Boom, Digital Contract Administration & Claims, Digital Evidence & the Future of Construction Disputes, In AI We Trust? The Evidential Risks of Automating Project Records",
+      "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422%20%207",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7911"
     }
   ]
 }
