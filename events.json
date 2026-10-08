@@ -1,59 +1,8 @@
 {
-  "generatedAt": "2026-10-07T03:55:42.860392+00:00",
-  "count": 74,
+  "generatedAt": "2026-10-08T04:09:16.080112+00:00",
+  "count": 77,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7978,
-      "title": "Women at the Bar: Advocacy, Leadership, Sustainability and Longevity",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-07",
-      "dateTo": "2026-10-07",
-      "venue": "Courtyard @ Rajah & Tann Singapore LLP",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "mec",
-      "outline": "Women in Advocacy returns for its second edition after a strong 2025 debut. Under the theme Women at the Bar: Advocacy, Leadership, Sustainability and Longevity, senior advocates, including an international voice, will discuss building a lasting career in litigation—from developing courtroom confidence and a personal advocacy style to navigating setbacks, progressing into leadership, and leading with authority and authenticity.",
-      "eventLink": "https://reg.eventnook.com/event/u77963/home",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7978"
-    },
-    {
-      "id": 7898,
-      "title": "[WEBINAR] Tort Claims in Employment Disputes: Recent Developments",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-10-07",
-      "dateTo": "2026-10-07",
-      "venue": "Webinar",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Personal Injury",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "This seminar examines the evolving role of tort claims in employment disputes with reference to recent Singapore court decisions as well as case law from other common law jurisdictions where applicable.",
-      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-261007?newsletter",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7898"
-    },
-    {
-      "id": 7606,
-      "title": "JLP - Costs and Enforcement",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-07",
-      "dateTo": "2026-10-07",
-      "venue": "SAL, Marina 3, The Adelphi #07-01, 1 Coleman Street (S179803)",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Civil Procedure",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "Get equipped with a thorough understanding of P&P and S&C costs, and enforcement of judgments and awards, blending legal theory with practical skills to prepare them for the challenges they may face in their work.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7606"
-    },
     {
       "id": 7984,
       "title": "MPA Professor of Maritime Law Lecture x Singapore Shipping Law Forum 2026:  A Centennial Celebration? The Hague Rules and the Development of International Shipping Law",
@@ -378,6 +327,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7942"
     },
     {
+      "id": 8012,
+      "title": "[WEBINAR] Ethics in Action Series: The Ethics of Party Representation and Party Conduct",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-10-15",
+      "dateTo": "2026-10-15",
+      "venue": "Webinar",
+      "organiser": "Singapore International Arbitration Centre",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "mec",
+      "outline": "This session will consider the standards applicable to parties and their representatives, and the practical and procedural challenges that arise when ethical issues intersect with the arbitral process. It will examine conflicts across legal traditions, including the opportunities and risks of ethical arbitrage, the interplay between professional duties and client instructions, the prevention and management of ethical conflicts, and the development of best practices and professional standards.",
+      "eventLink": "https://siac.org.sg/event/ethics-in-action-series-the-ethics-of-party-representation-and-party-conduct-virtual-edition",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8012"
+    },
+    {
       "id": 7964,
       "title": "Advancing Muslim Law Practice: Contemporary Issues and Emerging Perspectives",
       "mandatory": false,
@@ -599,6 +565,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7839"
     },
     {
+      "id": 8039,
+      "title": "CIL’s Dialogue with Turkish Ambassador Sadik Arslan on Türkiye’s response to strategic shifts in the global order",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-21",
+      "dateTo": "2026-10-21",
+      "venue": "Seminar Room 4-4 @ NUS Bukit Timah Campus, Block B, Level 4, 469 Bukit Timah Road, Singapore 259756",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by NUS Centre for International Law. As geopolitical competition and regional crises reshape the international order, Türkiye pursues an active, multidimensional foreign policy grounded in dialogue and pragmatism. Drawing on its geography and diplomatic ties, it contributes through mediation, cooperation and institution-building. This discussion explores Türkiye’s response to global challenges and how flexible cooperation and renewed trust can support multilateral institutions.",
+      "eventLink": "https://cil.nus.edu.sg/event/cils-dialogue-with-turkish-ambassador-sadik-arslan/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8039"
+    },
+    {
       "id": 7955,
       "title": "Global Sanctions and Export Controls: Practical Insights for Legal Professional and Businesses",
       "mandatory": false,
@@ -733,6 +716,23 @@
       "outline": "This module deals with the practical aspects of managing risks in the context of insolvency laws which insolvency practitioners (IPs), such as accountants and lawyers, face when they are appointed.",
       "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-ipas-advanced-certificate-insolvency-and-restructuring-module-9-managing?newsletter=",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7892"
+    },
+    {
+      "id": 8038,
+      "title": "Dentons Rodyk Dialogue 2026 - The Singapore Story: Attracting Global Capital, Preserving Trusted Growth",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-28",
+      "dateTo": "2026-10-28",
+      "venue": "Singapore Management University Hall 3,  Basement 1, SMU Yong Pung How School of Law 55 Armenian Street, Singapore 179943",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "The dialogue examines how Singapore has built a deliberate ecosystem of policies and initiatives to attract foreign direct investment and high net worth individuals who contribute to real economic activity, while maintaining stringent regulatory standards. As Singapore positions itself as a launchpad for regional expansion, preserving its integrity becomes equally important, which requires balancing pro-business initiatives with robust anti-money laundering safeguards.",
+      "eventLink": "https://site.smu.edu.sg/dentons-rodyk-dialogue-2026",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8038"
     },
     {
       "id": 7944,
@@ -1160,6 +1160,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7442"
     },
     {
+      "id": 8001,
+      "title": "Accelerated Route to Membership International Arbitration (ARM)",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-16",
+      "dateTo": "2026-11-16",
+      "venue": "Maxwell Chambers",
+      "organiser": "Chartered Institute of Arbitrators (Singapore) Limited",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 6.5,
+      "ptsType": "cpd",
+      "outline": "To provide a fast-track route to Membership through the International (i.e., non-domestic) Arbitration Pathway. The Accelerated Route to Membership has been designed for busy professionals who have some unassessed knowledge of International Arbitration. The aim of the programme is to assess whether the candidate has the knowledge required to understand the process of International Arbitration.",
+      "eventLink": "https://ciarbsingapore.wildapricot.org/event-6843539",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8001"
+    },
+    {
       "id": 7836,
       "title": "LawNet Training Workshop (17 November 2026)",
       "mandatory": false,
@@ -1260,6 +1277,40 @@
       "outline": "This 1-day training equips young lawyers and in-house counsel with practical skills to manage documents and evidence effectively. Participants will learn dispute prevention strategies, evidence preservation, document management, discovery compliance, litigation readiness, and the ethical use of technology through case studies, discussions, and practical exercises.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7649"
+    },
+    {
+      "id": 7443,
+      "title": "Mediation+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-19",
+      "dateTo": "2026-11-20",
+      "venue": "National University of Singapore (Kent Ridge Campus)",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 13.0,
+      "ptsType": "cpd",
+      "outline": "This workshop will focus on giving participants a working knowledge of how mediation works, its pros and cons, the conflict resolution model used, the process and stages of mediation, learning to facilitate the resolution of a dispute and dealing with the people aspect of any dispute. The workshop will be taught through a mixture of presentations, facilitated discussions and role plays.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7443"
+    },
+    {
+      "id": 7888,
+      "title": "Mediation Advocacy (Nov 2026)+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-19",
+      "dateTo": "2026-11-20",
+      "venue": "SAL, The Adelphi #07-01, 1 Coleman Street (S179803)",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "Mediation Advocacy is a specialised training programme designed to equip lawyers and professionals with the strategic, legal, and practical skills required to represent clients effectively in mediation. This programme focuses on how advocates can add value throughout the mediation process: from preparing clients and developing negotiation strategies, to managing dynamics during mediation sessions and achieving durable settlement outcomes.",
+      "eventLink": "https://store.lawnet.com/mediation-advocacy-nov-2026.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7888"
     }
   ]
 }
