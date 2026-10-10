@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-10-09T04:14:13.244038+00:00",
-  "count": 72,
+  "generatedAt": "2026-10-10T03:59:29.468226+00:00",
+  "count": 73,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7774,
-      "title": "The Law Society Criminal Trial Advocacy Course 2026+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-09",
-      "dateTo": "2026-10-10",
-      "venue": "Maxwell Chambers & State Courts",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Crime",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "Following a successful 1st edition in October 2025, the Law Society of Singapore's Advocacy Committee will be working with criminal barristers from the Australian Bar Association for the 2nd edition of the Criminal Trial Advocacy Course.\n\nWith a slate of pre-course webinars, experienced speakers from various sides of the criminal justice system and interactive workshops, this Course will broaden your perspectives, sharpen your advocacy skills and enhance your preparation for a criminal trial.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7774"
-    },
     {
       "id": 7967,
       "title": "[WEBINAR] Mediating Mis-selling: The Applicable Law & Guidelines",
@@ -548,23 +531,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7997"
     },
     {
-      "id": 7725,
-      "title": "STEP Singapore Young Professionals Network (YPN) Forum",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-22",
-      "dateTo": "2026-10-22",
-      "venue": "Meeting Room, Level 3, West Tower Marina One, 9 Straits View, Singapore 018937",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 3.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by STEP (Singapore Branch). The Young Professionals Network Forum is designed for early to mid career tax and private client lawyers and wealth management professionals.  It addresses contemporary industry issues, essential technical know-how and crucial professional skills development. It also offers a valuable networking platform to empower future leaders. Participants will receive a Certificate of Participation from STEP Singapore, recognising their commitment to professional growth.",
-      "eventLink": "https://www.step.org.sg/events-courses/event-calendar/icalrepeat.detail/2026/10/22/318/-/step-singapore-young-professionals-network-ypn-forum-22-october-2026-9-00am-2-00pm-gmt-8",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7725"
-    },
-    {
       "id": 7779,
       "title": "The Law Society Civil Trial Advocacy Course 2026+",
       "mandatory": false,
@@ -580,6 +546,23 @@
       "outline": "The course is an intensive 2.5-day programme which will require participants to prepare and perform as advocates in court, handling case analysis, opening and closing speeches, as well as examination and cross-examination of witnesses. The highlight of the course will culminate in a mock trial where participants, working in pairs, will conduct examination and cross-examination of expert witnesses and deliver oral submissions. At the end of the mock trial, the presiding Judge will provide an extempore judgment along with comments and feedback on the participants’ performance.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7779"
+    },
+    {
+      "id": 7725,
+      "title": "STEP Singapore Young Professionals Network (YPN) Forum",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-22",
+      "dateTo": "2026-10-22",
+      "venue": "Meeting Room, Level 3, West Tower Marina One, 9 Straits View, Singapore 018937",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 3.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by STEP (Singapore Branch). The Young Professionals Network Forum is designed for early to mid career tax and private client lawyers and wealth management professionals.  It addresses contemporary industry issues, essential technical know-how and crucial professional skills development. It also offers a valuable networking platform to empower future leaders. Participants will receive a Certificate of Participation from STEP Singapore, recognising their commitment to professional growth.",
+      "eventLink": "https://www.step.org.sg/events-courses/event-calendar/icalrepeat.detail/2026/10/22/318/-/step-singapore-young-professionals-network-ypn-forum-22-october-2026-9-00am-2-00pm-gmt-8",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7725"
     },
     {
       "id": 7601,
@@ -871,6 +854,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8028"
     },
     {
+      "id": 8056,
+      "title": "ISCA Financial Forensics Community Engagement Session: When Things Don't Add Up",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-04",
+      "dateTo": "2026-11-04",
+      "venue": "60 Cecil Street, ISCA House, Singapore 049709",
+      "organiser": "See Event Outline",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Institute of Singapore Chartered Accountants. The session aims to:\n- Engage the ISCA Financial Forensics community through a candid discussion on regulatory scrutiny, special audits, investigations and corporate accountability.\n- Provide practical insights into how regulators, legal advisers and financial forensic practitioners view emerging concerns within listed companies.\n- Explore the role of Notices of Compliance (NOCs), special audits and independent investigations when confidence in a company's governance, disclosures or conduct comes into question.\n- Demonstrate the distinct role of financial forensic professionals in helping organisations establish facts, support decision-making and restore confidence.\n- Build awareness of the multidisciplinary capabilities required in modern financial forensics.",
+      "eventLink": "https://eservices.isca.org.sg/CourseDetailClone?courseMasterId=a0gfP00000Ktq2UQAR",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8056"
+    },
+    {
       "id": 7820,
       "title": "[WEBINAR] Decarbonization of the International Maritime Sector: The IMO Regimes",
       "mandatory": false,
@@ -988,6 +988,23 @@
       "outline": "This seminar provides a considered update on recent adjudication determinations and review decisions under the SOP Act. Drawing on a detailed commentary of AA and ARA decisions handed down over the past year, the session examines the reasoning underlying these decisions, identifies points of divergence between adjudicators, and offers a view on where the law may be expected to develop.",
       "eventLink": "https://store.lawnet.com/adjudication-insights-2026-recent-developments-and-recurring-issues-under-the-security-of-payment-regime.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7960"
+    },
+    {
+      "id": 8050,
+      "title": "[WEBINAR] Navigating Appointments, Conflicts and Fees in R&I Practice: Ethical and Professional Challenges",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-11-11",
+      "dateTo": "2026-11-11",
+      "venue": "Webinar",
+      "organiser": "Insolvency Practitioners Association of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "mec",
+      "outline": "Appointments, conflicts and fees raise ethical, professional and practical questions in restructuring and insolvency practice. This course will explore the considerations that arise when practitioners take on appointments, manage potential conflicts and address fee arrangements. It will consider how professional obligations and practical realities intersect, and provide a forum for reflecting on the challenges practitioners may encounter in work.",
+      "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/REhzd296MWxQNDIxdm14aU56dms4QT09/cGNGUmcwcTIxZUVFckdJaFZjQUFtdz09",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8050"
     },
     {
       "id": 7947,
