@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T03:34:02.881912+00:00",
-  "count": 73,
+  "generatedAt": "2026-10-12T03:57:56.224923+00:00",
+  "count": 75,
   "errorCount": 0,
   "events": [
     {
@@ -1243,6 +1243,40 @@
       "outline": "Mediation Advocacy is a specialised training programme designed to equip lawyers and professionals with the strategic, legal, and practical skills required to represent clients effectively in mediation. This programme focuses on how advocates can add value throughout the mediation process: from preparing clients and developing negotiation strategies, to managing dynamics during mediation sessions and achieving durable settlement outcomes.",
       "eventLink": "https://store.lawnet.com/mediation-advocacy-nov-2026.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7888"
+    },
+    {
+      "id": 8037,
+      "title": "Business Valuation for Litigators Module 4 – Special Cases",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-23",
+      "dateTo": "2026-11-23",
+      "venue": "Room 801, Level 8, NTUC Centre, No.1 Marina Boulevard, Singapore 018989",
+      "organiser": "See Event Outline",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by J.S. Held. This seminar explains why commonly used income and market approach methods may be inappropriate in certain situations and demonstrates how alternative approaches, including the cost approach, option pricing model, probability-weighted expected return method, and modern DCF method, can be applied to address the challenges posed by those situations. Where possible, concepts will be illustrated through judgments and arbitral awards, making the seminar particularly relevant to disputes lawyers.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8037",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8037"
+    },
+    {
+      "id": 8040,
+      "title": "The Alabama Claims Arbitration: Lessons and Practical Insights for Today’s Treaty Negotiators, Counsel, and Arbitrators",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-23",
+      "dateTo": "2026-11-23",
+      "venue": "Conrad Singapore Orchard, 1 Cuscaden Road, Singapore 249715",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "This event is organised by NUS Centre for International Law. Course participants will be exposed to historical documents such as the Treaty of Washington, the correspondence of the American and British Agents with their respective national capitals, various Protocols of the Tribunal’s Conferences, and private correspondence of various participants in the arbitration, and the diary of one of the arbitrators.",
+      "eventLink": "https://cil.nus.edu.sg/event/training-course-on-the-alabama-claims-arbitration/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8040"
     }
   ]
 }
