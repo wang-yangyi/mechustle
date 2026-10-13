@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-10-12T03:57:56.224923+00:00",
-  "count": 75,
+  "generatedAt": "2026-10-13T05:07:57.752012+00:00",
+  "count": 76,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7967,
-      "title": "[WEBINAR] Mediating Mis-selling: The Applicable Law & Guidelines",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-10-12",
-      "dateTo": "2026-10-12",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Banking and Finance",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "This programme seeks to set out the law and relevant guidelines relating to mis-selling claims and includes the sharing of case scenarios for participants to work on.",
-      "eventLink": "https://reg.eventnook.com/event/u77958",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7967"
-    },
-    {
-      "id": 8029,
-      "title": "[WEBINAR] Before the Vows: Love, Law and the Practical Realities of Pre-Nuptial Agreements",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-10-12",
-      "dateTo": "2026-10-12",
-      "venue": "Webinar",
-      "organiser": "See Event Outline",
-      "practiceArea": "Family",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Dentons Rodyk & Davidson LLP. Family law practitioners from Singapore, Australia, US, France and England will discuss key legal and practical issues in pre-nuptial agreements, including enforceability, disclosure, legal advice and cross-border coordination. There will also be a practical scenario where participants will learn how international lawyers can collaborate across jurisdictions to provide coordinated advice and structure agreements that address clients’ cross-border personal, financial and matrimonial interests.",
-      "eventLink": "https://dentons.rodyk.com/en/about-dentons-rodyk/events/2026/october/12/before-the-vows-love-law-and-the-practical-realities-of-pre-nuptial-agreements",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8029"
-    },
     {
       "id": 7890,
       "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 8: Financing+",
@@ -327,23 +293,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7854"
     },
     {
-      "id": 7597,
-      "title": "Certificate in Wealth, Succession and Legacy",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-19",
-      "dateTo": "2026-10-19",
-      "venue": "Classroom at One Marina Boulevard",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "Yes",
-      "ptsValue": 1.5,
-      "ptsType": "mec",
-      "outline": "This event is organised by Wealth Management Institute Limited. This course provides an overview of the legal and practical considerations in wealth transition and succession planning. Participants examine how purpose and governance influence long-term family decisions, and review key estate-planning tools and structures. The module also explores philanthropic planning and the role of legal practitioners in supporting families through legacy, governance, and wealth-planning discussions.",
-      "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/certificate-wealth-succession-legacy/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7597"
-    },
-    {
       "id": 7987,
       "title": "Life of Crime: Reflections from the Bar The Craft of Criminal Defence Advocacy, Ethics, Sustainability, Strategy and Access to Justice",
       "mandatory": false,
@@ -444,6 +393,23 @@
       "outline": "This event is organised by STEP (Singapore Branch). This Conference unpacks the latest emerging trends and innovative strategies shaping family advisory in today’s evolving landscape. Hear directly from experts in Australia, China, India, Indonesia, South Korea & Vietnam on how family needs are evolving across Asia. Sessions address core succession planning challenges: from tax transparency & compliance requirements to strategic family structures & sensitive matters e.g. matrimonial disputes, family governance & alternative dispute resolution.",
       "eventLink": "https://www.stepevents.org/event/asia/summary",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7839"
+    },
+    {
+      "id": 8048,
+      "title": "Introduction to AI in Legal Technology – A Primer for Senior Practitioners 3.0",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-21",
+      "dateTo": "2026-10-21",
+      "venue": "Alive Atrium, Luzerne Building, 70 Bendemeer Road, #04-03, Singapore 339940",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "The session provides a practical introduction to AI in legal technology and its application in legal practice. It will cover AI fundamentals, identifying areas where AI may be incorporated into existing workflows, using AI as a “second chair” to review, pressure-test and brainstorm legal work, and practical considerations for adoption by sole practitioners and small law firms. A 50-minute moderated Q&A will follow.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8048",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8048"
     },
     {
       "id": 8039,
@@ -820,6 +786,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7993"
     },
     {
+      "id": 8033,
+      "title": "[Practice Made Perfect Series] Smarter Calculations, Clearer Data: Microsoft Excel for Legal Professionals",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-03",
+      "dateTo": "2026-11-03",
+      "venue": "ISCA House Function Room 3-4",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 0.5,
+      "ptsType": "mec",
+      "outline": "A hands-on workshop to build confidence with Microsoft Excel using data sets common in legal work. Participants will learn basic navigation, essential formulas, formatting and best practices to reduce errors in calculations such as matrimonial asset divisions and fee budgets. The session covers how to find and remove hidden data and metadata that may expose confidential or personal data, and introduces Microsoft Copilot, including the risks of using AI on client data.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8033",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8033"
+    },
+    {
       "id": 7546,
       "title": "[APCEL-EWBCLB Book Launch] The Oxford Handbook of Climate Change and Private Law",
       "mandatory": false,
@@ -886,6 +869,23 @@
       "outline": "This webinar is organised by NUS - Centre for International Law. This module examines the legal, institutional, and policy foundations of maritime decarbonization. It explores the role of the IMO in regulating shipping emissions, the evolution of its climate strategy, and key regulatory measures aimed at achieving net-zero emissions. The session also considers emerging frameworks, alternative fuels, and challenges relating to equity, infrastructure, emissions accounting, and the effectiveness of international climate action in the maritime sector.",
       "eventLink": "https://cil.nus.edu.sg/event/climate-change-e-academy-july-to-november-2026/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7820"
+    },
+    {
+      "id": 8049,
+      "title": "Distinguished Visitor Lecture: Coded Power: How to End Digital Despotism and Reclaim Control over Our Data",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-05",
+      "dateTo": "2026-11-05",
+      "venue": "Yale-NUS Hall, NUS Law",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Data Protection & Privacy",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "“Coded power” is control over the formal systems that organise society, through law or digital code. While such power can serve its creators’ interests, digital code and data control can fragment societies and weaken social cohesion. Digital despotism is not inevitable: participatory, shared data governance can give people collective control over how their data is accessed and used.",
+      "eventLink": "https://law.nus.edu.sg/ewbclb/events/distinguished-visitor-lecture-coded-power-how-to-end-digital-despotism-and-reclaim-control-over-our-data/%20",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8049"
     },
     {
       "id": 7799,
@@ -1243,6 +1243,23 @@
       "outline": "Mediation Advocacy is a specialised training programme designed to equip lawyers and professionals with the strategic, legal, and practical skills required to represent clients effectively in mediation. This programme focuses on how advocates can add value throughout the mediation process: from preparing clients and developing negotiation strategies, to managing dynamics during mediation sessions and achieving durable settlement outcomes.",
       "eventLink": "https://store.lawnet.com/mediation-advocacy-nov-2026.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7888"
+    },
+    {
+      "id": 8027,
+      "title": "ESG Conference",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-20",
+      "dateTo": "2026-11-20",
+      "venue": "SMU Ngee Ann Kongsi Auditorium 60 Stamford Rd, Singapore 178900",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Others/Multi-disciplinary",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "This conference opens with a Fireside Chat with Minister Indranee Rajah, followed by expert sessions with regulators, sustainability and finance professionals and lawyers. Topics: sustainable finance beyond compliance; capital projects and infrastructure in the energy transition; carbon markets and the legal nature of carbon credits; and sustainability reporting.",
+      "eventLink": "https://reg.eventnook.com/event/esgconf2026",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8027"
     },
     {
       "id": 8037,
