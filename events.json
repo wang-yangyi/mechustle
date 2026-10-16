@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-10-15T02:53:28.162753+00:00",
-  "count": 71,
+  "generatedAt": "2026-10-16T02:50:20.423148+00:00",
+  "count": 73,
   "errorCount": 0,
   "events": [
-    {
-      "id": 8012,
-      "title": "[WEBINAR] Ethics in Action Series: The Ethics of Party Representation and Party Conduct",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-10-15",
-      "dateTo": "2026-10-15",
-      "venue": "Webinar",
-      "organiser": "Singapore International Arbitration Centre",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "mec",
-      "outline": "This session will consider the standards applicable to parties and their representatives, and the practical and procedural challenges that arise when ethical issues intersect with the arbitral process. It will examine conflicts across legal traditions, including the opportunities and risks of ethical arbitrage, the interplay between professional duties and client instructions, the prevention and management of ethical conflicts, and the development of best practices and professional standards.",
-      "eventLink": "https://siac.org.sg/event/ethics-in-action-series-the-ethics-of-party-representation-and-party-conduct-virtual-edition",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8012"
-    },
-    {
-      "id": 7964,
-      "title": "Advancing Muslim Law Practice: Contemporary Issues and Emerging Perspectives",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-15",
-      "dateTo": "2026-10-15",
-      "venue": "TBC",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Syariah Law",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "The programme explores emerging issues in Singapore's Muslim law practice, while providing practical insights into the legal and practical considerations arising in matters concerning children.\n\nThe programme examines the legal principles, practical considerations and challenges faced by practitioners in advising and representing clients in Muslim law. The session considers how practitioners can navigate the intersection between legal principles, judicial approaches and practical considerations.",
-      "eventLink": "https://reg.eventnook.com/event/u77932",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7964"
-    },
     {
       "id": 7716,
       "title": "Advocacy My Way: A Fireside Chat with N Sreenivasan SC",
@@ -310,23 +276,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7997"
     },
     {
-      "id": 7779,
-      "title": "The Law Society Civil Trial Advocacy Course 2026+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-22",
-      "dateTo": "2026-10-24",
-      "venue": "Maxwell Chambers & State Courts",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Civil Procedure",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "The course is an intensive 2.5-day programme which will require participants to prepare and perform as advocates in court, handling case analysis, opening and closing speeches, as well as examination and cross-examination of witnesses. The highlight of the course will culminate in a mock trial where participants, working in pairs, will conduct examination and cross-examination of expert witnesses and deliver oral submissions. At the end of the mock trial, the presiding Judge will provide an extempore judgment along with comments and feedback on the participants’ performance.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7779"
-    },
-    {
       "id": 7725,
       "title": "STEP Singapore Young Professionals Network (YPN) Forum",
       "mandatory": false,
@@ -342,6 +291,23 @@
       "outline": "This event is organised by STEP (Singapore Branch). The Young Professionals Network Forum is designed for early to mid career tax and private client lawyers and wealth management professionals.  It addresses contemporary industry issues, essential technical know-how and crucial professional skills development. It also offers a valuable networking platform to empower future leaders. Participants will receive a Certificate of Participation from STEP Singapore, recognising their commitment to professional growth.",
       "eventLink": "https://www.step.org.sg/events-courses/event-calendar/icalrepeat.detail/2026/10/22/318/-/step-singapore-young-professionals-network-ypn-forum-22-october-2026-9-00am-2-00pm-gmt-8",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7725"
+    },
+    {
+      "id": 7779,
+      "title": "The Law Society Civil Trial Advocacy Course 2026+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-22",
+      "dateTo": "2026-10-24",
+      "venue": "Maxwell Chambers & State Courts",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Civil Procedure",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "The course is an intensive 2.5-day programme which will require participants to prepare and perform as advocates in court, handling case analysis, opening and closing speeches, as well as examination and cross-examination of witnesses. The highlight of the course will culminate in a mock trial where participants, working in pairs, will conduct examination and cross-examination of expert witnesses and deliver oral submissions. At the end of the mock trial, the presiding Judge will provide an extempore judgment along with comments and feedback on the participants’ performance.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7779"
     },
     {
       "id": 7601,
@@ -531,23 +497,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7503"
     },
     {
-      "id": 8034,
-      "title": "[Practice Made Perfect Series] Word First, AI Later: Mastering Microsoft Word for Legal Documents",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-02",
-      "dateTo": "2026-11-02",
-      "venue": "ISCA House Function Room 3-4",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "NA",
-      "ptsValue": 3.5,
-      "ptsType": "cpd",
-      "outline": "A hands-on workshop on the Microsoft Word features lawyers need to draft, review and finalise legal documents accurately. Participants will learn to use Styles, automatic numbering, tables of contents and cross-references, and to fix common formatting problems. The session also covers the confidentiality risks of tracked changes, comments and hidden metadata, how to clean documents before sending them out, and why sound Word skills should come before using AI tools in drafting.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8034",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8034"
-    },
-    {
       "id": 7992,
       "title": "Certificate in ESG, Philanthropy, and Sustainable Investing",
       "mandatory": false,
@@ -563,6 +512,23 @@
       "outline": "The event is organised by Wealth Management Institute Limited. It examines philanthropy advisory, stakeholder management, ESG and sustainable investing within family office and private wealth contexts. Through governance discussions, case studies and practical applications, participants will explore philanthropic structures, sustainable investment approaches, stewardship, stakeholder considerations, greenwashing risks and governance frameworks relevant to advising private clients and family offices.",
       "eventLink": "https://wmi.edu.sg/programmes/family-office/certificate-family-office-legal-practitioners/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7992"
+    },
+    {
+      "id": 8034,
+      "title": "[Practice Made Perfect Series] Word First, AI Later: Mastering Microsoft Word for Legal Documents",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-02",
+      "dateTo": "2026-11-02",
+      "venue": "ISCA House Function Room 3-4",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 3.5,
+      "ptsType": "cpd",
+      "outline": "A hands-on workshop on the Microsoft Word features lawyers need to draft, review and finalise legal documents accurately. Participants will learn to use Styles, automatic numbering, tables of contents and cross-references, and to fix common formatting problems. The session also covers the confidentiality risks of tracked changes, comments and hidden metadata, how to clean documents before sending them out, and why sound Word skills should come before using AI tools in drafting.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8034",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8034"
     },
     {
       "id": 7893,
@@ -784,6 +750,23 @@
       "outline": "In this online panel discussion, experienced counsel will discuss the evolving jurisprudence on the duty of candour in admission proceedings and the principles that have emerged from recent decisions. The panellists will consider common disclosure scenarios, the role of supervising solicitors in guiding and rehabilitating trainees, and how to instil the duty of candour from the very start of a lawyer's professional journey.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7934",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7934"
+    },
+    {
+      "id": 8063,
+      "title": "Insurance Law Forum 2026",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-10",
+      "dateTo": "2026-11-10",
+      "venue": "CapitaSpring L20 Multifunction Hall, 8 Market Street, Singapore 048948",
+      "organiser": "See Event Outline",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Singapore Insurance Institute. Insurance Law Forum 2026 gathers leading insurance disputes practitioners to examine recent court decisions reshaping insurance coverage and claims. Four short talks cover business interruption cover, arbitration clauses and contractual time bars, insurer and broker liability, and digital-asset recovery, followed by a moderated panel on emerging risks in fraud, cyber and AI. For claims handlers, brokers, underwriters and loss adjusters.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8063",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8063"
     },
     {
       "id": 7477,
@@ -1209,6 +1192,57 @@
       "outline": "This course provides a foundational understanding of compliance frameworks and internal controls, focusing on designing, implementing, and continuously improving effective compliance programs. Participants will explore real-world case studies to analyze compliance failures, apply best practices, and learn actionable tools. Through interactive discussions and hands-on activities, participants will gain the tools and insights needed to build or enhance compliance systems in their organizations.",
       "eventLink": "https://law.nus.edu.sg/nuslawacademy/intensive-courses/pillars-of-compliance-frameworks-and-internal-controls/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7342"
+    },
+    {
+      "id": 7776,
+      "title": "[WEBINAR] Navigating Cross Border Divorce: Taiwan & Singapore perspectives",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-11-27",
+      "dateTo": "2026-11-27",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "Family",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by PracticeForte Pte. Ltd. A real-world discussion on what cross-border divorce actually looks like between Taiwan and\nSingapore—where jurisdiction battles, asset fights, and child relocation disputes quickly get\ncomplicated. The session also covers how foreign marriages and divorces, including same-sex\nmarriages, are recognised across borders, and the practical implications that follow. Expect an\nhonest look at the day-to-day realities practitioners face: coordinating across jurisdictions, managing\nmessy client expectations and dealing with cultural clashes.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7776"
+    },
+    {
+      "id": 7802,
+      "title": "APIEx Symposium 2026 - Expert Evidence in Action: From Appointment to Impact in Arbitration and Litigation",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-27",
+      "dateTo": "2026-11-27",
+      "venue": "Singapore University of Social Sciences, 463 Clementi Road, Singapore 599494",
+      "organiser": "See Event Outline",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 6.0,
+      "ptsType": "cpd",
+      "outline": "This event is organised by Asia Pacific Institute of Experts. Expert evidence often determines the outcome in complex disputes, yet tribunals continue to criticise how experts are selected, instructed & deployed. Poorly framed instructions, blurred independence and misaligned counsel/expert expectations undermine the strongest cases. Through keynote insights, panel discussions and mock engagements, dispute professionals explore the lifecycle of expert involvement, dissect real-world pitfalls, benchmark best practices and refine the lawyer–expert interface..",
+      "eventLink": "https://tinyurl.com/3fe622xx",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7802"
+    },
+    {
+      "id": 8035,
+      "title": "[Practice Made Perfect Series] Work Smarter: Microsoft Outlook & PowerPoint for Legal Professionals",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-27",
+      "dateTo": "2026-11-27",
+      "venue": "ISCA House Function Room 3-4",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "A two-in-one hands-on workshop on Microsoft Outlook and PowerPoint for legal practice. Participants will learn to manage email, calendars and tasks efficiently, apply settings that reduce misdirected emails and the disclosure of confidential client information, and track court dates and filing deadlines. The PowerPoint segment covers templates, layouts and visual aids, and how to protect client confidentiality in pitch and seminar decks.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8035",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8035"
     }
   ]
 }
