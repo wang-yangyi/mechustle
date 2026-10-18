@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-10-17T02:42:07.394142+00:00",
-  "count": 71,
+  "generatedAt": "2026-10-18T02:43:25.487095+00:00",
+  "count": 70,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7624,
-      "title": "The Annual Medico Legal Seminar 2026+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-17",
-      "dateTo": "2026-10-18",
-      "venue": "One Farrer Hotel, 1 Farrer Park Station Road, Singapore 217562",
-      "organiser": "See Event Outline",
-      "practiceArea": "Others/Multi-disciplinary",
-      "mecSegment": "NA",
-      "ptsValue": 9.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Singapore Medical Association. Enhance your skills in the ethical, legal and communicative aspects of high-stakes care in end-of-life situations. Designed for physicians, nurses and social workers, the programme addresses key clinical and legal considerations, palliative care interventions and navigating difficult conversations with patients and families.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7624",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7624"
-    },
     {
       "id": 7854,
       "title": "Procedures and Principles in the Contested Administration of Estates and Trusts",
@@ -225,23 +208,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7997"
     },
     {
-      "id": 7779,
-      "title": "The Law Society Civil Trial Advocacy Course 2026+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-22",
-      "dateTo": "2026-10-24",
-      "venue": "Maxwell Chambers & State Courts",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Civil Procedure",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "The course is an intensive 2.5-day programme which will require participants to prepare and perform as advocates in court, handling case analysis, opening and closing speeches, as well as examination and cross-examination of witnesses. The highlight of the course will culminate in a mock trial where participants, working in pairs, will conduct examination and cross-examination of expert witnesses and deliver oral submissions. At the end of the mock trial, the presiding Judge will provide an extempore judgment along with comments and feedback on the participants’ performance.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7779"
-    },
-    {
       "id": 7725,
       "title": "STEP Singapore Young Professionals Network (YPN) Forum",
       "mandatory": false,
@@ -257,6 +223,23 @@
       "outline": "This event is organised by STEP (Singapore Branch). The Young Professionals Network Forum is designed for early to mid career tax and private client lawyers and wealth management professionals.  It addresses contemporary industry issues, essential technical know-how and crucial professional skills development. It also offers a valuable networking platform to empower future leaders. Participants will receive a Certificate of Participation from STEP Singapore, recognising their commitment to professional growth.",
       "eventLink": "https://www.step.org.sg/events-courses/event-calendar/icalrepeat.detail/2026/10/22/318/-/step-singapore-young-professionals-network-ypn-forum-22-october-2026-9-00am-2-00pm-gmt-8",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7725"
+    },
+    {
+      "id": 7779,
+      "title": "The Law Society Civil Trial Advocacy Course 2026+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-22",
+      "dateTo": "2026-10-24",
+      "venue": "Maxwell Chambers & State Courts",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Civil Procedure",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "The course is an intensive 2.5-day programme which will require participants to prepare and perform as advocates in court, handling case analysis, opening and closing speeches, as well as examination and cross-examination of witnesses. The highlight of the course will culminate in a mock trial where participants, working in pairs, will conduct examination and cross-examination of expert witnesses and deliver oral submissions. At the end of the mock trial, the presiding Judge will provide an extempore judgment along with comments and feedback on the participants’ performance.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7779"
     },
     {
       "id": 8062,
