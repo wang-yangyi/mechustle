@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:43:25.487095+00:00",
+  "generatedAt": "2026-10-19T02:56:39.363056+00:00",
   "count": 70,
   "errorCount": 0,
   "events": [
@@ -208,23 +208,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7997"
     },
     {
-      "id": 7725,
-      "title": "STEP Singapore Young Professionals Network (YPN) Forum",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-22",
-      "dateTo": "2026-10-22",
-      "venue": "Meeting Room, Level 3, West Tower Marina One, 9 Straits View, Singapore 018937",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 3.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by STEP (Singapore Branch). The Young Professionals Network Forum is designed for early to mid career tax and private client lawyers and wealth management professionals.  It addresses contemporary industry issues, essential technical know-how and crucial professional skills development. It also offers a valuable networking platform to empower future leaders. Participants will receive a Certificate of Participation from STEP Singapore, recognising their commitment to professional growth.",
-      "eventLink": "https://www.step.org.sg/events-courses/event-calendar/icalrepeat.detail/2026/10/22/318/-/step-singapore-young-professionals-network-ypn-forum-22-october-2026-9-00am-2-00pm-gmt-8",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7725"
-    },
-    {
       "id": 7779,
       "title": "The Law Society Civil Trial Advocacy Course 2026+",
       "mandatory": false,
@@ -242,8 +225,25 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7779"
     },
     {
+      "id": 7725,
+      "title": "STEP Singapore Young Professionals Network (YPN) Forum",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-10-22",
+      "dateTo": "2026-10-22",
+      "venue": "Meeting Room, Level 3, West Tower Marina One, 9 Straits View, Singapore 018937",
+      "organiser": "See Event Outline",
+      "practiceArea": "Private Client",
+      "mecSegment": "NA",
+      "ptsValue": 3.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by STEP (Singapore Branch). The Young Professionals Network Forum is designed for early to mid career tax and private client lawyers and wealth management professionals.  It addresses contemporary industry issues, essential technical know-how and crucial professional skills development. It also offers a valuable networking platform to empower future leaders. Participants will receive a Certificate of Participation from STEP Singapore, recognising their commitment to professional growth.",
+      "eventLink": "https://www.step.org.sg/events-courses/event-calendar/icalrepeat.detail/2026/10/22/318/-/step-singapore-young-professionals-network-ypn-forum-22-october-2026-9-00am-2-00pm-gmt-8",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7725"
+    },
+    {
       "id": 8062,
-      "title": "STA Lunch Talk: Fireside Chat on European Tax Perspectives",
+      "title": "STA Lunch Talk: The European and International Tax Perspective for Private Clients and Wealth Structures",
       "mandatory": false,
       "format": "In-person",
       "dateFrom": "2026-10-23",
@@ -820,6 +820,23 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8005"
     },
     {
+      "id": 8036,
+      "title": "When Private Harm Becomes Public Wrong: Family Violence at the Intersection of Family Law and Criminal Law",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-13",
+      "dateTo": "2026-11-13",
+      "venue": "SUSS Room at the State Courts, 1 Havelock Square, Singapore 059724",
+      "organiser": "Singapore University of Social Sciences",
+      "practiceArea": "Family",
+      "mecSegment": "Yes",
+      "ptsValue": 1.0,
+      "ptsType": "mec",
+      "outline": "Family violence sits astride two bodies of law with very different objects: the protective, forward-looking family law regime and the retrospective, punitive criminal law. This seminar reframes family violence as a hybrid legal problem and maps the friction points between the two regimes – thresholds for intervention, information-sharing, reporting duties and parallel proceedings. It explores how the two systems can work together to achieve balanced outcomes.",
+      "eventLink": "https://www.suss.edu.sg/news-events/happenings/events/detail/2026/11/13/default-calendar/when-private-harm-becomes-public-wrong",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8036"
+    },
+    {
       "id": 7442,
       "title": "Negotiating Success+",
       "mandatory": false,
@@ -1141,23 +1158,6 @@
       "outline": "This course provides a foundational understanding of compliance frameworks and internal controls, focusing on designing, implementing, and continuously improving effective compliance programs. Participants will explore real-world case studies to analyze compliance failures, apply best practices, and learn actionable tools. Through interactive discussions and hands-on activities, participants will gain the tools and insights needed to build or enhance compliance systems in their organizations.",
       "eventLink": "https://law.nus.edu.sg/nuslawacademy/intensive-courses/pillars-of-compliance-frameworks-and-internal-controls/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7342"
-    },
-    {
-      "id": 7776,
-      "title": "[WEBINAR] Navigating Cross Border Divorce: Taiwan & Singapore perspectives",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-11-27",
-      "dateTo": "2026-11-27",
-      "venue": "Webinar",
-      "organiser": "See Event Outline",
-      "practiceArea": "Family",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by PracticeForte Pte. Ltd. A real-world discussion on what cross-border divorce actually looks like between Taiwan and\nSingapore—where jurisdiction battles, asset fights, and child relocation disputes quickly get\ncomplicated. The session also covers how foreign marriages and divorces, including same-sex\nmarriages, are recognised across borders, and the practical implications that follow. Expect an\nhonest look at the day-to-day realities practitioners face: coordinating across jurisdictions, managing\nmessy client expectations and dealing with cultural clashes.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7776"
     },
     {
       "id": 7802,
