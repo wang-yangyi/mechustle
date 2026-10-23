@@ -1,59 +1,8 @@
 {
-  "generatedAt": "2026-10-22T03:00:04.374499+00:00",
-  "count": 63,
+  "generatedAt": "2026-10-23T03:03:28.118850+00:00",
+  "count": 61,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7997,
-      "title": "[WEBINAR & IN-PERSON] SIArb Annual Lecture 2026",
-      "mandatory": false,
-      "format": "Hybrid",
-      "dateFrom": "2026-10-22",
-      "dateTo": "2026-10-22",
-      "venue": "32, Maxwell Road, Singapore 069115",
-      "organiser": "Singapore Institute of Arbitrators",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "The lecture will confront the erosion of international law and rising protectionism, arguing that despite serious setbacks to the global rule of law, international arbitration remains a genuine success story and a viable path to restoring trust in international norms. It intends to draw parallels between inter-State, investment, and commercial arbitration, framing all as consent-based mechanisms that could gradually build a harmonized body of jurisprudence bridging legal cultures worldwide.",
-      "eventLink": "https://siarb.org.sg/product/siarb-annual-lecture-2026/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7997"
-    },
-    {
-      "id": 7779,
-      "title": "The Law Society Civil Trial Advocacy Course 2026+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-22",
-      "dateTo": "2026-10-24",
-      "venue": "Maxwell Chambers & State Courts",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Civil Procedure",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "The course is an intensive 2.5-day programme which will require participants to prepare and perform as advocates in court, handling case analysis, opening and closing speeches, as well as examination and cross-examination of witnesses. The highlight of the course will culminate in a mock trial where participants, working in pairs, will conduct examination and cross-examination of expert witnesses and deliver oral submissions. At the end of the mock trial, the presiding Judge will provide an extempore judgment along with comments and feedback on the participants’ performance.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7779"
-    },
-    {
-      "id": 7725,
-      "title": "STEP Singapore Young Professionals Network (YPN) Forum",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-22",
-      "dateTo": "2026-10-22",
-      "venue": "Meeting Room, Level 3, West Tower Marina One, 9 Straits View, Singapore 018937",
-      "organiser": "See Event Outline",
-      "practiceArea": "Private Client",
-      "mecSegment": "NA",
-      "ptsValue": 3.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by STEP (Singapore Branch). The Young Professionals Network Forum is designed for early to mid career tax and private client lawyers and wealth management professionals.  It addresses contemporary industry issues, essential technical know-how and crucial professional skills development. It also offers a valuable networking platform to empower future leaders. Participants will receive a Certificate of Participation from STEP Singapore, recognising their commitment to professional growth.",
-      "eventLink": "https://www.step.org.sg/events-courses/event-calendar/icalrepeat.detail/2026/10/22/318/-/step-singapore-young-professionals-network-ypn-forum-22-october-2026-9-00am-2-00pm-gmt-8",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7725"
-    },
     {
       "id": 8062,
       "title": "STA Lunch Talk: The European and International Tax Perspective for Private Clients and Wealth Structures",
@@ -299,7 +248,7 @@
       "format": "Webinar / Online",
       "dateFrom": "2026-11-03",
       "dateTo": "2026-11-04",
-      "venue": "Organiser The Law Society of Singapore",
+      "venue": "Webinar",
       "organiser": "The Law Society of Singapore",
       "practiceArea": "Others/Multi-disciplinary",
       "mecSegment": "Yes",
@@ -582,23 +531,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7477"
     },
     {
-      "id": 7960,
-      "title": "[WEBINAR] Adjudication Insights 2026 - Recent Developments and Recurring Issues Under the Security of Payment Regime",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-11-11",
-      "dateTo": "2026-11-11",
-      "venue": "Webinar",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This seminar provides a considered update on recent adjudication determinations and review decisions under the SOP Act. Drawing on a detailed commentary of AA and ARA decisions handed down over the past year, the session examines the reasoning underlying these decisions, identifies points of divergence between adjudicators, and offers a view on where the law may be expected to develop.",
-      "eventLink": "https://store.lawnet.com/adjudication-insights-2026-recent-developments-and-recurring-issues-under-the-security-of-payment-regime.html",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7960"
-    },
-    {
       "id": 8050,
       "title": "[WEBINAR] Navigating Appointments, Conflicts and Fees in R&I Practice: Ethical and Professional Challenges",
       "mandatory": false,
@@ -614,6 +546,23 @@
       "outline": "Appointments, conflicts and fees raise ethical, professional and practical questions in restructuring and insolvency practice. This course will explore the considerations that arise when practitioners take on appointments, manage potential conflicts and address fee arrangements. It will consider how professional obligations and practical realities intersect, and provide a forum for reflecting on the challenges practitioners may encounter in work.",
       "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/REhzd296MWxQNDIxdm14aU56dms4QT09/cGNGUmcwcTIxZUVFckdJaFZjQUFtdz09",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8050"
+    },
+    {
+      "id": 7960,
+      "title": "[WEBINAR] Adjudication Insights 2026 - Recent Developments and Recurring Issues Under the Security of Payment Regime",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-11-11",
+      "dateTo": "2026-11-11",
+      "venue": "Webinar",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This seminar provides a considered update on recent adjudication determinations and review decisions under the SOP Act. Drawing on a detailed commentary of AA and ARA decisions handed down over the past year, the session examines the reasoning underlying these decisions, identifies points of divergence between adjudicators, and offers a view on where the law may be expected to develop.",
+      "eventLink": "https://store.lawnet.com/adjudication-insights-2026-recent-developments-and-recurring-issues-under-the-security-of-payment-regime.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7960"
     },
     {
       "id": 7947,
@@ -752,23 +701,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7836"
     },
     {
-      "id": 7911,
-      "title": "SCL(S) Conference 2026: Technology, Legal Innovation and Singapore’s Built Future",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-17",
-      "dateTo": "2026-11-17",
-      "venue": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422",
-      "organiser": "Society of Construction Law (Singapore)",
-      "practiceArea": "Building & Construction",
-      "mecSegment": "Yes",
-      "ptsValue": 4.0,
-      "ptsType": "mec",
-      "outline": "Industry leaders, legal experts & technologists examine how S'pore can harness digital innovation yet maintain robust legal safeguards. Through expert panels, case studies & debate, we explore the legal frontiers of Construction 4.0 to chart a course for continued excellence in the built environment sector. Sessions: The Data Centre Boom, Digital Contract Administration & Claims, Digital Evidence & the Future of Construction Disputes, In AI We Trust? The Evidential Risks of Automating Project Records",
-      "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422%20%207",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7911"
-    },
-    {
       "id": 7816,
       "title": "SCL(S) Conference 2026: Technology, Legal Innovation and Singapore’s Built Future",
       "mandatory": false,
@@ -784,6 +716,23 @@
       "outline": "Industry leaders, legal experts & technologists examine how S'pore can harness digital innovation yet maintain robust legal safeguards. Through expert panels, case studies & debate, we explore the legal frontiers of Construction 4.0 to chart a course for continued excellence in the built environment sector. Sessions:\nThe Data Centre Boom\nDigital Contract Administration & Claims\nDigital Evidence & the Future of Construction Disputes\nIn AI We Trust? The Evidential Risks of Automating Project Records",
       "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7816"
+    },
+    {
+      "id": 7911,
+      "title": "SCL(S) Conference 2026: Technology, Legal Innovation and Singapore’s Built Future",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-17",
+      "dateTo": "2026-11-17",
+      "venue": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422",
+      "organiser": "Society of Construction Law (Singapore)",
+      "practiceArea": "Building & Construction",
+      "mecSegment": "Yes",
+      "ptsValue": 4.0,
+      "ptsType": "mec",
+      "outline": "Industry leaders, legal experts & technologists examine how S'pore can harness digital innovation yet maintain robust legal safeguards. Through expert panels, case studies & debate, we explore the legal frontiers of Construction 4.0 to chart a course for continued excellence in the built environment sector. Sessions: The Data Centre Boom, Digital Contract Administration & Claims, Digital Evidence & the Future of Construction Disputes, In AI We Trust? The Evidential Risks of Automating Project Records",
+      "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422%20%207",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7911"
     },
     {
       "id": 7928,
@@ -1073,6 +1022,23 @@
       "outline": "This event is organised by NUS Centre for International Law. The 4th round of India-Singapore Ministerial Roundtable, held in Singapore on 20th August 2026, underscored the commitment from both sides to forge an ever closer partnership. High Commissioner Dr. Ambule will share his thoughts on how India and Singapore are strengthening cooperation, expanding collaboration and leveraging their respective strengths and complimentarities, for the benefit of the two countries, within the framework of their Comprehensive Strategic Partnership.",
       "eventLink": "https://cil.nus.edu.sg/event/cils-dialogue-with-indian-high-commissioner-dr-shilpak-ambule/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8019"
+    },
+    {
+      "id": 8014,
+      "title": "[WEBINAR] Navigating Trade, Sustainability and Investment Law in the Era of Economic Security",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-12-04",
+      "dateTo": "2026-12-04",
+      "venue": "Webinar",
+      "organiser": "Singapore Management University",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "This seminar examines how sustainability, investment, economic security, and technological change are reshaping international economic law and legal practice.",
+      "eventLink": "https://smula.smu.edu.sg/261204?newsletter",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8014"
     }
   ]
 }
