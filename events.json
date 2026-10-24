@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-10-23T03:03:28.118850+00:00",
+  "generatedAt": "2026-10-24T03:00:05.096340+00:00",
   "count": 61,
   "errorCount": 0,
   "events": [
-    {
-      "id": 8062,
-      "title": "STA Lunch Talk: The European and International Tax Perspective for Private Clients and Wealth Structures",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-23",
-      "dateTo": "2026-10-23",
-      "venue": "NTUC Business Centre Room 801, One Marina Boulevard, Singapore 018989",
-      "organiser": "See Event Outline",
-      "practiceArea": "Tax",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Singapore Trustees Association. The session will explore Europe's perspective on beneficial ownership registers amid data protection concerns, the origins of concepts such as economic substance and Pillar 2, and how Europe views territorial tax systems like Singapore's. The discussion will also examine whether Europe's existing rules offer a preview of what lies ahead for China's Announcement 21 on offshore trusts.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8062",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8062"
-    },
     {
       "id": 7906,
       "title": "Navigating AI, Workplace Fairness and Workplace Investigations: HR Risk Management for In-house Counsel",
@@ -495,6 +478,23 @@
       "outline": "Conflicts of interest are among the most challenging ethical issues faced by practitioners. Drawing on Chapter 5 of the Professional Ethics Digest 2026, this webinar explores key principles governing conflicts of interest, including duties of loyalty, confidentiality and independent professional judgment. Through realistic scenarios involving clients, former clients, related entities and personal interests, examine how conflicts can arise in everyday practice and how to address them.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8073",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8073"
+    },
+    {
+      "id": 8075,
+      "title": "[WEBINAR] Football Regulation in 2027: What You Need to Know",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-11-10",
+      "dateTo": "2026-11-10",
+      "venue": "Webinar",
+      "organiser": "The Law Society of Singapore",
+      "practiceArea": "Others/Multi-disciplinary",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "Participants will gain an authoritative perspective on the rationale behind these reforms and their implications for the regulation of player contracts and international transfers.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8075",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8075"
     },
     {
       "id": 8063,
