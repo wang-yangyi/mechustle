@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T02:51:28.772744+00:00",
-  "count": 61,
+  "generatedAt": "2026-10-27T03:25:20.497847+00:00",
+  "count": 62,
   "errorCount": 0,
   "events": [
     {
@@ -350,7 +350,7 @@
       "format": "In-person",
       "dateFrom": "2026-11-05",
       "dateTo": "2026-11-05",
-      "venue": "Yale-NUS Hall, NUS Law",
+      "venue": "Wee Chong Jin Moot Court, NUS Law",
       "organiser": "National University of Singapore Faculty of Law",
       "practiceArea": "Data Protection & Privacy",
       "mecSegment": "NA",
@@ -580,6 +580,23 @@
       "outline": "This Masterclass is designed to give participants both the ethical grounding and the practical governance tools needed to oversee AI responsibly. Participants will leave with a working framework for advising on, building, and overseeing AI governance and compliance programs grounded in fiduciary duties, regulatory guidance, and practical implementation experience.",
       "eventLink": "https://smula.smu.edu.sg/261111?newsletter=",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7947"
+    },
+    {
+      "id": 8081,
+      "title": "The Strait of Hormuz: Navigation, Sovereignty and Cooperation by Dr Reece Lewis",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-12",
+      "dateTo": "2026-11-12",
+      "venue": "Seminar Room 3-1, NUS Bukit Timah Campus, Block B, Level 3, 469 Bukit Timah Road, S259756",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by National University of Singapore - Centre for International Law. This lecture examines coastal sovereignty and navigation in the Strait of Hormuz, focusing on Oman, Iran and user States. It explores treaty and customary law, safety and environmental regulation, and the funding of maritime services. Drawing on shared cooperation in the Straits of Malacca and Singapore, it considers how coastal States, shipping interests and the IMO can work together to manage this strategic waterway while safeguarding navigational rights and respecting coastal State interests.",
+      "eventLink": "https://cil.nus.edu.sg/event/the-strait-of-hormuz-navigation-sovereignty-and-cooperation/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8081"
     },
     {
       "id": 7800,
