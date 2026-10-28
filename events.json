@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-10-27T03:25:20.497847+00:00",
-  "count": 62,
+  "generatedAt": "2026-10-28T03:41:14.251325+00:00",
+  "count": 63,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7906,
-      "title": "Navigating AI, Workplace Fairness and Workplace Investigations: HR Risk Management for In-house Counsel",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-27",
-      "dateTo": "2026-10-27",
-      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Employment Law",
-      "mecSegment": "NA",
-      "ptsValue": 7.0,
-      "ptsType": "cpd",
-      "outline": "We will explore how counsel can bridge the gap between \"knowing\" the law and \"doing\" the work of an operational leader, ensuring that the legal function acts as a driver of sustained competitive advantage rather than a mere cost centre.",
-      "eventLink": "https://store.lawnet.com/navigating-ai-workplace-fairness-and-workplace-investigations-hr-risk-management-for-in-house-counsel-oct-2026.html",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7906"
-    },
     {
       "id": 7892,
       "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 9: Managing Insolvencies and Risk Management+",
@@ -718,23 +701,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7836"
     },
     {
-      "id": 7816,
-      "title": "SCL(S) Conference 2026: Technology, Legal Innovation and Singapore’s Built Future",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-17",
-      "dateTo": "2026-11-17",
-      "venue": "M Hotel Singapore, Banquet Suite at Level 10, 81 Anson Road, Singapore 079908",
-      "organiser": "Society of Construction Law (Singapore)",
-      "practiceArea": "Building & Construction",
-      "mecSegment": "NA",
-      "ptsValue": 7.0,
-      "ptsType": "cpd",
-      "outline": "Industry leaders, legal experts & technologists examine how S'pore can harness digital innovation yet maintain robust legal safeguards. Through expert panels, case studies & debate, we explore the legal frontiers of Construction 4.0 to chart a course for continued excellence in the built environment sector. Sessions:\nThe Data Centre Boom\nDigital Contract Administration & Claims\nDigital Evidence & the Future of Construction Disputes\nIn AI We Trust? The Evidential Risks of Automating Project Records",
-      "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7816"
-    },
-    {
       "id": 7911,
       "title": "SCL(S) Conference 2026: Technology, Legal Innovation and Singapore’s Built Future",
       "mandatory": false,
@@ -750,6 +716,23 @@
       "outline": "Industry leaders, legal experts & technologists examine how S'pore can harness digital innovation yet maintain robust legal safeguards. Through expert panels, case studies & debate, we explore the legal frontiers of Construction 4.0 to chart a course for continued excellence in the built environment sector. Sessions: The Data Centre Boom, Digital Contract Administration & Claims, Digital Evidence & the Future of Construction Disputes, In AI We Trust? The Evidential Risks of Automating Project Records",
       "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422%20%207",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7911"
+    },
+    {
+      "id": 7816,
+      "title": "SCL(S) Conference 2026: Technology, Legal Innovation and Singapore’s Built Future",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-17",
+      "dateTo": "2026-11-17",
+      "venue": "M Hotel Singapore, Banquet Suite at Level 10, 81 Anson Road, Singapore 079908",
+      "organiser": "Society of Construction Law (Singapore)",
+      "practiceArea": "Building & Construction",
+      "mecSegment": "NA",
+      "ptsValue": 7.0,
+      "ptsType": "cpd",
+      "outline": "Industry leaders, legal experts & technologists examine how S'pore can harness digital innovation yet maintain robust legal safeguards. Through expert panels, case studies & debate, we explore the legal frontiers of Construction 4.0 to chart a course for continued excellence in the built environment sector. Sessions:\nThe Data Centre Boom\nDigital Contract Administration & Claims\nDigital Evidence & the Future of Construction Disputes\nIn AI We Trust? The Evidential Risks of Automating Project Records",
+      "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7816"
     },
     {
       "id": 7928,
@@ -1056,6 +1039,40 @@
       "outline": "This seminar examines how sustainability, investment, economic security, and technological change are reshaping international economic law and legal practice.",
       "eventLink": "https://smula.smu.edu.sg/261204?newsletter",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8014"
+    },
+    {
+      "id": 8009,
+      "title": "[WEBINAR] Global and Regional AI Governance and Regulation, and the Role of Data Protection in AI",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-12-09",
+      "dateTo": "2026-12-09",
+      "venue": "Webinar",
+      "organiser": "Singapore Management University",
+      "practiceArea": "Telecommunications, Media & Technology",
+      "mecSegment": "NA",
+      "ptsValue": 2.0,
+      "ptsType": "cpd",
+      "outline": "In this 2-hour webinar, participants will be exposed to: (a) an overview of AI governance and regulation and some of the key considerations that shape it; (b) A comparative scan of AI regulatory approaches in five regions, namely US, EU, China, the rest of APAC and Singapore, as well as takeaways for Singapore; and (c) The use of data protection law as a regulatory tool for AI (especially generative AI).",
+      "eventLink": "https://smula.smu.edu.sg/261209?newsletter",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8009"
+    },
+    {
+      "id": 7837,
+      "title": "LawNet Training Workshop (9 December 2026)",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-12-09",
+      "dateTo": "2026-12-09",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Professional Skills",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This training workshop guides attendees through the new features and functionalities of LawNet.com. Through walkthroughs and hands-on exercises, participants will learn how to use the revamped platform efficiently",
+      "eventLink": "https://store.lawnet.com/lawnet-training-workshop-09-december-2026.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7837"
     }
   ]
 }
