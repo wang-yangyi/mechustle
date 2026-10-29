@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-10-28T03:41:14.251325+00:00",
-  "count": 63,
+  "generatedAt": "2026-10-29T04:01:26.916212+00:00",
+  "count": 62,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7892,
-      "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 9: Managing Insolvencies and Risk Management+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-28",
-      "dateTo": "2026-10-29",
-      "venue": "Singapore Management University",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 6.0,
-      "ptsType": "cpd",
-      "outline": "This module deals with the practical aspects of managing risks in the context of insolvency laws which insolvency practitioners (IPs), such as accountants and lawyers, face when they are appointed.",
-      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-ipas-advanced-certificate-insolvency-and-restructuring-module-9-managing?newsletter=",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7892"
-    },
-    {
-      "id": 8038,
-      "title": "Dentons Rodyk Dialogue 2026 - The Singapore Story: Attracting Global Capital, Preserving Trusted Growth",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-10-28",
-      "dateTo": "2026-10-28",
-      "venue": "Singapore Management University Hall 3,  Basement 1, SMU Yong Pung How School of Law 55 Armenian Street, Singapore 179943",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "The dialogue examines how Singapore has built a deliberate ecosystem of policies and initiatives to attract foreign direct investment and high net worth individuals who contribute to real economic activity, while maintaining stringent regulatory standards. As Singapore positions itself as a launchpad for regional expansion, preserving its integrity becomes equally important, which requires balancing pro-business initiatives with robust anti-money laundering safeguards.",
-      "eventLink": "https://site.smu.edu.sg/dentons-rodyk-dialogue-2026",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8038"
-    },
     {
       "id": 7944,
       "title": "CML Seminar Series: Who Should Pay When AI Goes Wrong? Producer Liability for Autonomous Ships under English Law",
@@ -189,6 +155,23 @@
       "outline": "A hands-on workshop on the Microsoft Word features lawyers need to draft, review and finalise legal documents accurately. Participants will learn to use Styles, automatic numbering, tables of contents and cross-references, and to fix common formatting problems. The session also covers the confidentiality risks of tracked changes, comments and hidden metadata, how to clean documents before sending them out, and why sound Word skills should come before using AI tools in drafting.",
       "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8034",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8034"
+    },
+    {
+      "id": 8082,
+      "title": "Strategic Conflict Management for Professionals (SCMP) Module 1+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-02",
+      "dateTo": "2026-11-03",
+      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 15.0,
+      "ptsType": "cpd",
+      "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions. You will learn about the nature of conflicts and the most effective techniques to manage them.",
+      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8082"
     },
     {
       "id": 7893,
@@ -514,23 +497,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7477"
     },
     {
-      "id": 8050,
-      "title": "[WEBINAR] Navigating Appointments, Conflicts and Fees in R&I Practice: Ethical and Professional Challenges",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-11-11",
-      "dateTo": "2026-11-11",
-      "venue": "Webinar",
-      "organiser": "Insolvency Practitioners Association of Singapore",
-      "practiceArea": "Mandatory Ethics Component (MEC)",
-      "mecSegment": "NA",
-      "ptsValue": 2.5,
-      "ptsType": "mec",
-      "outline": "Appointments, conflicts and fees raise ethical, professional and practical questions in restructuring and insolvency practice. This course will explore the considerations that arise when practitioners take on appointments, manage potential conflicts and address fee arrangements. It will consider how professional obligations and practical realities intersect, and provide a forum for reflecting on the challenges practitioners may encounter in work.",
-      "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/REhzd296MWxQNDIxdm14aU56dms4QT09/cGNGUmcwcTIxZUVFckdJaFZjQUFtdz09",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8050"
-    },
-    {
       "id": 7960,
       "title": "[WEBINAR] Adjudication Insights 2026 - Recent Developments and Recurring Issues Under the Security of Payment Regime",
       "mandatory": false,
@@ -546,6 +512,23 @@
       "outline": "This seminar provides a considered update on recent adjudication determinations and review decisions under the SOP Act. Drawing on a detailed commentary of AA and ARA decisions handed down over the past year, the session examines the reasoning underlying these decisions, identifies points of divergence between adjudicators, and offers a view on where the law may be expected to develop.",
       "eventLink": "https://store.lawnet.com/adjudication-insights-2026-recent-developments-and-recurring-issues-under-the-security-of-payment-regime.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7960"
+    },
+    {
+      "id": 8050,
+      "title": "[WEBINAR] Navigating Appointments, Conflicts and Fees in R&I Practice: Ethical and Professional Challenges",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-11-11",
+      "dateTo": "2026-11-11",
+      "venue": "Webinar",
+      "organiser": "Insolvency Practitioners Association of Singapore",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "mec",
+      "outline": "Appointments, conflicts and fees raise ethical, professional and practical questions in restructuring and insolvency practice. This course will explore the considerations that arise when practitioners take on appointments, manage potential conflicts and address fee arrangements. It will consider how professional obligations and practical realities intersect, and provide a forum for reflecting on the challenges practitioners may encounter in work.",
+      "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/REhzd296MWxQNDIxdm14aU56dms4QT09/cGNGUmcwcTIxZUVFckdJaFZjQUFtdz09",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8050"
     },
     {
       "id": 7947,
@@ -733,6 +716,23 @@
       "outline": "Industry leaders, legal experts & technologists examine how S'pore can harness digital innovation yet maintain robust legal safeguards. Through expert panels, case studies & debate, we explore the legal frontiers of Construction 4.0 to chart a course for continued excellence in the built environment sector. Sessions:\nThe Data Centre Boom\nDigital Contract Administration & Claims\nDigital Evidence & the Future of Construction Disputes\nIn AI We Trust? The Evidential Risks of Automating Project Records",
       "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7816"
+    },
+    {
+      "id": 8074,
+      "title": "[WEBINAR] Specialist Arbitration Series: Cryptocurrency Arbitrations (Virtual Edition)",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-11-18",
+      "dateTo": "2026-11-18",
+      "venue": "Webinar",
+      "organiser": "Singapore International Arbitration Centre",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "The SIAC Academy Specialist Arbitration Series seeks to spotlight different areas of arbitration disputes, the major stakeholders, contractual relationships, key legal principles and types of claims and defences that are typically brought in that area, as well as the strategic considerations to note in each stage of the arbitration for that particular area of dispute. In the third instalment of this series, we focus on Cryptocurrency Disputes.",
+      "eventLink": "https://siac.org.sg/event/specialist-arbitration-series-cryptocurrency-arbitrations-virtual-edition",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8074"
     },
     {
       "id": 7928,
@@ -954,23 +954,6 @@
       "outline": "The Global Rule of Law Conference 2026 (24-26 Nov 2026) brings together judicial leaders, policymakers, practitioners and scholars to explore how the Rule of Law shapes resilient societies and drives sustainable economic growth.",
       "eventLink": "https://events.sal.sg/event/GlobalRuleofLawConference2026/%20%20",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7975"
-    },
-    {
-      "id": 7342,
-      "title": "Pillars of Compliance Frameworks & Internal Controls+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-26",
-      "dateTo": "2026-11-27",
-      "venue": "National University of Singapore (Kent Ridge Campus)",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 14.0,
-      "ptsType": "cpd",
-      "outline": "This course provides a foundational understanding of compliance frameworks and internal controls, focusing on designing, implementing, and continuously improving effective compliance programs. Participants will explore real-world case studies to analyze compliance failures, apply best practices, and learn actionable tools. Through interactive discussions and hands-on activities, participants will gain the tools and insights needed to build or enhance compliance systems in their organizations.",
-      "eventLink": "https://law.nus.edu.sg/nuslawacademy/intensive-courses/pillars-of-compliance-frameworks-and-internal-controls/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7342"
     },
     {
       "id": 8035,
