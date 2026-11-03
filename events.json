@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-11-02T03:59:47.744155+00:00",
-  "count": 52,
+  "generatedAt": "2026-11-03T05:00:47.998050+00:00",
+  "count": 49,
   "errorCount": 0,
   "events": [
-    {
-      "id": 8034,
-      "title": "[Practice Made Perfect Series] Word First, AI Later: Mastering Microsoft Word for Legal Documents",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-02",
-      "dateTo": "2026-11-02",
-      "venue": "ISCA House Function Room 3-4",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "NA",
-      "ptsValue": 3.5,
-      "ptsType": "cpd",
-      "outline": "A hands-on workshop on the Microsoft Word features lawyers need to draft, review and finalise legal documents accurately. Participants will learn to use Styles, automatic numbering, tables of contents and cross-references, and to fix common formatting problems. The session also covers the confidentiality risks of tracked changes, comments and hidden metadata, how to clean documents before sending them out, and why sound Word skills should come before using AI tools in drafting.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8034",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8034"
-    },
-    {
-      "id": 8082,
-      "title": "Strategic Conflict Management for Professionals (SCMP) Module 1+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-02",
-      "dateTo": "2026-11-03",
-      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 15.0,
-      "ptsType": "cpd",
-      "outline": "Strategic Conflict Management for Professionals Module 1 is an intensive two-day training programme to learn the foundations of interest-based mediation which focuses on the disputing parties’ interests and encourages a broader range of solutions. You will learn about the nature of conflicts and the most effective techniques to manage them.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8082"
-    },
     {
       "id": 7893,
       "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 11: Capstone - Integrating the Concepts+",
@@ -310,23 +276,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8075"
     },
     {
-      "id": 8063,
-      "title": "Insurance Law Forum 2026",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-10",
-      "dateTo": "2026-11-10",
-      "venue": "CapitaSpring L20 Multifunction Hall, 8 Market Street, Singapore 048948",
-      "organiser": "See Event Outline",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 2.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Singapore Insurance Institute. Insurance Law Forum 2026 gathers leading insurance disputes practitioners to examine recent court decisions reshaping insurance coverage and claims. Four short talks cover business interruption cover, arbitration clauses and contractual time bars, insurer and broker liability, and digital-asset recovery, followed by a moderated panel on emerging risks in fraud, cyber and AI. For claims handlers, brokers, underwriters and loss adjusters.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8063",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8063"
-    },
-    {
       "id": 7477,
       "title": "JLP - Advising Clients on Deal Structures",
       "mandatory": false,
@@ -427,23 +376,6 @@
       "outline": "Step into the world of artificial intelligence with this practical, in-person workshop designed specifically for legal professionals. Gain foundational skills and the confidence to apply AI in your everyday work—from legal research to drafting and contract analysis. Guided by experienced trainers, you'll explore how to evaluate and use a range of general and legal-specific AI tools effectively and responsibly. Participants will work directly on their own devices with live support, ensuring a hands-on, outcome-focused learning experience.",
       "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7800"
-    },
-    {
-      "id": 7812,
-      "title": "[WEBINAR & IN-PERSON] Mediation Advocacy Skills+",
-      "mandatory": false,
-      "format": "Hybrid",
-      "dateFrom": "2026-11-12",
-      "dateTo": "2026-11-13",
-      "venue": "Webinar / 137 Amoy Street, Far East Square, #03-06, Singapore 049965",
-      "organiser": "See Event Outline",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 14.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Sage Mediation Institute for Leadership Education. As mediation gains prominence, advocates must stay updated and effective, not only in the courtroom but also at the mediation table. This workshop covers the thoughtful preparation needed for an advocate to prepare the client for an international mediation and how an advocate can engage effectively with counterparties and the mediator. Advocates who complete the full workshop may accredit themselves as IMI-Certified Mediation Advocates.",
-      "eventLink": "https://sagemediationinstitute.sg/advocacy/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7812"
     },
     {
       "id": 8036,
@@ -733,6 +665,23 @@
       "outline": "This event is organised by NUS Centre for International Law. Course participants will be exposed to historical documents such as the Treaty of Washington, the correspondence of the American and British Agents with their respective national capitals, various Protocols of the Tribunal’s Conferences, and private correspondence of various participants in the arbitration, and the diary of one of the arbitrators.",
       "eventLink": "https://cil.nus.edu.sg/event/training-course-on-the-alabama-claims-arbitration/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8040"
+    },
+    {
+      "id": 8076,
+      "title": "Key Data Protection Obligations",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-25",
+      "dateTo": "2026-11-25",
+      "venue": "RHTLaw Asia LLP, 16 Collyer Quay #08-00, Collyer Quay Centre, Singapore  049318",
+      "organiser": "See Event Outline",
+      "practiceArea": "Telecommunications, Media & Technology",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by RHT Academy Pte. Ltd. This session provides a practical overview of Singapore’s Personal Data Protection Act (PDPA), covering key obligations in collecting, using, disclosing, retaining and protecting personal data. It will also address common compliance challenges, data breaches and incident response, with practical examples to help DPOs, in-house counsel and CISOs identify and manage data protection risks.",
+      "eventLink": "https://www.vrseasia.com/event-details/key-data-protection-obligations",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8076"
     },
     {
       "id": 8011,
