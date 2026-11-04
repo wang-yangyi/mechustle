@@ -1,76 +1,8 @@
 {
-  "generatedAt": "2026-11-03T05:00:47.998050+00:00",
-  "count": 49,
+  "generatedAt": "2026-11-04T04:32:23.513504+00:00",
+  "count": 46,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7893,
-      "title": "SMU-IPAS Advanced Certificate in Insolvency and Restructuring Module 11: Capstone - Integrating the Concepts+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-03",
-      "dateTo": "2026-11-05",
-      "venue": "Singapore Management University",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Corporate / Commercial",
-      "mecSegment": "NA",
-      "ptsValue": 6.0,
-      "ptsType": "cpd",
-      "outline": "This module will integrate and provide a coherent overview of the various insolvency and restructuring concepts, knowledge and tools taught in Modules 1 to 10 of the SMU-IPAS Graduate Certificate in Insolvency and Restructuring through a combination of lecture and case study.",
-      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-smu-ipas-graduate-certificate-insolvency-and-restructuring-module-11-capstone?newsletter=",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7893"
-    },
-    {
-      "id": 8069,
-      "title": "[WEBINAR] Annual CPD Day 2026 (Part 2)+",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-11-03",
-      "dateTo": "2026-11-04",
-      "venue": "Webinar",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Others/Multi-disciplinary",
-      "mecSegment": "Yes",
-      "ptsValue": 4.0,
-      "ptsType": "mec",
-      "outline": "The Law Society’s 16th Annual CPD Day, first held in 2011, returns with Part 2 as live webinars on 3 and 4 November 2026. Attend either half-day or both to earn CPD and MEC points. Topics include AML, civil litigation, employment law, ESG, third party funding, sentencing updates, complaints against lawyers, and affidavit drafting.",
-      "eventLink": "https://reg.eventnook.com/event/u77995",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8069"
-    },
-    {
-      "id": 7434,
-      "title": "LES Singapore Basic Licensing Course 2026+",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-03",
-      "dateTo": "2026-11-04",
-      "venue": "IPOS International",
-      "organiser": "IP Academy (Singapore)",
-      "practiceArea": "Intellectual Property",
-      "mecSegment": "NA",
-      "ptsValue": 13.0,
-      "ptsType": "cpd",
-      "outline": "Understand aspects of the licensing of intellectual property (IP) – particularly for trade marks, copyright, patents, and registered designs – at the LES Singapore Basic Licensing Course 2026! Organised together with the Licensing Executives Society (Singapore), our programme will cover the various principles and procedures involved in licensing negotiations. Learn how to effectively apply them in practice, through a “hands-on” scenario.",
-      "eventLink": "https://iposinternational.com/academy/enterprises-individuals/les-singapore-basic-licensing-course_362",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7434"
-    },
-    {
-      "id": 8033,
-      "title": "[Practice Made Perfect Series] Smarter Calculations, Clearer Data: Microsoft Excel for Legal Professionals",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-03",
-      "dateTo": "2026-11-03",
-      "venue": "ISCA House Function Room 3-4",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "A hands-on workshop to build confidence with Microsoft Excel using data sets common in legal work. Participants will learn basic navigation, essential formulas, formatting and best practices to reduce errors in calculations such as matrimonial asset divisions and fee budgets. The session covers how to find and remove hidden data and metadata that may expose confidential or personal data, and introduces Microsoft Copilot, including the risks of using AI on client data.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8033",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8033"
-    },
     {
       "id": 7546,
       "title": "[APCEL-EWBCLB Book Launch] The Oxford Handbook of Climate Change and Private Law",
@@ -123,23 +55,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8056"
     },
     {
-      "id": 8049,
-      "title": "Distinguished Visitor Lecture: Coded Power: How to End Digital Despotism and Reclaim Control over Our Data",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-05",
-      "dateTo": "2026-11-05",
-      "venue": "Wee Chong Jin Moot Court, NUS Law",
-      "organiser": "National University of Singapore Faculty of Law",
-      "practiceArea": "Data Protection & Privacy",
-      "mecSegment": "NA",
-      "ptsValue": 1.0,
-      "ptsType": "cpd",
-      "outline": "“Coded power” is control over the formal systems that organise society, through law or digital code. While such power can serve its creators’ interests, digital code and data control can fragment societies and weaken social cohesion. Digital despotism is not inevitable: participatory, shared data governance can give people collective control over how their data is accessed and used.",
-      "eventLink": "https://law.nus.edu.sg/ewbclb/events/distinguished-visitor-lecture-coded-power-how-to-end-digital-despotism-and-reclaim-control-over-our-data/%20",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8049"
-    },
-    {
       "id": 7820,
       "title": "[WEBINAR] Decarbonization of the International Maritime Sector: The IMO Regimes",
       "mandatory": false,
@@ -155,6 +70,23 @@
       "outline": "This webinar is organised by NUS - Centre for International Law. This module examines the legal, institutional, and policy foundations of maritime decarbonization. It explores the role of the IMO in regulating shipping emissions, the evolution of its climate strategy, and key regulatory measures aimed at achieving net-zero emissions. The session also considers emerging frameworks, alternative fuels, and challenges relating to equity, infrastructure, emissions accounting, and the effectiveness of international climate action in the maritime sector.",
       "eventLink": "https://cil.nus.edu.sg/event/climate-change-e-academy-july-to-november-2026/",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7820"
+    },
+    {
+      "id": 8049,
+      "title": "Distinguished Visitor Lecture: Coded Power: How to End Digital Despotism and Reclaim Control over Our Data",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-11-05",
+      "dateTo": "2026-11-05",
+      "venue": "Wee Chong Jin Moot Court, NUS Law",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Data Protection & Privacy",
+      "mecSegment": "NA",
+      "ptsValue": 1.0,
+      "ptsType": "cpd",
+      "outline": "“Coded power” is control over the formal systems that organise society, through law or digital code. While such power can serve its creators’ interests, digital code and data control can fragment societies and weaken social cohesion. Digital despotism is not inevitable: participatory, shared data governance can give people collective control over how their data is accessed and used.",
+      "eventLink": "https://law.nus.edu.sg/ewbclb/events/distinguished-visitor-lecture-coded-power-how-to-end-digital-despotism-and-reclaim-control-over-our-data/%20",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8049"
     },
     {
       "id": 7799,
@@ -293,23 +225,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7477"
     },
     {
-      "id": 7960,
-      "title": "[WEBINAR] Adjudication Insights 2026 - Recent Developments and Recurring Issues Under the Security of Payment Regime",
-      "mandatory": false,
-      "format": "Webinar / Online",
-      "dateFrom": "2026-11-11",
-      "dateTo": "2026-11-11",
-      "venue": "Webinar",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 3.0,
-      "ptsType": "cpd",
-      "outline": "This seminar provides a considered update on recent adjudication determinations and review decisions under the SOP Act. Drawing on a detailed commentary of AA and ARA decisions handed down over the past year, the session examines the reasoning underlying these decisions, identifies points of divergence between adjudicators, and offers a view on where the law may be expected to develop.",
-      "eventLink": "https://store.lawnet.com/adjudication-insights-2026-recent-developments-and-recurring-issues-under-the-security-of-payment-regime.html",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7960"
-    },
-    {
       "id": 8050,
       "title": "[WEBINAR] Navigating Appointments, Conflicts and Fees in R&I Practice: Ethical and Professional Challenges",
       "mandatory": false,
@@ -325,6 +240,23 @@
       "outline": "Appointments, conflicts and fees raise ethical, professional and practical questions in restructuring and insolvency practice. This course will explore the considerations that arise when practitioners take on appointments, manage potential conflicts and address fee arrangements. It will consider how professional obligations and practical realities intersect, and provide a forum for reflecting on the challenges practitioners may encounter in work.",
       "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/REhzd296MWxQNDIxdm14aU56dms4QT09/cGNGUmcwcTIxZUVFckdJaFZjQUFtdz09",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8050"
+    },
+    {
+      "id": 7960,
+      "title": "[WEBINAR] Adjudication Insights 2026 - Recent Developments and Recurring Issues Under the Security of Payment Regime",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-11-11",
+      "dateTo": "2026-11-11",
+      "venue": "Webinar",
+      "organiser": "Singapore Academy of Law (LES)",
+      "practiceArea": "Alternative Dispute Resolution",
+      "mecSegment": "NA",
+      "ptsValue": 3.0,
+      "ptsType": "cpd",
+      "outline": "This seminar provides a considered update on recent adjudication determinations and review decisions under the SOP Act. Drawing on a detailed commentary of AA and ARA decisions handed down over the past year, the session examines the reasoning underlying these decisions, identifies points of divergence between adjudicators, and offers a view on where the law may be expected to develop.",
+      "eventLink": "https://store.lawnet.com/adjudication-insights-2026-recent-developments-and-recurring-issues-under-the-security-of-payment-regime.html",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7960"
     },
     {
       "id": 7947,
@@ -835,6 +767,23 @@
       "outline": "This training workshop guides attendees through the new features and functionalities of LawNet.com. Through walkthroughs and hands-on exercises, participants will learn how to use the revamped platform efficiently",
       "eventLink": "https://store.lawnet.com/lawnet-training-workshop-09-december-2026.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7837"
+    },
+    {
+      "id": 7562,
+      "title": "[WEBINAR] E154: Anti-Money Laundering / Combating The Financing Of Terrorism (“AML / CFT”) Course",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-12-16",
+      "dateTo": "2026-12-16",
+      "venue": "Webinar",
+      "organiser": "See Event Outline",
+      "practiceArea": "Mandatory Ethics Component (MEC)",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "mec",
+      "outline": "This event is organised by Institute of Singapore Chartered Accountants (ISCA). The course is designed to enable RFAs to demonstrate knowledge and understanding of AML/CFT legislations, regulatory trends and developments in Singapore, knowledge and understanding of the AML/CFT environment in Singapore and international trends and typologies, knowledge and understanding of how to carry out risk assessment and conduct various types of customer due diligence, familiarity with ACRA Guidelines for RFAs and awareness of how ACRA’s Compliance review and inspections impact RFAs.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=7562",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7562"
     }
   ]
 }
