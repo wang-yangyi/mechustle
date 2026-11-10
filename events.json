@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T04:15:16.259712+00:00",
-  "count": 36,
+  "generatedAt": "2026-11-10T05:42:20.480750+00:00",
+  "count": 35,
   "errorCount": 0,
   "events": [
     {
@@ -461,23 +461,6 @@
       "outline": "The Global Rule of Law Conference 2026 (24-26 Nov 2026) brings together judicial leaders, policymakers, practitioners and scholars to explore how the Rule of Law shapes resilient societies and drives sustainable economic growth.",
       "eventLink": "https://events.sal.sg/event/GlobalRuleofLawConference2026/%20%20",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7975"
-    },
-    {
-      "id": 8035,
-      "title": "[Practice Made Perfect Series] Work Smarter: Microsoft Outlook & PowerPoint for Legal Professionals",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-27",
-      "dateTo": "2026-11-27",
-      "venue": "ISCA House Function Room 3-4",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "A two-in-one hands-on workshop on Microsoft Outlook and PowerPoint for legal practice. Participants will learn to manage email, calendars and tasks efficiently, apply settings that reduce misdirected emails and the disclosure of confidential client information, and track court dates and filing deadlines. The PowerPoint segment covers templates, layouts and visual aids, and how to protect client confidentiality in pitch and seminar decks.",
-      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8035",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8035"
     },
     {
       "id": 7802,
