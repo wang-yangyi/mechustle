@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-11-12T05:28:13.114223+00:00",
-  "count": 28,
+  "generatedAt": "2026-11-13T04:44:01.363697+00:00",
+  "count": 27,
   "errorCount": 0,
   "events": [
-    {
-      "id": 8081,
-      "title": "The Strait of Hormuz: Navigation, Sovereignty and Cooperation by Dr Reece Lewis",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-12",
-      "dateTo": "2026-11-12",
-      "venue": "Seminar Room 3-1, NUS Bukit Timah Campus, Block B, Level 3, 469 Bukit Timah Road, S259756",
-      "organiser": "See Event Outline",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by National University of Singapore - Centre for International Law. This lecture examines coastal sovereignty and navigation in the Strait of Hormuz, focusing on Oman, Iran and user States. It explores treaty and customary law, safety and environmental regulation, and the funding of maritime services. Drawing on shared cooperation in the Straits of Malacca and Singapore, it considers how coastal States, shipping interests and the IMO can work together to manage this strategic waterway while safeguarding navigational rights and respecting coastal State interests.",
-      "eventLink": "https://cil.nus.edu.sg/event/the-strait-of-hormuz-navigation-sovereignty-and-cooperation/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8081"
-    },
-    {
-      "id": 7800,
-      "title": "AI Workshop for Legal Professionals (12 November)",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-12",
-      "dateTo": "2026-11-12",
-      "venue": "SAL Premises, Level 7, The Adelphi #07-01, Singapore 179803",
-      "organiser": "Singapore Academy of Law (LES)",
-      "practiceArea": "Professional Skills",
-      "mecSegment": "NA",
-      "ptsValue": 2.5,
-      "ptsType": "cpd",
-      "outline": "Step into the world of artificial intelligence with this practical, in-person workshop designed specifically for legal professionals. Gain foundational skills and the confidence to apply AI in your everyday work—from legal research to drafting and contract analysis. Guided by experienced trainers, you'll explore how to evaluate and use a range of general and legal-specific AI tools effectively and responsibly. Participants will work directly on their own devices with live support, ensuring a hands-on, outcome-focused learning experience.",
-      "eventLink": "https://sal.org.sg/learn/lifted/training-roadmap",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7800"
-    },
     {
       "id": 8036,
       "title": "When Private Harm Becomes Public Wrong: Family Violence at the Intersection of Family Law and Criminal Law",
@@ -461,6 +427,23 @@
       "outline": "This training workshop guides attendees through the new features and functionalities of LawNet.com. Through walkthroughs and hands-on exercises, participants will learn how to use the revamped platform efficiently",
       "eventLink": "https://store.lawnet.com/lawnet-training-workshop-09-december-2026.html",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7837"
+    },
+    {
+      "id": 8078,
+      "title": "The Good, The Bad and The Ugly of Artificial Intelligence: Governance and Liability+",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-12-10",
+      "dateTo": "2026-12-11",
+      "venue": "Wee Chong Jin Moot Court, National University of Singapore, Faculty of Law, 16 College Avenue West Singapore 138527",
+      "organiser": "National University of Singapore Faculty of Law",
+      "practiceArea": "Telecommunications, Media & Technology",
+      "mecSegment": "NA",
+      "ptsValue": 13.5,
+      "ptsType": "cpd",
+      "outline": "AI offers significant benefits across sectors but also raises complex ethical, governance, and liability challenges. This 2-day conference brings together academic and industry experts to examine how governance, liability frameworks can promote responsible and fair AI. It explores global and national approaches, the application of existing and new legal principles, and appropriate remedies when AI-enabled products or services cause harm, emphasising the need for multi-stakeholder collaboration.",
+      "eventLink": "https://law.nus.edu.sg/trail/trailaidec2026-home/",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8078"
     },
     {
       "id": 7562,
