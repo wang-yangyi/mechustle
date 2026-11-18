@@ -1,42 +1,8 @@
 {
-  "generatedAt": "2026-11-17T06:10:42.136916+00:00",
-  "count": 25,
+  "generatedAt": "2026-11-18T05:38:56.326959+00:00",
+  "count": 23,
   "errorCount": 0,
   "events": [
-    {
-      "id": 8110,
-      "title": "CIL’s Dialogue with Cuban Ambassador Lisbet Quesada Luna",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-17",
-      "dateTo": "2026-11-17",
-      "venue": "NUS Blukit Timah Road, Block B, 469 Bukit Timah Road, Singapore 259756",
-      "organiser": "See Event Outline",
-      "practiceArea": "International Law",
-      "mecSegment": "NA",
-      "ptsValue": 1.5,
-      "ptsType": "cpd",
-      "outline": "This event is organised by National University of Singapore - Centre for International Law. Talk with Cuban Ambassador Lisbet Quesada Luna on the U.S. Embargo Against Cuba and International Law.",
-      "eventLink": "https://cil.nus.edu.sg/event/cils-dialogue-with-cuban-ambassador-lisbet-quesada-luna/",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8110"
-    },
-    {
-      "id": 7911,
-      "title": "SCL(S) Conference 2026: Technology, Legal Innovation and Singapore’s Built Future",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-17",
-      "dateTo": "2026-11-17",
-      "venue": "M Hotel Singapore, Banquet Suite at Level 10, 81 Anson Road, Singapore 079908",
-      "organiser": "Society of Construction Law (Singapore)",
-      "practiceArea": "Building & Construction",
-      "mecSegment": "Yes",
-      "ptsValue": 4.0,
-      "ptsType": "mec",
-      "outline": "Industry leaders, legal experts & technologists examine how S'pore can harness digital innovation yet maintain robust legal safeguards. Through expert panels, case studies & debate, we explore the legal frontiers of Construction 4.0 to chart a course for continued excellence in the built environment sector. Sessions: The Data Centre Boom, Digital Contract Administration & Claims, Digital Evidence & the Future of Construction Disputes, In AI We Trust? The Evidential Risks of Automating Project Records",
-      "eventLink": "https://scl.org.sg/events-main/upcoming-events/icalrepeat.detail/2026/11/17/422%20%207",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7911"
-    },
     {
       "id": 8074,
       "title": "[WEBINAR] Specialist Arbitration Series: Cryptocurrency Arbitrations (Virtual Edition)",
@@ -225,23 +191,6 @@
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8076"
     },
     {
-      "id": 8011,
-      "title": "What Every Lawyer Should Know About International Tax 2026",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-25",
-      "dateTo": "2026-11-25",
-      "venue": "Singapore Management University",
-      "organiser": "Singapore Management University",
-      "practiceArea": "Tax",
-      "mecSegment": "Yes",
-      "ptsValue": 0.5,
-      "ptsType": "mec",
-      "outline": "As a legal counsel, it is more important than ever to have a high-level understanding of the international tax structures and concepts underpinning your clients' corporate structure and transactions.\n\nThrough this masterclass, participants will be equipped with solid insight and understanding of the relevant international tax fundamentals to holistically understand their clients' structures and considerations.",
-      "eventLink": "https://smula.smu.edu.sg/newsletter/smula-261125?newsletter",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8011"
-    },
-    {
       "id": 7970,
       "title": "[WEBINAR] ALB Structuring Private Equity Deals Masterclass 2026+",
       "mandatory": false,
@@ -359,6 +308,23 @@
       "outline": "This event is organised by A.B. Maximus & Co. Pte Ltd. The Guide for Using Generative AI in the Legal Sector provides guidance for contract and document reviews. This webinar dives into the AI tools to use when the document is of a financial nature. The lawyers on the panel will share how they analyse financial statements for litigation and transactions work. Accountant and AI engineer Andrew will provide insights on the AI tools for financial and other analyses of financial statements for, inter alia, detecting discrepancies and fraud.",
       "eventLink": "https://www.abmaximus.com/sile-aiforfs",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8090"
+    },
+    {
+      "id": 8095,
+      "title": "[WEBINAR] Navigating Issues in Bankruptcy Proceedings Including Asset Recovery and Clawbacks under the IRDA",
+      "mandatory": false,
+      "format": "Webinar / Online",
+      "dateFrom": "2026-12-08",
+      "dateTo": "2026-12-08",
+      "venue": "Webinar",
+      "organiser": "Insolvency Practitioners Association of Singapore",
+      "practiceArea": "Corporate / Commercial",
+      "mecSegment": "NA",
+      "ptsValue": 2.5,
+      "ptsType": "cpd",
+      "outline": "This seminar explores asset recovery in personal insolvency under the IRDA, including jointly owned property, matrimonial asset distributions, transactions at an undervalue and unfair preferences. It examines key procedural and substantive issues in bankruptcy proceedings, drawing on recent Singapore decisions to explain how courts balance creditors’ interests against those of affected parties and the implications for practitioners and trustees.",
+      "eventLink": "https://www.ipas.org.sg/eventDetails/workshop/eitST21zcDlwTVAxckRsajZ5dUw3UT09/RlBtOG9sWFNIM3p5dXVORkhVYytndz09",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8095"
     },
     {
       "id": 8009,
