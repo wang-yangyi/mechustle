@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-11-20T05:25:21.097782+00:00",
-  "count": 19,
+  "generatedAt": "2026-11-21T05:17:10.054808+00:00",
+  "count": 18,
   "errorCount": 0,
   "events": [
-    {
-      "id": 8027,
-      "title": "ESG Conference",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-20",
-      "dateTo": "2026-11-20",
-      "venue": "SMU Ngee Ann Kongsi Auditorium 60 Stamford Rd, Singapore 178900",
-      "organiser": "The Law Society of Singapore",
-      "practiceArea": "Others/Multi-disciplinary",
-      "mecSegment": "Yes",
-      "ptsValue": 1.0,
-      "ptsType": "mec",
-      "outline": "This conference opens with a Fireside Chat with Minister Indranee Rajah, followed by expert sessions with regulators, sustainability and finance professionals and lawyers. Topics: sustainable finance beyond compliance; capital projects and infrastructure in the energy transition; carbon markets and the legal nature of carbon credits; and sustainability reporting.",
-      "eventLink": "https://reg.eventnook.com/event/esgconf2026",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8027"
-    },
     {
       "id": 8112,
       "title": "[WEBINAR] The (UN)Visible United Nations: CIL Webinar Series Episode 3: Peace and Security at the United Nations: The Reality",
