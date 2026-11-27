@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T06:30:31.707006+00:00",
-  "count": 14,
+  "generatedAt": "2026-11-27T06:20:24.545869+00:00",
+  "count": 15,
   "errorCount": 0,
   "events": [
     {
@@ -53,6 +53,23 @@
       "outline": "The Accelerated Route to Fellowship has been designed for busy professionals who have substantial unassessed knowledge and experience of International Arbitration. The aim of the programme is to assess whether the candidate has the knowledge required to apply the principles and procedure of International Arbitration using arbitration legislation based on the UNCITRAL Model Law and Arbitration Rules and is capable of writing a reasoned and enforceable International Arbitration Award.",
       "eventLink": "https://ciarbsingapore.wildapricot.org/event-6857570",
       "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8060"
+    },
+    {
+      "id": 8121,
+      "title": "From Principle to Practice: Strategic Environmental Assessment and the Implementation of Ecosystem-Based Ocean Governance under the BBNJ Agreement by Professor Dr Vito De Lucia",
+      "mandatory": false,
+      "format": "In-person",
+      "dateFrom": "2026-12-02",
+      "dateTo": "2026-12-02",
+      "venue": "Classroom 3-5 @ NUS Bukit Timah Campas. Block B, Level 3, 469 Bukit Timah Road, S259756",
+      "organiser": "See Event Outline",
+      "practiceArea": "International Law",
+      "mecSegment": "NA",
+      "ptsValue": 1.5,
+      "ptsType": "cpd",
+      "outline": "This event is organised by National University of Singapore - Centre for International Law. This paper examines how strategic environmental assessment (SEA) can advance ecosystem-based ocean governance under the BBNJ Agreement. It traces the drafting history, analyses the adopted provisions and their links to environmental impact assessment, and explores implementation pathways. It considers the roles of the Conference of the Parties and the Scientific and Technical Body, tensions between their mandates, and the risk that SEA is sidelined by other implementation priorities.",
+      "eventLink": "https://www.silecpdcentre.sg/EventDetails/?EventID=8121",
+      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=8121"
     },
     {
       "id": 8099,
