@@ -1,25 +1,8 @@
 {
-  "generatedAt": "2026-11-27T06:20:24.545869+00:00",
-  "count": 15,
+  "generatedAt": "2026-11-28T05:58:12.126070+00:00",
+  "count": 14,
   "errorCount": 0,
   "events": [
-    {
-      "id": 7802,
-      "title": "APIEx Symposium 2026 - Expert Evidence in Action: From Appointment to Impact in Arbitration and Litigation",
-      "mandatory": false,
-      "format": "In-person",
-      "dateFrom": "2026-11-27",
-      "dateTo": "2026-11-27",
-      "venue": "Singapore University of Social Sciences, 463 Clementi Road, Singapore 599494",
-      "organiser": "See Event Outline",
-      "practiceArea": "Alternative Dispute Resolution",
-      "mecSegment": "NA",
-      "ptsValue": 6.0,
-      "ptsType": "cpd",
-      "outline": "This event is organised by Asia Pacific Institute of Experts. Expert evidence often determines the outcome in complex disputes, yet tribunals continue to criticise how experts are selected, instructed & deployed. Poorly framed instructions, blurred independence and misaligned counsel/expert expectations undermine the strongest cases. Through keynote insights, panel discussions and mock engagements, dispute professionals explore the lifecycle of expert involvement, dissect real-world pitfalls, benchmark best practices and refine the lawyer–expert interface..",
-      "eventLink": "https://tinyurl.com/3fe622xx",
-      "detailUrl": "https://www.silecpdcentre.sg/EventDetails/?EventID=7802"
-    },
     {
       "id": 8094,
       "title": "Deploying Turnaround Tools in Private Capital Disputes: Conflicts, Solutions, and Exit Strategies in the US$1.8 billion DyStar Saga",
